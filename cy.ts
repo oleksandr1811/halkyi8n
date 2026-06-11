@@ -13693,7 +13693,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="62"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Fetch CurseForge API key&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Nôl allwedd API CurseForge&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="64"/>
