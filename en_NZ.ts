@@ -8903,4 +8903,252 @@ Please set up your account according to %1.</translation>
         <translation>Fetching Curseforge core API key (may take a few seconds)...</translation>
     </message>
 </context>
+
+<context>
+    <name>HalkyNavBar</name>
+    <message>
+        <source>Expand navigation</source>
+        <translation>Expand navigation</translation>
+    </message>
+    <message>
+        <source>Collapse navigation</source>
+        <translation>Collapse navigation</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Home</translation>
+    </message>
+    <message>
+        <source>Library</source>
+        <translation>Library</translation>
+    </message>
+    <message>
+        <source>Modpacks</source>
+        <translation>Modpacks</translation>
+    </message>
+    <message>
+        <source>Mods</source>
+        <translation>Mods</translation>
+    </message>
+    <message>
+        <source>Resource Packs</source>
+        <translation>Resource Packs</translation>
+    </message>
+    <message>
+        <source>Shaders</source>
+        <translation>Shaders</translation>
+    </message>
+    <message>
+        <source>Add Instance</source>
+        <translation>Add Instance</translation>
+    </message>
+    <message>
+        <source>Accounts</source>
+        <translation>Accounts</translation>
+    </message>
+    <message>
+        <source>Folders</source>
+        <translation>Folders</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Settings</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Help</translation>
+    </message>
+</context>
+
+<context>
+    <name>NewsPanel</name>
+    <message>
+        <source>News</source>
+        <translation>News</translation>
+    </message>
+    <message>
+        <source>More...</source>
+        <translation>More...</translation>
+    </message>
+    <message>
+        <source>No news available</source>
+        <translation>No news available</translation>
+    </message>
+    <message>
+        <source>Loading news...</source>
+        <translation>Loading news...</translation>
+    </message>
+</context>
+
+<context>
+    <name>HomePage</name>
+    <message>
+        <source>Welcome back, %1!</source>
+        <translation>Welcome back, %1!</translation>
+    </message>
+    <message>
+        <source>Playing as %1</source>
+        <translation>Playing as %1</translation>
+    </message>
+    <message>
+        <source>Welcome to Halky Launcher!</source>
+        <translation>Welcome to Halky Launcher!</translation>
+    </message>
+    <message>
+        <source>No account selected</source>
+        <translation>No account selected</translation>
+    </message>
+    <message>
+        <source>Recently Played</source>
+        <translation>Recently Played</translation>
+    </message>
+    <message>
+        <source>View All</source>
+        <translation>View All</translation>
+    </message>
+    <message>
+        <source>Last played: %1</source>
+        <translation>Last played: %1</translation>
+    </message>
+    <message>
+        <source>Never played</source>
+        <translation>Never played</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>Play</translation>
+    </message>
+    <message>
+        <source>+ Add Instance</source>
+        <translation>+ Add Instance</translation>
+    </message>
+    <message>
+        <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
+        <translation>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</translation>
+    </message>
+</context>
+
+<context>
+    <name>BrowsePage</name>
+    <message>
+        <source>Browse Modpacks</source>
+        <translation>Browse Modpacks</translation>
+    </message>
+    <message>
+        <source>Browse Mods</source>
+        <translation>Browse Mods</translation>
+    </message>
+    <message>
+        <source>Browse Resource Packs</source>
+        <translation>Browse Resource Packs</translation>
+    </message>
+    <message>
+        <source>Browse Shader Packs</source>
+        <translation>Browse Shader Packs</translation>
+    </message>
+    <message>
+        <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
+        <translation>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</translation>
+    </message>
+    <message>
+        <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
+        <translation>Search and install mods from Modrinth and CurseForge for a selected instance.</translation>
+    </message>
+    <message>
+        <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
+        <translation>Search and install resource packs from Modrinth and CurseForge for a selected instance.</translation>
+    </message>
+    <message>
+        <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
+        <translation>Search and install shader packs from Modrinth and CurseForge for a selected instance.</translation>
+    </message>
+    <message>
+        <source>Browse Modpacks...</source>
+        <translation>Browse Modpacks...</translation>
+    </message>
+    <message>
+        <source>Browse Mods...</source>
+        <translation>Browse Mods...</translation>
+    </message>
+    <message>
+        <source>Browse Resource Packs...</source>
+        <translation>Browse Resource Packs...</translation>
+    </message>
+    <message>
+        <source>Browse Shader Packs...</source>
+        <translation>Browse Shader Packs...</translation>
+    </message>
+    <message>
+        <source>For instance:</source>
+        <translation>For instance:</translation>
+    </message>
+    <message>
+        <source>Search...</source>
+        <translation>Search...</translation>
+    </message>
+    <message>
+        <source>No instances available</source>
+        <translation>No instances available</translation>
+    </message>
+    <message>
+        <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
+        <translation>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</translation>
+    </message>
+    <message>
+        <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
+        <translation>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</translation>
+    </message>
+</context>
+
+<context>
+    <name>OnboardingOverlay</name>
+    <message>
+        <source>Skip</source>
+        <translation>Skip</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Next</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation>Done</translation>
+    </message>
+    <message>
+        <source>%1 / %2</source>
+        <translation>%1 / %2</translation>
+    </message>
+    <message>
+        <source>Navigation Sidebar</source>
+        <translation>Navigation Sidebar</translation>
+    </message>
+    <message>
+        <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
+        <translation>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</translation>
+    </message>
+    <message>
+        <source>Add Instance</source>
+        <translation>Add Instance</translation>
+    </message>
+    <message>
+        <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
+        <translation>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</translation>
+    </message>
+    <message>
+        <source>Your Library</source>
+        <translation>Your Library</translation>
+    </message>
+    <message>
+        <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
+        <translation>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>News</translation>
+    </message>
+    <message>
+        <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
+        <translation>The News panel on the right shows the latest Halky Launcher updates and announcements.</translation>
+    </message>
+</context>
 </TS>
