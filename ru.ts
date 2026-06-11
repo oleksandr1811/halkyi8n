@@ -18694,4 +18694,30 @@ Please set up your account according to %1.</source>
         <translation type="vanished">Аутентификация пользователя Mojang не удалась из-за проблем с сетью.</translation>
     </message>
 </context>
+<context>
+    <name>FlameAPIKeyWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="62"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Fetch CurseForge API key&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Получить API-ключ CurseForge&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="64"/>
+        <source>Using the official CurseForge app&apos;s API key may break CurseForge&apos;s terms of service but should allow Halky Launcher to download all mods in a modpack without you needing to download any of them manually. This can be done later in the settings.</source>
+        <translation>Использование официального API-ключа приложения CurseForge может нарушить условия обслуживания CurseForge, но позволит Halky Launcher загружать все моды в сборке без необходимости скачивать их вручную. Это можно сделать позже в настройках.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
+        <source>Fetch Official Launcher&apos;s Key</source>
+        <translation>Получить ключ официального лаунчера</translation>
+    </message>
+</context>
+<context>
+    <name>FetchFlameAPIKey</name>
+    <message>
+        <location filename="src/launcher/net/FetchFlameAPIKey.cpp" line="65"/>
+        <source>Fetching Curseforge core API key (may take a few seconds)...</source>
+        <translation>Получение основного API-ключа Curseforge (может занять несколько секунд)...</translation>
+    </message>
+</context>
 </TS>

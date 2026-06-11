@@ -17556,4 +17556,30 @@ Por favor, configura tu cuenta como se indica en %1.</translation>
         <translation type="vanished">Hubo un error de red durante la autenticación de usuario de Mojang.</translation>
     </message>
 </context>
+<context>
+    <name>FlameAPIKeyWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="62"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Fetch CurseForge API key&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Obtener clave API de CurseForge&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="64"/>
+        <source>Using the official CurseForge app&apos;s API key may break CurseForge&apos;s terms of service but should allow Halky Launcher to download all mods in a modpack without you needing to download any of them manually. This can be done later in the settings.</source>
+        <translation>El uso de la clave API oficial de la aplicación CurseForge puede infringir los términos de servicio de CurseForge, pero debería permitir que Halky Launcher descargue todos los mods de un modpack sin que tengas que descargarlos manualmente. Esto se puede hacer más tarde en la configuración.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
+        <source>Fetch Official Launcher&apos;s Key</source>
+        <translation>Obtener clave del lanzador oficial</translation>
+    </message>
+</context>
+<context>
+    <name>FetchFlameAPIKey</name>
+    <message>
+        <location filename="src/launcher/net/FetchFlameAPIKey.cpp" line="65"/>
+        <source>Fetching Curseforge core API key (may take a few seconds)...</source>
+        <translation>Obteniendo la clave API principal de Curseforge (puede tardar unos segundos)...</translation>
+    </message>
+</context>
 </TS>

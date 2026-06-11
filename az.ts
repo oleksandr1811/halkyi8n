@@ -13892,4 +13892,30 @@ Hesabınızı %1 ə əsasən düzəldin.</translation>
         <translation>Xbox istifadəçi tokeni alındı</translation>
     </message>
 </context>
+<context>
+    <name>FlameAPIKeyWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="62"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Fetch CurseForge API key&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;CurseForge API açarını əldə et&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="64"/>
+        <source>Using the official CurseForge app&apos;s API key may break CurseForge&apos;s terms of service but should allow Halky Launcher to download all mods in a modpack without you needing to download any of them manually. This can be done later in the settings.</source>
+        <translation>Rəsmi CurseForge tətbiqinin API açarından istifadə CurseForge istifadə şərtlərini poza bilər, lakin Halky Launcher-a modpack-dakı bütün modları əl ilə yükləmədən yükləməyə icazə verməlidir. Bu, daha sonra parametrlərdə edilə bilər.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
+        <source>Fetch Official Launcher&apos;s Key</source>
+        <translation>Rəsmi launcherin açarını əldə et</translation>
+    </message>
+</context>
+<context>
+    <name>FetchFlameAPIKey</name>
+    <message>
+        <location filename="src/launcher/net/FetchFlameAPIKey.cpp" line="65"/>
+        <source>Fetching Curseforge core API key (may take a few seconds)...</source>
+        <translation>Curseforge əsas API açarı əldə edilir (bir neçə saniyə çəkə bilər)...</translation>
+    </message>
+</context>
 </TS>

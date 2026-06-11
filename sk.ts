@@ -16881,4 +16881,30 @@ Prosím nastavte si účet podľa %1.</translation>
         <translation type="vanished">Nastala neznáma &quot;Yggdrasil&quot; chyba.</translation>
     </message>
 </context>
+<context>
+    <name>FlameAPIKeyWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="62"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Fetch CurseForge API key&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Načítať API kľúč CurseForge&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="64"/>
+        <source>Using the official CurseForge app&apos;s API key may break CurseForge&apos;s terms of service but should allow Halky Launcher to download all mods in a modpack without you needing to download any of them manually. This can be done later in the settings.</source>
+        <translation>Použitie oficiálneho API kľúča aplikácie CurseForge môže porušovať podmienky služby CurseForge, ale malo by umožniť Halky Launcheru sťahovať všetky mody v modpacku bez toho, aby ste ich museli sťahovať ručne. Toto možno urobiť neskôr v nastaveniach.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
+        <source>Fetch Official Launcher&apos;s Key</source>
+        <translation>Načítať kľúč oficiálneho launchera</translation>
+    </message>
+</context>
+<context>
+    <name>FetchFlameAPIKey</name>
+    <message>
+        <location filename="src/launcher/net/FetchFlameAPIKey.cpp" line="65"/>
+        <source>Fetching Curseforge core API key (may take a few seconds)...</source>
+        <translation>Načítavanie hlavného API kľúča Curseforge (môže trvať niekoľko sekúnd)...</translation>
+    </message>
+</context>
 </TS>

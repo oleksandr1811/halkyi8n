@@ -15523,4 +15523,30 @@ Please set up your account according to %1.</source>
         <translation type="vanished">&lt;b&gt;SSL rankos paspaudimas nepavyko.&lt;/b&gt;&lt;br/&gt;Tai gali būti dėl kelių priežasčių:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Jūs naudojate „Windows“ ir turite atnaujinti šakninius sertifikatus. Įdiekite visus neišspręstus naujinimus .&lt;/li&gt;&lt;li&gt;Kai kuris jūsų tinklo įrenginys trikdo SSL srautą. Tokiu atveju turite didesnių rūpesčių nei „Minecraft“ nepasileidimas.&lt;/li&gt;&lt;li&gt;Galbūt dar kažkas. Išsamesnės informacijos ieškokite žurnalo faile&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
 </context>
+<context>
+    <name>FlameAPIKeyWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="62"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Fetch CurseForge API key&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;font-size:14pt; font-weight:600;&quot;&gt;Gauti CurseForge API raktą&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="64"/>
+        <source>Using the official CurseForge app&apos;s API key may break CurseForge&apos;s terms of service but should allow Halky Launcher to download all mods in a modpack without you needing to download any of them manually. This can be done later in the settings.</source>
+        <translation>Oficialios CurseForge programos API rakto naudojimas gali pažeisti CurseForge paslaugų teikimo sąlygas, tačiau turėtų leisti Halky Launcher atsisiųsti visas modifikacijas modpake be poreikio juos atsisiųsti rankiniu būdu. Tai galima padaryti vėliau nustatymuose.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
+        <source>Fetch Official Launcher&apos;s Key</source>
+        <translation>Gauti oficialaus palaistuvės raktą</translation>
+    </message>
+</context>
+<context>
+    <name>FetchFlameAPIKey</name>
+    <message>
+        <location filename="src/launcher/net/FetchFlameAPIKey.cpp" line="65"/>
+        <source>Fetching Curseforge core API key (may take a few seconds)...</source>
+        <translation>Atsisiunčiamas pagrindinis CurseForge API raktas (gali užtrukti kelias sekundes)...</translation>
+    </message>
+</context>
 </TS>
