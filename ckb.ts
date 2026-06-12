@@ -9317,4 +9317,20 @@ Please set up your account according to %1.</source>
         <translation>Netû</translation>
     </message>
 </context>
+
+<context>
+    <name>PageDialog</name>
+    <message>
+        <source>Apply &amp;&amp; Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Gerr...</translation>
+    </message>
+</context>
 </TS>

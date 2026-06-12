@@ -13738,4 +13738,12 @@ Please set up your account according to %1.</source>
         <translation>Шуурхай тохиргоо</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Хайх...</translation>
+    </message>
+</context>
 </TS>

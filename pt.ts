@@ -18252,4 +18252,12 @@ Por favor, configura a tua conta de acordo com %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

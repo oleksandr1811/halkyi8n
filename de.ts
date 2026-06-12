@@ -18914,4 +18914,12 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
         <translation>Schnelle Einrichtung</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Suchen...</translation>
+    </message>
+</context>
 </TS>

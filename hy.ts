@@ -13833,4 +13833,12 @@ Please set up your account according to %1.</source>
         <translation>Արագ կարգավորում</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Որոնել...</translation>
+    </message>
+</context>
 </TS>

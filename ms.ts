@@ -16179,4 +16179,12 @@ Sila sediakan akaun anda mengikut %1.</translation>
         <translation>Persediaan Pantas</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Cari...</translation>
+    </message>
+</context>
 </TS>

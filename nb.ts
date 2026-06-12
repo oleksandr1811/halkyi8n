@@ -16748,4 +16748,12 @@ Please set up your account according to %1.</source>
         <translation>Rask oppsett</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Søk...</translation>
+    </message>
+</context>
 </TS>

@@ -14588,4 +14588,12 @@ Please set up your account according to %1.</source>
         <translation>Fljótleg uppsetning</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Leita...</translation>
+    </message>
+</context>
 </TS>

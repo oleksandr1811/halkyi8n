@@ -15510,4 +15510,12 @@ Please set up your account according to %1.</source>
         <translation>Хуткая налада</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Пошук...</translation>
+    </message>
+</context>
 </TS>

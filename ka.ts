@@ -14132,4 +14132,12 @@ Please set up your account according to %1.</source>
         <translation>სწრაფი დაყენება</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>ძიება...</translation>
+    </message>
+</context>
 </TS>

@@ -18946,4 +18946,12 @@ Skonfiguruj swoje konto zgodnie z %1.</translation>
         <translation>Szybka konfiguracja</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Szukaj...</translation>
+    </message>
+</context>
 </TS>

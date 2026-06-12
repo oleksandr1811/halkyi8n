@@ -16386,4 +16386,12 @@ Please set up your account according to %1.</source>
         <translation>راه اندازی سریع</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>جستجو...</translation>
+    </message>
+</context>
 </TS>

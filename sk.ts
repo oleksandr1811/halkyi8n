@@ -17169,4 +17169,12 @@ Prosím nastavte si účet podľa %1.</translation>
         <translation>Rýchle nastavenie</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Hľadať...</translation>
+    </message>
+</context>
 </TS>

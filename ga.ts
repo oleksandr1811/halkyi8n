@@ -15895,4 +15895,12 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
         <translation>Socrú Tapa</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Cuardach...</translation>
+    </message>
+</context>
 </TS>

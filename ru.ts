@@ -18976,4 +18976,12 @@ Please set up your account according to %1.</source>
         <translation>Быстрая настройка</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Поиск...</translation>
+    </message>
+</context>
 </TS>

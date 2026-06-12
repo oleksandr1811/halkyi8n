@@ -17984,4 +17984,12 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
         <translation>Thiết lập nhanh</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Tìm kiếm...</translation>
+    </message>
+</context>
 </TS>

@@ -14755,4 +14755,12 @@ Molimo postavite svoj račun prema %1.</translation>
         <translation>Brzo postavljanje</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Pretraživanje...</translation>
+    </message>
+</context>
 </TS>

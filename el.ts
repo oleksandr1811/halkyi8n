@@ -15952,4 +15952,12 @@ Please set up your account according to %1.</source>
         <translation>Γρήγορη εγκατάσταση</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Ερευνα...</translation>
+    </message>
+</context>
 </TS>

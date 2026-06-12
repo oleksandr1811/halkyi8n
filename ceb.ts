@@ -14626,4 +14626,12 @@ Please set up your account according to %1.</source>
         <translation>Dali nga Setup</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Pangita...</translation>
+    </message>
+</context>
 </TS>

@@ -18724,4 +18724,12 @@ Please set up your account according to %1.</source>
         <translation>빠른 설정</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>찾다...</translation>
+    </message>
+</context>
 </TS>

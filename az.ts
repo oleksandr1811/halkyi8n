@@ -14174,4 +14174,12 @@ Hesabınızı %1 ə əsasən düzəldin.</translation>
         <translation>Tez Quraşdırma</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Axtar...</translation>
+    </message>
+</context>
 </TS>

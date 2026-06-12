@@ -13630,4 +13630,12 @@ Jekk jogħġbok stabbilixxi l-kont tiegħek skont %1.</translation>
         <translation>Setup ta &apos;malajr</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Fittex...</translation>
+    </message>
+</context>
 </TS>

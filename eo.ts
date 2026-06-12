@@ -15203,4 +15203,12 @@ Please set up your account according to %1.</source>
         <translation>Rapida Agordo</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Serĉu...</translation>
+    </message>
+</context>
 </TS>

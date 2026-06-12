@@ -18899,4 +18899,12 @@ Configure a sua conta conforme o %1.</translation>
         <translation>Configuração rápida</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Procurar...</translation>
+    </message>
+</context>
 </TS>

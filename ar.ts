@@ -17012,4 +17012,12 @@ Please set up your account according to %1.</source>
         <translation>الإعداد السريع</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>يبحث...</translation>
+    </message>
+</context>
 </TS>

@@ -18704,4 +18704,12 @@ Please set up your account according to %1.</source>
         <translation>Gyors beállítás</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Keresés...</translation>
+    </message>
+</context>
 </TS>

@@ -17715,4 +17715,12 @@ Säädä tilisi ohjeiden mukaan osoitteessa %1.</translation>
         <translation>Pika-asennus</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Haku...</translation>
+    </message>
+</context>
 </TS>

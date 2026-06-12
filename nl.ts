@@ -18485,4 +18485,12 @@ Stel uw account in volgens %1.</translation>
         <translation>Snelle installatie</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Zoekopdracht...</translation>
+    </message>
+</context>
 </TS>

@@ -18038,4 +18038,12 @@ Mohon atur akun anda menurut %1.</translation>
         <translation>Pengaturan Cepat</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Mencari...</translation>
+    </message>
+</context>
 </TS>

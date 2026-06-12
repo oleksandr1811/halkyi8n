@@ -13732,4 +13732,12 @@ Please set up your account according to %1.</source>
         <translation>দ্রুত সেটআপ</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>অনুসন্ধান করুন...</translation>
+    </message>
+</context>
 </TS>

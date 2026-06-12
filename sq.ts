@@ -13693,4 +13693,12 @@ Please set up your account according to %1.</source>
         <translation>Konfigurimi i shpejtë</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Kërko...</translation>
+    </message>
+</context>
 </TS>

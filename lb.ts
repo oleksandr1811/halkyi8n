@@ -14161,4 +14161,12 @@ Please set up your account according to %1.</source>
         <translation>Quick Setup</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Sichen ...</translation>
+    </message>
+</context>
 </TS>

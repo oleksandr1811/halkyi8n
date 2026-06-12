@@ -13762,4 +13762,12 @@ Please set up your account according to %1.</source>
         <translation>Жылдам орнату</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Іздеу...</translation>
+    </message>
+</context>
 </TS>

@@ -13800,4 +13800,12 @@ Please set up your account according to %1.</source>
         <translation>Tez sozlash</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Qidiruv...</translation>
+    </message>
+</context>
 </TS>

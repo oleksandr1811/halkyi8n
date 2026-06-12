@@ -15699,4 +15699,12 @@ Please set up your account according to %1.</source>
         <translation>Ātrā iestatīšana</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Meklēt...</translation>
+    </message>
+</context>
 </TS>

@@ -18810,4 +18810,12 @@ Nastavte prosím svůj účet podle %1.</translation>
         <translation>Rychlé nastavení</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Vyhledávání...</translation>
+    </message>
+</context>
 </TS>

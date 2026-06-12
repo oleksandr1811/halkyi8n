@@ -13707,4 +13707,12 @@ Please set up your account according to %1.</source>
         <translation>Vinnige opstelling</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Soek...</translation>
+    </message>
+</context>
 </TS>

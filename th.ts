@@ -15725,4 +15725,12 @@ Please set up your account according to %1.</source>
         <translation>การติดตั้งอย่างรวดเร็ว</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>ค้นหา...</translation>
+    </message>
+</context>
 </TS>

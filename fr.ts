@@ -18854,4 +18854,12 @@ Veuillez configurer votre compte selon %1.</translation>
         <translation>Configuration rapide</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Recherche...</translation>
+    </message>
+</context>
 </TS>

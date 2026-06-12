@@ -18763,4 +18763,12 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
         <translation>Hızlı Kurulum</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Aramak...</translation>
+    </message>
+</context>
 </TS>

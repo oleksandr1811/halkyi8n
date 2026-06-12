@@ -13593,4 +13593,12 @@ Please set up your account according to %1.</source>
         <translation>ការដំឡើងរហ័ស</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>ស្វែងរក...</translation>
+    </message>
+</context>
 </TS>

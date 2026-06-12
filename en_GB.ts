@@ -18879,4 +18879,12 @@ Please set up your account according to %1.</translation>
         <translation>Quick Setup</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Search...</translation>
+    </message>
+</context>
 </TS>

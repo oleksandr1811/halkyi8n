@@ -14613,4 +14613,12 @@ Please set up your account according to %1.</source>
         <translation>Куицк Сетуп</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Тражи...</translation>
+    </message>
+</context>
 </TS>

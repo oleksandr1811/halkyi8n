@@ -18172,4 +18172,12 @@ Please set up your account according to %1.</source>
         <translation>クイックセットアップ</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>検索...</translation>
+    </message>
+</context>
 </TS>

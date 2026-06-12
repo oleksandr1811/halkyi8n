@@ -15952,4 +15952,12 @@ Please set up your account according to %1.</source>
         <translation>விரைவு அமைவு</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>தேடு...</translation>
+    </message>
+</context>
 </TS>

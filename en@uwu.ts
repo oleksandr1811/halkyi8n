@@ -9398,4 +9398,20 @@ Pwease set up youw account accowding to %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>PageDialog</name>
+    <message>
+        <source>Apply &amp;&amp; Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

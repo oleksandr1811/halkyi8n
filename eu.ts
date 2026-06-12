@@ -14369,4 +14369,12 @@ Please set up your account according to %1.</source>
         <translation>Konfigurazio azkarra</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Bilatu...</translation>
+    </message>
+</context>
 </TS>

@@ -18637,4 +18637,12 @@ Please set up your account according to %1.</source>
         <translation>Швидке налаштування</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>пошук...</translation>
+    </message>
+</context>
 </TS>

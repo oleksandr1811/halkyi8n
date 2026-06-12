@@ -17763,4 +17763,12 @@ Please set up your account according to %1.</source>
         <translation>Kiire seadistamine</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Otsi...</translation>
+    </message>
+</context>
 </TS>

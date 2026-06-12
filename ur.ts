@@ -13483,4 +13483,12 @@ Please set up your account according to %1.</source>
         <translation>فوری سیٹ اپ</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>تلاش کریں...</translation>
+    </message>
+</context>
 </TS>

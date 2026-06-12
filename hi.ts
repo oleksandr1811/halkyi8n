@@ -13886,4 +13886,12 @@ Please set up your account according to %1.</source>
         <translation>शीघ्र व्यवस्थित</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>खोज...</translation>
+    </message>
+</context>
 </TS>

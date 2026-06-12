@@ -17707,4 +17707,12 @@ Configureu el vostre compte segons %1.</translation>
         <translation>Configuració ràpida</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Cerca...</translation>
+    </message>
+</context>
 </TS>

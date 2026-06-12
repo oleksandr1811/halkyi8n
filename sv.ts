@@ -18566,4 +18566,12 @@ Vänligen ställ in ditt konto enligt %1.</translation>
         <translation>Snabb installation</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Söka...</translation>
+    </message>
+</context>
 </TS>

@@ -15805,4 +15805,12 @@ Please set up your account according to %1.</source>
         <translation>Greita sąranka</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Ieškoti...</translation>
+    </message>
+</context>
 </TS>

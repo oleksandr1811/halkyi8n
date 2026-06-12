@@ -97,6 +97,16 @@ NEW_STRINGS = {
     "WizardSidebar": [
         "Quick Setup",
     ],
+    "PageDialog": [
+        "Apply && Close",
+    ],
+    "PageContainer": [
+        "Search...",
+    ],
+    "NewInstanceDialog": [
+        "Instance name",
+        "Click to change instance icon",
+    ],
     "AppearanceWidget": [
         "None",
     ],

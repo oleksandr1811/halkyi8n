@@ -16372,4 +16372,12 @@ Please set up your account according to %1.</source>
         <translation>Configuración rápida</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Busca...</translation>
+    </message>
+</context>
 </TS>

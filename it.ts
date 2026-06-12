@@ -18682,4 +18682,12 @@ Si prega di seguire %1 per impostare l&apos;account.</translation>
         <translation>Configurazione rapida</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Ricerca...</translation>
+    </message>
+</context>
 </TS>

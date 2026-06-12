@@ -9239,4 +9239,20 @@ Please set up your account according to %1.</translation>
         <translation>None</translation>
     </message>
 </context>
+
+<context>
+    <name>PageDialog</name>
+    <message>
+        <source>Apply &amp;&amp; Close</source>
+        <translation>Apply &amp;&amp; Close</translation>
+    </message>
+</context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Search...</translation>
+    </message>
+</context>
 </TS>

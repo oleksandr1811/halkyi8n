@@ -15914,4 +15914,12 @@ Par plasê configure il to account secont di %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

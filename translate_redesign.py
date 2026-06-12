@@ -59,6 +59,8 @@ NEW_CONTEXTS = [
     "BrowsePage", "OnboardingOverlay", "MainWindow",
     # Wizard redesign
     "WizardSidebar", "SetupWizard",
+    # Settings and dialog redesign
+    "PageDialog", "PageContainer", "NewInstanceDialog",
     "LanguageWizardPage", "JavaWizardPage", "AutoJavaWizardPage",
     "PasteWizardPage", "ThemeWizardPage", "LoginWizardPage", "FlameAPIKeyWizardPage",
 ]

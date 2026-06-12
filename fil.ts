@@ -15776,4 +15776,12 @@ Please set up your account according to %1.</source>
         <translation>Mabilis na Setup</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Hanapin...</translation>
+    </message>
+</context>
 </TS>

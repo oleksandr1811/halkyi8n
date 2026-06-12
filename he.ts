@@ -16129,4 +16129,12 @@ Please set up your account according to %1.</source>
         <translation>הגדרה מהירה</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>לְחַפֵּשׂ...</translation>
+    </message>
+</context>
 </TS>

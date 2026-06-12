@@ -17428,4 +17428,12 @@ Vă rugăm configurați-vă contul conform %1.</translation>
         <translation>Configurare rapidă</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Căutare...</translation>
+    </message>
+</context>
 </TS>

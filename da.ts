@@ -17489,4 +17489,12 @@ Indstil din konto i henhold til %1.</translation>
         <translation>Hurtig opsætning</translation>
     </message>
 </context>
+
+<context>
+    <name>PageContainer</name>
+    <message>
+        <source>Search...</source>
+        <translation>Søge...</translation>
+    </message>
+</context>
 </TS>
