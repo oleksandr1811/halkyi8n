@@ -13303,4 +13303,12 @@ Please set up your account according to %1.</source>
         <translation>Tez Quraşdırma</translation>
     </message>
 </context>
+
+<context>
+    <name>AppearanceWidget</name>
+    <message>
+        <source>None</source>
+        <translation>Heç biri</translation>
+    </message>
+</context>
 </TS>

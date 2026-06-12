@@ -13342,55 +13342,55 @@ Please set up your account according to %1.</source>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>ពង្រីកការរុករក</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>បង្រួមការរុករក</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្ទះ</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>បណ្ណាល័យ</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacks</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ម៉ូដ</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>កញ្ចប់ធនធាន</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្រមោល</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>បន្ថែមឧទាហរណ៍</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>គណនី</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>ថតឯកសារ</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ការកំណត់</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>ជំនួយ</translation>
     </message>
 </context>
 
@@ -13398,19 +13398,19 @@ Please set up your account according to %1.</source>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>ព័ត៌មាន</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>ច្រើនទៀត...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនមានព័ត៌មានទេ។</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងផ្ទុកព័ត៌មាន...</translation>
     </message>
 </context>
 
@@ -13418,47 +13418,47 @@ Please set up your account according to %1.</source>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្វាគមន៍​ការ​ត្រឡប់​មក​វិញ %1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>កំពុងលេងជា%1</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>សូមស្វាគមន៍មកកាន់ Halky Launcher!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនបានជ្រើសរើសគណនីទេ។</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>បានលេងថ្មីៗ</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>មើលទាំងអស់។</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>លេងចុងក្រោយ៖ % 1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនដែលលេងទេ។</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>លេង</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ បន្ថែមឧទាហរណ៍</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>មិន​ទាន់​មាន​ករណី។ ប្រើប៊ូតុង + នៅក្នុងរបារចំហៀង ឬចុច &apos;បន្ថែមវត្ថុ&apos; ដើម្បីចាប់ផ្តើម។</translation>
     </message>
 </context>
 
@@ -13466,71 +13466,71 @@ Please set up your account according to %1.</source>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមើល Modpacks</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមើលម៉ូដ</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមើលកញ្ចប់ធនធាន</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមើលកញ្ចប់ Shader</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្វែងរក និងដំឡើង modpacks ដែលត្រៀមរួចជាស្រេចពី Modrinth, CurseForge, FTB, ATLauncher និងច្រើនទៀត។</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្វែងរក និងដំឡើង mods ពី Modrinth និង CurseForge សម្រាប់ឧទាហរណ៍ដែលបានជ្រើសរើស។</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្វែងរក និងដំឡើងកញ្ចប់ធនធានពី Modrinth និង CurseForge សម្រាប់ឧទាហរណ៍ដែលបានជ្រើសរើស។</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្វែងរក និងដំឡើងកញ្ចប់ shader ពី Modrinth និង CurseForge សម្រាប់ឧទាហរណ៍ដែលបានជ្រើសរើស។</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមើល Modpacks...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមើលម៉ូដ...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមើលកញ្ចប់ធនធាន...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>រកមើលកញ្ចប់ Shader...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>ឧទាហរណ៍៖</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>ស្វែងរក...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>មិនមានឧទាហរណ៍ទេ។</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>គន្លឹះ៖ ការចុច &apos;Browse Modpacks...&apos; នឹងបើកកម្មវិធីរុករកតាមអ៊ីនធឺណិតពេញលេញ ដែលអ្នកអាចដំឡើងកញ្ចប់ណាមួយពី Modrinth, CurseForge, FTB និងច្រើនទៀត។</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>គន្លឹះ៖ ជ្រើសរើសឧទាហរណ៍ជាមុនសិន បន្ទាប់មកចុច រកមើល ដើម្បីបើកកម្មវិធីរុករកធនធានសម្រាប់ឧទាហរណ៍នោះ។</translation>
     </message>
 </context>
 
@@ -13538,51 +13538,51 @@ Please set up your account according to %1.</source>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>រំលង</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>បន្ទាប់</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>រួចរាល់</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 / % 2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>របារចំហៀងរុករក</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>ប្រើរបារចំហៀងនៅខាងឆ្វេងដើម្បីប្តូររវាងបណ្ណាល័យរបស់អ្នក រកមើល Modpacks, Mods, Resource Packs និង Shaders។ ចុចប៊ូតុង ☰ នៅផ្នែកខាងលើ ដើម្បីពង្រីកស្លាក។</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>បន្ថែមឧទាហរណ៍</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ចុចប៊ូតុង + នៅក្នុងរបារចំហៀង ឬប្រើប៊ូតុង &apos;+ បន្ថែមវត្ថុ&apos; នៅក្នុងបណ្ណាល័យ ដើម្បីបង្កើតវត្ថុ Minecraft ថ្មី។</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>បណ្ណាល័យរបស់អ្នក។</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>បណ្ណាល័យបង្ហាញករណី Minecraft របស់អ្នកទាំងអស់។ ចុចពីរដងមួយដើម្បីបើកដំណើរការវា ឬជ្រើសរើសវាសម្រាប់ជម្រើសជាច្រើនទៀត។</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>ព័ត៌មាន</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>ផ្ទាំងព័ត៌មាននៅខាងស្តាំបង្ហាញការអាប់ដេត និងសេចក្តីប្រកាសចុងក្រោយបំផុតរបស់ Halky Launcher។</translation>
     </message>
 </context>
 

@@ -13522,55 +13522,55 @@ Please set up your account according to %1.</source>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>ຂະຫຍາຍການນໍາທາງ</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>ຫຍໍ້ການນຳທາງ</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>ບ້ານ</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>ຫໍສະໝຸດ</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacks</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊຸດຊັບພະຍາກອນ</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>ຮົ່ມ</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>ເພີ່ມຕົວຢ່າງ</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>ບັນຊີ</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>ໂຟນເດີ</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ການຕັ້ງຄ່າ</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊ່ວຍເຫຼືອ</translation>
     </message>
 </context>
 
@@ -13578,19 +13578,19 @@ Please set up your account according to %1.</source>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>ຂ່າວ</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>ເພີ່ມເຕີມ...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>ບໍ່ມີຂ່າວ</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>ກຳລັງໂຫຼດຂ່າວ...</translation>
     </message>
 </context>
 
@@ -13598,47 +13598,47 @@ Please set up your account according to %1.</source>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>ຍິນດີຕ້ອນຮັບກັບຄືນ, %1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ກຳລັງຫຼິ້ນເປັນ %1</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>ຍິນດີຕ້ອນຮັບສູ່ Halky Launcher!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>ບໍ່ໄດ້ເລືອກບັນຊີ</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>ຫຼິ້ນບໍ່ດົນມານີ້</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>ເບິ່ງທັງໝົດ</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ຫຼິ້ນຄັ້ງສຸດທ້າຍ: %1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>ບໍ່ເຄີຍຫຼິ້ນ</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>ຫຼິ້ນ</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ ເພີ່ມຕົວຢ່າງ</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>ບໍ່ມີຕົວຢ່າງເທື່ອ. ໃຊ້ປຸ່ມ + ໃນແຖບດ້ານຂ້າງ ຫຼືຄລິກ &apos;ເພີ່ມຕົວຢ່າງ&apos; ເພື່ອເລີ່ມຕົ້ນ.</translation>
     </message>
 </context>
 
@@ -13646,71 +13646,71 @@ Please set up your account according to %1.</source>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາ Modpacks</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາ Mods</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາຊຸດຊັບພະຍາກອນ</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາຊຸດ Shader</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>ຄົ້ນຫາແລະຕິດຕັ້ງ modpacks ທີ່ກຽມພ້ອມຈາກ Modrinth, CurseForge, FTB, ATLauncher ແລະອື່ນໆ.</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ຄົ້ນຫາແລະຕິດຕັ້ງ mods ຈາກ Modrinth ແລະ CurseForge ສໍາລັບຕົວຢ່າງທີ່ເລືອກ.</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ຄົ້ນຫາແລະຕິດຕັ້ງຊຸດຊັບພະຍາກອນຈາກ Modrinth ແລະ CurseForge ສໍາລັບຕົວຢ່າງທີ່ເລືອກ.</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ຄົ້ນຫາແລະຕິດຕັ້ງຊຸດ shader ຈາກ Modrinth ແລະ CurseForge ສໍາລັບຕົວຢ່າງທີ່ເລືອກ.</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາ Modpacks...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາ Mods...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາຊຸດຊັບພະຍາກອນ...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາຊຸດ Shader...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>ຕົວຢ່າງ:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>ຊອກຫາ...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>ບໍ່ມີຕົວຢ່າງທີ່ມີຢູ່</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>ເຄັດ​ລັບ​: ການ​ຄລິກ​ໃສ່ &apos;Browse Modpacks...&apos; ຈະ​ເປີດ​ຕົວ​ທ່ອງ​ເວັບ modpack ອັນ​ເຕັມ​ທີ່​ທີ່​ທ່ານ​ສາ​ມາດ​ຕິດ​ຕັ້ງ​ຊຸດ​ໃດ​ຫນຶ່ງ​ຈາກ Modrinth​, CurseForge​, FTB ແລະ​ອື່ນໆ​ອີກ​.</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ເຄັດ​ລັບ​: ເລືອກ​ຕົວ​ຢ່າງ​ທໍາ​ອິດ​, ຫຼັງ​ຈາກ​ນັ້ນ​ໃຫ້​ຄລິກ​ໃສ່ Browse ເພື່ອ​ເປີດ​ຕົວ​ທ່ອງ​ເວັບ​ຂອງ​ຊັບ​ພະ​ຍາ​ກອນ​ສໍາ​ລັບ​ຕົວ​ຢ່າງ​ນັ້ນ​.</translation>
     </message>
 </context>
 
@@ -13718,51 +13718,51 @@ Please set up your account according to %1.</source>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>ຂ້າມ</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>ຕໍ່ໄປ</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>ສຳເລັດແລ້ວ</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>ແຖບດ້ານການນໍາທາງ</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>ໃຊ້ແຖບດ້ານຊ້າຍເພື່ອສະຫຼັບລະຫວ່າງຫ້ອງສະໝຸດຂອງທ່ານ, ທ່ອງເວັບ Modpacks, Mods, Resource Packs ແລະ Shaders. ຄລິກທີ່ປຸ່ມ ☰ ຢູ່ເທິງສຸດເພື່ອຂະຫຍາຍປ້າຍກຳກັບ.</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>ເພີ່ມຕົວຢ່າງ</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ຄລິກປຸ່ມ + ໃນແຖບດ້ານຂ້າງ ຫຼືໃຊ້ປຸ່ມ &apos;+ Add Instance&apos; ໃນຫ້ອງສະໝຸດເພື່ອສ້າງຕົວຢ່າງ Minecraft ໃໝ່.</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>ຫ້ອງສະໝຸດຂອງເຈົ້າ</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>ຫໍສະໝຸດສະແດງຕົວຢ່າງ Minecraft ທັງໝົດຂອງເຈົ້າ. ຄລິກສອງຄັ້ງເພື່ອເປີດມັນ, ຫຼືເລືອກມັນສໍາລັບທາງເລືອກເພີ່ມເຕີມ.</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>ຂ່າວ</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>ແຜງຂ່າວຢູ່ເບື້ອງຂວາສະແດງໃຫ້ເຫັນການອັບເດດແລະການປະກາດຫຼ້າສຸດຂອງ Halky Launcher.</translation>
     </message>
 </context>
 

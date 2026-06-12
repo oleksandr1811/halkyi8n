@@ -13881,55 +13881,55 @@ Please set up your account according to %1.</source>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>გააფართოვეთ ნავიგაცია</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>ნავიგაციის ჩაკეცვა</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>მთავარი</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>ბიბლიოთეკა</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>მოდპაკეტები</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>მოდიფიკაციები</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>რესურსების პაკეტები</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>შადერები</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>ინსტანციის დამატება</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>ანგარიშები</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>საქაღალდეები</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>პარამეტრები</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>დახმარება</translation>
     </message>
 </context>
 
@@ -13937,19 +13937,19 @@ Please set up your account according to %1.</source>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>სიახლეები</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>მეტი...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>ახალი ამბები არ არის ხელმისაწვდომი</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>სიახლეების ჩატვირთვა...</translation>
     </message>
 </context>
 
@@ -13957,47 +13957,47 @@ Please set up your account according to %1.</source>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>კეთილი იყოს თქვენი მობრძანება, %1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>თამაში როგორც %1</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>კეთილი იყოს თქვენი მობრძანება Halky Launcher-ში!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>ანგარიში არ არის არჩეული</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>ცოტა ხნის წინ ითამაშა</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>ყველას ნახვა</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ბოლო თამაში: %1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>არასოდეს უთამაშია</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>ითამაშეთ</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ ინსტანციის დამატება</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>ჯერ არ არის შემთხვევები. დასაწყებად გამოიყენეთ + ღილაკი გვერდითა ზოლში ან დააწკაპუნეთ „მაგალითის დამატებაზე“.</translation>
     </message>
 </context>
 
@@ -14005,71 +14005,71 @@ Please set up your account according to %1.</source>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>დაათვალიერეთ Modpacks</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>მოდიფიკაციების დათვალიერება</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>დაათვალიერეთ რესურსების პაკეტები</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>დაათვალიერეთ Shader Packs</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>მოძებნეთ და დააინსტალირეთ მზა მოდპაკეტები Modrinth, CurseForge, FTB, ATLauncher და სხვაგან.</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>მოძებნეთ და დააინსტალირეთ მოდიფიკაციები Modrinth-დან და CurseForge-დან შერჩეული მაგალითისთვის.</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>მოძებნეთ და დააინსტალირეთ რესურსების პაკეტები Modrinth-დან და CurseForge-დან შერჩეული მაგალითისთვის.</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>მოძებნეთ და დააინსტალირეთ შადერის პაკეტები Modrinth-დან და CurseForge-დან შერჩეული მაგალითისთვის.</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>მოდპაკეტების დათვალიერება...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>მოდიფიკაციების დათვალიერება...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>რესურსების პაკეტების დათვალიერება...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>დაათვალიერეთ Shader Packs...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>მაგალითად:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>ძიება...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>ეგზემპლარები ხელმისაწვდომი არ არის</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>რჩევა: დაწკაპუნებით „Browse Modpacks...“ გაიხსნება სრული modpack ბრაუზერი, სადაც შეგიძლიათ დააინსტალიროთ ნებისმიერი პაკეტი Modrinth, CurseForge, FTB და სხვა.</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>რჩევა: ჯერ აირჩიეთ ეგზემპლარი, შემდეგ დააწკაპუნეთ დათვალიერებაზე, რათა გახსნათ რესურსის ბრაუზერი ამ მაგალითისთვის.</translation>
     </message>
 </context>
 
@@ -14077,51 +14077,51 @@ Please set up your account according to %1.</source>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>გამოტოვება</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>შემდეგი</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>შესრულებულია</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>ნავიგაციის გვერდითი პანელი</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>გამოიყენეთ გვერდითი ზოლი მარცხნივ, რომ გადაერთოთ თქვენს ბიბლიოთეკას შორის, დაათვალიეროთ Modpacks, Mods, Resource Packs და Shaders. დააწკაპუნეთ ☰ ღილაკს ზედა ეტიკეტების გასადიდებლად.</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>ინსტანციის დამატება</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>დააწკაპუნეთ ღილაკზე + გვერდითა ზოლში ან გამოიყენეთ ბიბლიოთეკაში ღილაკი „+ დამატება ინსტანციის“ ახალი Minecraft ინსტანციის შესაქმნელად.</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>შენი ბიბლიოთეკა</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>ბიბლიოთეკა აჩვენებს თქვენს Minecraft-ის ყველა შემთხვევას. ორჯერ დააწკაპუნეთ ერთზე მის გასაშვებად, ან აირჩიეთ სხვა ვარიანტებისთვის.</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>სიახლეები</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>News პანელი მარჯვნივ აჩვენებს Halky Launcher-ის უახლეს განახლებებს და განცხადებებს.</translation>
     </message>
 </context>
 

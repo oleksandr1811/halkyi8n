@@ -97,6 +97,9 @@ NEW_STRINGS = {
     "WizardSidebar": [
         "Quick Setup",
     ],
+    "AppearanceWidget": [
+        "None",
+    ],
     "SetupWizard": [
         "Next >",
         "< Back",

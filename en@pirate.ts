@@ -9183,4 +9183,12 @@ Please prep yer captain accordin&apos; to %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>AppearanceWidget</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

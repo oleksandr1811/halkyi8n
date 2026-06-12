@@ -9231,4 +9231,12 @@ Please set up your account according to %1.</translation>
         <translation>  Custom auth server</translation>
     </message>
 </context>
+
+<context>
+    <name>AppearanceWidget</name>
+    <message>
+        <source>None</source>
+        <translation>None</translation>
+    </message>
+</context>
 </TS>
