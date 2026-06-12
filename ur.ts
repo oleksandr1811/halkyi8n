@@ -13232,55 +13232,55 @@ Please set up your account according to %1.</source>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>نیویگیشن کو پھیلائیں۔</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>نیویگیشن کو سکیڑیں۔</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>گھر</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>لائبریری</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacks</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>موڈز</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پیک</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>شیڈرز</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال شامل کریں۔</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>اکاؤنٹس</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>فولڈرز</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتیبات</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>مدد</translation>
     </message>
 </context>
 
@@ -13288,19 +13288,19 @@ Please set up your account according to %1.</source>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>خبریں</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>مزید...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>کوئی خبر دستیاب نہیں۔</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>خبریں لوڈ ہو رہی ہیں...</translation>
     </message>
 </context>
 
@@ -13308,47 +13308,47 @@ Please set up your account according to %1.</source>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>دوبارہ خوش آمدید، %1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 کے طور پر چل رہا ہے۔</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>ہلکی لانچر میں خوش آمدید!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>کوئی اکاؤنٹ منتخب نہیں کیا گیا۔</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>حال ہی میں کھیلا گیا۔</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>سبھی دیکھیں</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>آخری بار کھیلا گیا: %1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>کبھی نہیں کھیلا۔</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>کھیلیں</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ مثال شامل کریں۔</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>ابھی تک کوئی مثال نہیں ہے۔ شروع کرنے کے لیے سائڈبار میں + بٹن کا استعمال کریں یا &apos;انسٹینس شامل کریں&apos; پر کلک کریں۔</translation>
     </message>
 </context>
 
@@ -13356,71 +13356,71 @@ Please set up your account according to %1.</source>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacks کو براؤز کریں۔</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>موڈز کو براؤز کریں۔</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پیک کو براؤز کریں۔</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>شیڈر پیک کو براؤز کریں۔</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth، CurseForge، FTB، ATLauncher اور مزید سے ریڈی میڈ modpacks تلاش کریں اور انسٹال کریں۔</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ایک منتخب مثال کے لیے Modrinth اور CurseForge سے موڈز تلاش اور انسٹال کریں۔</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ایک منتخب مثال کے لیے Modrinth اور CurseForge سے ریسورس پیک تلاش کریں اور انسٹال کریں۔</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ایک منتخب مثال کے لیے Modrinth اور CurseForge سے شیڈر پیک تلاش کریں اور انسٹال کریں۔</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacks کو براؤز کریں...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>موڈز کو براؤز کریں...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>ریسورس پیکز کو براؤز کریں...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>شیڈر پیک کو براؤز کریں...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال کے طور پر:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>تلاش کریں...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>کوئی مثال دستیاب نہیں۔</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>اشارہ: &apos;Browse Modpacks...&apos; پر کلک کرنے سے مکمل modpack براؤزر کھل جائے گا جہاں آپ Modrinth, CurseForge, FTB اور مزید سے کوئی بھی پیک انسٹال کر سکتے ہیں۔</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ٹپ: پہلے ایک مثال منتخب کریں، پھر اس مثال کے لیے ریسورس براؤزر کھولنے کے لیے براؤز پر کلک کریں۔</translation>
     </message>
 </context>
 
@@ -13428,51 +13428,51 @@ Please set up your account according to %1.</source>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>چھوڑیں۔</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>اگلا</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>ہو گیا</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>نیویگیشن سائڈبار</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>اپنی لائبریری کے درمیان سوئچ کرنے کے لیے بائیں جانب سائڈبار کا استعمال کریں، Modpacks، Mods، Resource Packs اور Shaders کو براؤز کریں۔ لیبلز کو پھیلانے کے لیے اوپر ☰ بٹن پر کلک کریں۔</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال شامل کریں۔</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>سائڈبار میں + بٹن پر کلک کریں یا ایک نیا Minecraft مثال بنانے کے لیے لائبریری میں &apos;+ ایڈ انسٹنس&apos; بٹن استعمال کریں۔</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>آپ کی لائبریری</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>لائبریری آپ کے تمام مائن کرافٹ مثالوں کو دکھاتی ہے۔ اسے لانچ کرنے کے لیے ایک پر ڈبل کلک کریں، یا مزید اختیارات کے لیے اسے منتخب کریں۔</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>خبریں</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>دائیں طرف نیوز پینل تازہ ترین Halky لانچر اپ ڈیٹس اور اعلانات دکھاتا ہے۔</translation>
     </message>
 </context>
 

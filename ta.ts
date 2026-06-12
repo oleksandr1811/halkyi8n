@@ -15701,55 +15701,55 @@ Please set up your account according to %1.</source>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிசெலுத்தலை விரிவாக்கு</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிசெலுத்தலைச் சுருக்கவும்</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>வீடு</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>நூலகம்</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்குகள்</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்ஸ்</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>வள பொதிகள்</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>ஷேடர்ஸ்</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணத்தைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்குகள்</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புறைகள்</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்புகள்</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவி</translation>
     </message>
 </context>
 
@@ -15757,19 +15757,19 @@ Please set up your account according to %1.</source>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>செய்தி</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலும்...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>எந்த செய்தியும் கிடைக்கவில்லை</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>செய்திகளை ஏற்றுகிறது...</translation>
     </message>
 </context>
 
@@ -15777,47 +15777,47 @@ Please set up your account according to %1.</source>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>மீண்டும் வரவேற்கிறோம், % 1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 ஆக விளையாடுகிறது</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>ஹல்கி துவக்கிக்கு வரவேற்கிறோம்!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>கணக்கு எதுவும் தேர்ந்தெடுக்கப்படவில்லை</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>சமீபத்தில் விளையாடியது</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்தையும் பார்க்கவும்</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>கடைசியாக விளையாடியது: % 1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாடியதில்லை</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாடு</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ உதாரணத்தைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>இதுவரை எந்த நிகழ்வுகளும் இல்லை. தொடங்குவதற்கு பக்கப்பட்டியில் + பொத்தானைப் பயன்படுத்தவும் அல்லது &apos;நிகழ்வைச் சேர்&apos; என்பதைக் கிளிக் செய்யவும்.</translation>
     </message>
 </context>
 
@@ -15825,71 +15825,71 @@ Please set up your account according to %1.</source>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்குகளை உலாவவும்</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்களை உலாவவும்</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆதாரப் பொதிகளை உலாவுக</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>ஷேடர் பேக்குகளை உலாவவும்</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth, CurseForge, FTB, ATLauncher மற்றும் பலவற்றிலிருந்து தயாராக தயாரிக்கப்பட்ட மோட்பேக்குகளைத் தேடி நிறுவவும்.</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வுக்கு Modrinth மற்றும் CurseForge இலிருந்து மோட்களைத் தேடி நிறுவவும்.</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வுக்கு Modrinth மற்றும் CurseForge இலிருந்து ஆதாரப் பொதிகளைத் தேடி நிறுவவும்.</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிகழ்வுக்கு Modrinth மற்றும் CurseForge இலிருந்து ஷேடர் பேக்குகளைத் தேடி நிறுவவும்.</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்பேக்குகளை உலாவுக...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>மோட்களை உலாவுக...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆதாரப் பொதிகளை உலாவுக...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>ஷேடர் பேக்குகளை உலாவுக...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணமாக:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடு...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>நிகழ்வுகள் எதுவும் இல்லை</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவிக்குறிப்பு: &apos;Browse Modpacks...&apos; என்பதைக் கிளிக் செய்வதன் மூலம், Modrinth, CurseForge, FTB மற்றும் பலவற்றிலிருந்து எந்த பேக்கையும் நிறுவக்கூடிய முழு modpack உலாவி திறக்கும்.</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>உதவிக்குறிப்பு: முதலில் ஒரு நிகழ்வைத் தேர்ந்தெடுத்து, அந்த நிகழ்விற்கான ஆதார உலாவியைத் திறக்க, உலாவு என்பதைக் கிளிக் செய்யவும்.</translation>
     </message>
 </context>
 
@@ -15897,51 +15897,51 @@ Please set up your account according to %1.</source>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>தவிர்க்கவும்</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுத்து</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>முடிந்தது</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 / % 2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>வழிசெலுத்தல் பக்கப்பட்டி</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் லைப்ரரிக்கு இடையில் மாற, மோட்பேக்குகள், மோட்ஸ், ரிசோர்ஸ் பேக்குகள் மற்றும் ஷேடர்களை உலாவ இடதுபுறத்தில் உள்ள பக்கப்பட்டியைப் பயன்படுத்தவும். லேபிள்களை விரிவாக்க மேலே உள்ள ☰ பொத்தானைக் கிளிக் செய்யவும்.</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>உதாரணத்தைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>புதிய Minecraft நிகழ்வை உருவாக்க, பக்கப்பட்டியில் உள்ள + பொத்தானைக் கிளிக் செய்யவும் அல்லது நூலகத்தில் உள்ள &apos;+ நிகழ்வைச் சேர்&apos; பொத்தானைப் பயன்படுத்தவும்.</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் நூலகம்</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் அனைத்து Minecraft நிகழ்வுகளையும் நூலகம் காட்டுகிறது. ஒன்றைத் தொடங்க இருமுறை கிளிக் செய்யவும் அல்லது கூடுதல் விருப்பங்களுக்கு அதைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>செய்தி</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>வலதுபுறத்தில் உள்ள நியூஸ் பேனல் சமீபத்திய ஹால்கி லாஞ்சர் புதுப்பிப்புகள் மற்றும் அறிவிப்புகளைக் காட்டுகிறது.</translation>
     </message>
 </context>
 
