@@ -17456,55 +17456,55 @@ Configureu el vostre compte segons %1.</translation>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplia la navegació</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Redueix la navegació</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Casa</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacks</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquets de recursos</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaders</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix una instància</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Comptes</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetes</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuda</translation>
     </message>
 </context>
 
@@ -17512,19 +17512,19 @@ Configureu el vostre compte segons %1.</translation>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Notícies</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Més...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha notícies disponibles</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregant notícies...</translation>
     </message>
 </context>
 
@@ -17532,47 +17532,47 @@ Configureu el vostre compte segons %1.</translation>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Benvingut de nou, %1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jugant com a %1</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>Benvingut a Halky Launcher!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha seleccionat cap compte</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Jugat recentment</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>Veure-ho tot</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Última jugada: %1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai jugat</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jugar</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ Afegeix una instància</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Encara no hi ha casos. Feu servir el botó + de la barra lateral o feu clic a &quot;Afegeix una instància&quot; per començar.</translation>
     </message>
 </context>
 
@@ -17580,71 +17580,71 @@ Configureu el vostre compte segons %1.</translation>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Exploreu els Modpacks</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Navega pels mods</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Exploreu paquets de recursos</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Exploreu els paquets d&apos;ombres</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerqueu i instal·leu paquets de mods preparats de Modrinth, CurseForge, FTB, ATLauncher i molt més.</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerqueu i instal·leu modificacions de Modrinth i CurseForge per a una instància seleccionada.</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerqueu i instal·leu paquets de recursos de Modrinth i CurseForge per a una instància seleccionada.</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerqueu i instal·leu paquets d&apos;ombres de Modrinth i CurseForge per a una instància seleccionada.</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Navega pels Modpacks...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Explora les modificacions...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Explora els paquets de recursos...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Explora els paquets d&apos;ombres...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Per exemple:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha instància disponible</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consell: si feu clic a &quot;Examina els paquets de mods...&quot; obrirà el navegador complet de paquets de modificacions on podreu instal·lar qualsevol paquet de Modrinth, CurseForge, FTB i més.</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consell: seleccioneu primer una instància i, a continuació, feu clic a Navega per obrir el navegador de recursos per a aquesta instància.</translation>
     </message>
 </context>
 
@@ -17652,51 +17652,51 @@ Configureu el vostre compte segons %1.</translation>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>A continuació</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Fet</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/%2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra lateral de navegació</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitzeu la barra lateral de l&apos;esquerra per canviar entre la vostra biblioteca, navegar per Modpacks, Mods, Resource Packs i Shaders. Feu clic al botó ☰ a la part superior per ampliar les etiquetes.</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix una instància</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feu clic al botó + de la barra lateral o utilitzeu el botó &quot;+ Afegeix una instància&quot; a la biblioteca per crear una nova instància de Minecraft.</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>La teva biblioteca</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>La biblioteca mostra totes les instàncies de Minecraft. Feu doble clic en un per iniciar-lo o seleccioneu-lo per obtenir més opcions.</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Notícies</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tauler de notícies de la dreta mostra les últimes actualitzacions i anuncis de Halky Launcher.</translation>
     </message>
 </context>
 </TS>

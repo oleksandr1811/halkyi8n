@@ -14375,55 +14375,55 @@ Please set up your account according to %1.</source>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagpalapad sa nabigasyon</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>I-collapse ang nabigasyon</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Balay</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Library</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Modpack</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga mod</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Pakete sa Kapanguhaan</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga shaders</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Idugang ang Instance</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga asoy</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga folder</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga setting</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabang</translation>
     </message>
 </context>
 
@@ -14431,19 +14431,19 @@ Please set up your account according to %1.</source>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Balita</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dugang...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>Walay balita nga magamit</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagkarga sa balita...</translation>
     </message>
 </context>
 
@@ -14451,47 +14451,47 @@ Please set up your account according to %1.</source>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Maayong pagbalik, %1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagdula isip %1</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>Welcome sa Halky launcher!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Walay gipili nga account</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Bag-o pa nga gidula</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tan-awa Tanan</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Katapusang gidula:%1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala gyud nagdula</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagdula</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ Pagdugang Instance</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wala pa’y mga higayon. Gamita ang + buton sa sidebar o i-klik ang &apos;Add Instance&apos; para makasugod.</translation>
     </message>
 </context>
 
@@ -14499,71 +14499,71 @@ Please set up your account according to %1.</source>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-browse sa Modpacks</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-browse sa Mods</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-browse sa Resource Packs</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag-browse sa mga Shader Pack</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangitaa ug i-install ang andam nga mga modpack gikan sa Modrinth, CurseForge, FTB, ATLauncher ug uban pa.</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangitaa ug i-install ang mga mod gikan sa Modrinth ug CurseForge alang sa usa ka pinili nga higayon.</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangitaa ug i-install ang mga resource pack gikan sa Modrinth ug CurseForge alang sa usa ka pinili nga higayon.</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangitaa ug i-install ang mga shader pack gikan sa Modrinth ug CurseForge alang sa usa ka pinili nga higayon.</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangitag Modpacks...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangitag Mods...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>I-browse ang Resource Packs...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tan-awa ang Shader Packs...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pananglitan:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pangita...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>Walay mga higayon nga magamit</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sugyot: Ang pag-klik sa &apos;Browse Modpacks...&apos; magbukas sa bug-os nga modpack browser diin mahimo nimong i-install ang bisan unsang pakete gikan sa Modrinth, CurseForge, FTB ug uban pa.</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sugyot: Pagpili una og usa ka instance, dayon i-klik ang Browse aron maablihan ang resource browser alang niana nga higayon.</translation>
     </message>
 </context>
 
@@ -14571,51 +14571,51 @@ Please set up your account according to %1.</source>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Laktaw</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunod</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahuman na</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigation Sidebar</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamita ang sidebar sa wala aron magbalhin-balhin tali sa imong Library, mag-browse sa Modpacks, Mods, Resource Packs ug Shaders. I-klik ang ☰ nga buton sa ibabaw para mapalapad ang mga label.</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Idugang ang Instance</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>I-klik ang + buton sa sidebar o gamita ang &apos;+ Add Instance&apos; nga buton sa Library aron makahimo og bag-ong Minecraft nga instance.</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Imong Library</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gipakita sa Library ang tanan nimong mga higayon sa Minecraft. Doble-klik ang usa aron ilunsad kini, o pilia kini alang sa dugang nga mga kapilian.</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Balita</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ang News panel sa tuo nagpakita sa pinakabag-o nga Halky Launcher updates ug pahibalo.</translation>
     </message>
 </context>
 </TS>

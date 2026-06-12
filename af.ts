@@ -13456,55 +13456,55 @@ Please set up your account according to %1.</source>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Brei navigasie uit</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Vou navigasie in</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuis</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteek</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacks</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Hulpbronpakke</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaders</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg instansie by</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekeninge</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopsies</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellings</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Help</translation>
     </message>
 </context>
 
@@ -13512,19 +13512,19 @@ Please set up your account according to %1.</source>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuus</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen nuus beskikbaar nie</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai tans nuus...</translation>
     </message>
 </context>
 
@@ -13532,47 +13532,47 @@ Please set up your account according to %1.</source>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Welkom terug, %1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Speel tans as %1</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>Welkom by Halky Launcher!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen rekening gekies nie</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Onlangs gespeel</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekyk alles</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Laas gespeel: %1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>Nooit gespeel nie</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Speel</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ Voeg instansie by</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nog geen gevalle nie. Gebruik die +-knoppie in die sybalk of klik &apos;Voeg instansie by&apos; om te begin.</translation>
     </message>
 </context>
 
@@ -13580,71 +13580,71 @@ Please set up your account according to %1.</source>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur Modpacks</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur mods</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur hulpbronpakkette</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur Shader Packs</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soek en installeer klaargemaakte modpacks van Modrinth, CurseForge, FTB, ATLauncher en meer.</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soek en installeer mods van Modrinth en CurseForge vir &apos;n geselekteerde geval.</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soek en installeer hulpbronpakkette van Modrinth en CurseForge vir &apos;n geselekteerde geval.</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soek en installeer shader-pakkette van Modrinth en CurseForge vir &apos;n geselekteerde geval.</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur Modpacks...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur mods...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur hulpbronpakkette...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur Shader Packs...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Byvoorbeeld:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Soek...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen gevalle beskikbaar nie</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenk: As u &apos;Blaai deur modpacks...&apos; klik, sal die volledige modpack-blaaier oopgemaak word waar u enige pakket van Modrinth, CurseForge, FTB en meer kan installeer.</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenk: Kies eers &apos;n instansie en klik dan Blaai om die hulpbronblaaier vir daardie instansie oop te maak.</translation>
     </message>
 </context>
 
@@ -13652,51 +13652,51 @@ Please set up your account according to %1.</source>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Slaan oor</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaar</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigasie-sybalk</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik die sybalk aan die linkerkant om te wissel tussen jou biblioteek, blaai deur Modpacks, Mods, Resource Packs en Shaders. Klik die ☰-knoppie aan die bokant om etikette uit te brei.</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg instansie by</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik die +-knoppie in die sybalk of gebruik die &apos;+ Voeg Geval by&apos;-knoppie in die Biblioteek om &apos;n nuwe Minecraft-instansie te skep.</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Jou Biblioteek</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Biblioteek wys al jou Minecraft-gevalle. Dubbelklik een om dit te begin, of kies dit vir meer opsies.</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuus</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Nuus-paneel aan die regterkant wys die nuutste Halky Launcher-opdaterings en -aankondigings.</translation>
     </message>
 </context>
 </TS>

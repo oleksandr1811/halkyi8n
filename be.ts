@@ -15259,55 +15259,55 @@ Please set up your account according to %1.</source>
     <name>HalkyNavBar</name>
     <message>
         <source>Expand navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Разгарнуць навігацыю</translation>
     </message>
     <message>
         <source>Collapse navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Згарнуць навігацыю</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>дадому</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Бібліятэка</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Модпакеты</translation>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Моды</translation>
     </message>
     <message>
         <source>Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакеты рэсурсаў</translation>
     </message>
     <message>
         <source>Shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Шэйдары</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць асобнік</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Рахункі</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Папкі</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налады</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Даведка</translation>
     </message>
 </context>
 
@@ -15315,19 +15315,19 @@ Please set up your account according to %1.</source>
     <name>NewsPanel</name>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Навіны</translation>
     </message>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>больш...</translation>
     </message>
     <message>
         <source>No news available</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма даступных навін</translation>
     </message>
     <message>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка навін...</translation>
     </message>
 </context>
 
@@ -15335,47 +15335,47 @@ Please set up your account according to %1.</source>
     <name>HomePage</name>
     <message>
         <source>Welcome back, %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>З вяртаннем, %1!</translation>
     </message>
     <message>
         <source>Playing as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Гуляе як %1</translation>
     </message>
     <message>
         <source>Welcome to Halky Launcher!</source>
-        <translation type="unfinished"></translation>
+        <translation>Сардэчна запрашаем у праграму запуску Halky!</translation>
     </message>
     <message>
         <source>No account selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Уліковы запіс не выбраны</translation>
     </message>
     <message>
         <source>Recently Played</source>
-        <translation type="unfinished"></translation>
+        <translation>Нядаўна гулялі</translation>
     </message>
     <message>
         <source>View All</source>
-        <translation type="unfinished"></translation>
+        <translation>Прагледзець усе</translation>
     </message>
     <message>
         <source>Last played: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Апошняя гульня: %1</translation>
     </message>
     <message>
         <source>Never played</source>
-        <translation type="unfinished"></translation>
+        <translation>Ніколі не гуляў</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>гуляць</translation>
     </message>
     <message>
         <source>+ Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>+ Дадаць асобнік</translation>
     </message>
     <message>
         <source>No instances yet. Use the + button in the sidebar or click &apos;Add Instance&apos; to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выпадкаў пакуль няма. Выкарыстоўвайце кнопку + на бакавой панэлі або націсніце «Дадаць асобнік», каб пачаць.</translation>
     </message>
 </context>
 
@@ -15383,71 +15383,71 @@ Please set up your account according to %1.</source>
     <name>BrowsePage</name>
     <message>
         <source>Browse Modpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Агляд Modpacks</translation>
     </message>
     <message>
         <source>Browse Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Агляд модаў</translation>
     </message>
     <message>
         <source>Browse Resource Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Агляд пакетаў рэсурсаў</translation>
     </message>
     <message>
         <source>Browse Shader Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Агляд пакетаў шэйдараў</translation>
     </message>
     <message>
         <source>Search and install ready-made modpacks from Modrinth, CurseForge, FTB, ATLauncher and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Шукайце і ўсталёўвайце гатовыя пакеты модаў ад Modrinth, CurseForge, FTB, ATLauncher і іншых.</translation>
     </message>
     <message>
         <source>Search and install mods from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайдзіце і ўсталюйце моды ад Modrinth і CurseForge для выбранага асобніка.</translation>
     </message>
     <message>
         <source>Search and install resource packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайдзіце і ўсталюйце пакеты рэсурсаў з Modrinth і CurseForge для выбранага асобніка.</translation>
     </message>
     <message>
         <source>Search and install shader packs from Modrinth and CurseForge for a selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайдзіце і ўсталюйце пакеты шэйдараў ад Modrinth і CurseForge для выбранага асобніка.</translation>
     </message>
     <message>
         <source>Browse Modpacks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Агляд пакетаў модаў...</translation>
     </message>
     <message>
         <source>Browse Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Агляд модаў...</translation>
     </message>
     <message>
         <source>Browse Resource Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Агляд пакетаў рэсурсаў...</translation>
     </message>
     <message>
         <source>Browse Shader Packs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Агляд пакетаў шэйдараў...</translation>
     </message>
     <message>
         <source>For instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Напрыклад:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук...</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма даступных асобнікаў</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Падказка: націсканне «Агляд пакетаў модаў...» адкрые поўны браўзер пакетаў модаў, дзе вы можаце ўсталяваць любы пакет з Modrinth, CurseForge, FTB і іншых.</translation>
     </message>
     <message>
         <source>Tip: Select an instance first, then click Browse to open the resource browser for that instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Падказка: спачатку абярыце асобнік, а потым націсніце &quot;Агляд&quot;, каб адкрыць браўзер рэсурсаў для гэтага асобніка.</translation>
     </message>
 </context>
 
@@ -15455,51 +15455,51 @@ Please set up your account according to %1.</source>
     <name>OnboardingOverlay</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Прапусціць</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Далей</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Гатова</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Navigation Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Бакавая панэль навігацыі</translation>
     </message>
     <message>
         <source>Use the sidebar on the left to switch between your Library, browse Modpacks, Mods, Resource Packs and Shaders. Click the ☰ button at the top to expand labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выкарыстоўвайце бакавую панэль злева, каб пераключацца паміж вашай бібліятэкай, праглядаць пакеты модаў, моды, пакеты рэсурсаў і шэйдары. Націсніце кнопку ☰ уверсе, каб разгарнуць цэтлікі.</translation>
     </message>
     <message>
         <source>Add Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць асобнік</translation>
     </message>
     <message>
         <source>Click the + button in the sidebar or use the &apos;+ Add Instance&apos; button in the Library to create a new Minecraft instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Націсніце кнопку + на бакавой панэлі або выкарыстоўвайце кнопку «+ Дадаць асобнік» у бібліятэцы, каб стварыць новы асобнік Minecraft.</translation>
     </message>
     <message>
         <source>Your Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша бібліятэка</translation>
     </message>
     <message>
         <source>The Library shows all your Minecraft instances. Double-click one to launch it, or select it for more options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бібліятэка паказвае ўсе вашы экземпляры Minecraft. Двойчы пстрыкніце адзін, каб запусціць яго, або выберыце яго, каб атрымаць дадатковыя параметры.</translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Навіны</translation>
     </message>
     <message>
         <source>The News panel on the right shows the latest Halky Launcher updates and announcements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Панэль навін справа паказвае апошнія абнаўленні і аб&apos;явы праграмы запуску Halky.</translation>
     </message>
 </context>
 </TS>
