@@ -18477,4 +18477,12 @@ Stel uw account in volgens %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Snelle installatie</translation>
+    </message>
+</context>
 </TS>

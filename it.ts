@@ -18674,4 +18674,12 @@ Si prega di seguire %1 per impostare l&apos;account.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Configurazione rapida</translation>
+    </message>
+</context>
 </TS>

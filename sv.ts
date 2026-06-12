@@ -18558,4 +18558,12 @@ Vänligen ställ in ditt konto enligt %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Snabb installation</translation>
+    </message>
+</context>
 </TS>

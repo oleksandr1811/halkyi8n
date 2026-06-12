@@ -13724,4 +13724,12 @@ Please set up your account according to %1.</source>
         <translation>ডানদিকের নিউজ প্যানেল হাল্কি লঞ্চারের সর্বশেষ আপডেট এবং ঘোষণাগুলি দেখায়৷</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>দ্রুত সেটআপ</translation>
+    </message>
+</context>
 </TS>

@@ -18244,4 +18244,12 @@ Por favor, configura a tua conta de acordo com %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

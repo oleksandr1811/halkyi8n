@@ -18938,4 +18938,12 @@ Skonfiguruj swoje konto zgodnie z %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Szybka konfiguracja</translation>
+    </message>
+</context>
 </TS>

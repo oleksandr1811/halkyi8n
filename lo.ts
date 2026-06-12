@@ -13765,4 +13765,12 @@ Please set up your account according to %1.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>ຕັ້ງຄ່າດ່ວນ</translation>
+    </message>
+</context>
 </TS>

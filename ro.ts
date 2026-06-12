@@ -17420,4 +17420,12 @@ Vă rugăm configurați-vă contul conform %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Configurare rapidă</translation>
+    </message>
+</context>
 </TS>

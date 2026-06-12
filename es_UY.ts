@@ -17830,4 +17830,12 @@ Por favor, configura tu cuenta como se indica en %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

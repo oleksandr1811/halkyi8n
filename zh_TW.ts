@@ -18825,4 +18825,12 @@ Please set up your account according to %1.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>快速設定</translation>
+    </message>
+</context>
 </TS>

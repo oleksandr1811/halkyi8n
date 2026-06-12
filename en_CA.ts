@@ -17561,4 +17561,12 @@ Please set up your account according to %1.</translation>
         <translation>The News panel on the right shows the latest Halky Launcher updates and announcements.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Quick Setup</translation>
+    </message>
+</context>
 </TS>

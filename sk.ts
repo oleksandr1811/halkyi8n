@@ -17161,4 +17161,12 @@ Prosím nastavte si účet podľa %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Rýchle nastavenie</translation>
+    </message>
+</context>
 </TS>

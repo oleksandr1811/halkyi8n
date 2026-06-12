@@ -15459,4 +15459,12 @@ Please set up your account according to %1.</source>
         <translation>Панелът с новини вдясно показва най-новите актуализации и съобщения на Halky Launcher.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Бърза настройка</translation>
+    </message>
+</context>
 </TS>

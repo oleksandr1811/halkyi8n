@@ -8090,4 +8090,96 @@ Please set up your account according to %1.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+
+<context>
+    <name>AutoJavaWizardPage</name>
+    <message>
+        <source>Automatic Java</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+
+<context>
+    <name>ThemeWizardPage</name>
+    <message>
+        <source>Appearance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose a theme and icon set that suits you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+
+<context>
+    <name>LoginWizardPage</name>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

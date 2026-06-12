@@ -13622,4 +13622,12 @@ Jekk jogħġbok stabbilixxi l-kont tiegħek skont %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Setup ta &apos;malajr</translation>
+    </message>
+</context>
 </TS>

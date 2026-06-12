@@ -18802,4 +18802,12 @@ Nastavte prosím svůj účet podle %1.</translation>
         <translation>Panel Novinky na pravé straně zobrazuje nejnovější aktualizace a oznámení Halky Launcher.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Rychlé nastavení</translation>
+    </message>
+</context>
 </TS>

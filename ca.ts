@@ -17699,4 +17699,12 @@ Configureu el vostre compte segons %1.</translation>
         <translation>El tauler de notícies de la dreta mostra les últimes actualitzacions i anuncis de Halky Launcher.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Configuració ràpida</translation>
+    </message>
+</context>
 </TS>

@@ -15502,4 +15502,12 @@ Please set up your account according to %1.</source>
         <translation>Панэль навін справа паказвае апошнія абнаўленні і аб&apos;явы праграмы запуску Halky.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Хуткая налада</translation>
+    </message>
+</context>
 </TS>

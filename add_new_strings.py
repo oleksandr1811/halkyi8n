@@ -94,6 +94,65 @@ NEW_STRINGS = {
         "More",
         "Play",
     ],
+    "WizardSidebar": [
+        "Quick Setup",
+    ],
+    "SetupWizard": [
+        "Next >",
+        "< Back",
+        "Finish",
+        "Refresh",
+        "%1 Quick Setup",
+    ],
+    "LanguageWizardPage": [
+        "Language",
+        "Select the language to use in %1",
+    ],
+    "JavaWizardPage": [
+        "Java",
+        "Choose Java memory allocation and whether %1 should manage Java automatically.",
+    ],
+    "AutoJavaWizardPage": [
+        "Automatic Java",
+        "Automatically download the correct Java version for each Minecraft version.",
+        "A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?",
+        "Enable automatic Java download",
+        "Recommended — %1 will download and manage Java automatically.",
+        "Keep manual Java settings",
+        "You will manage Java installation and selection yourself.",
+    ],
+    "PasteWizardPage": [
+        "Paste Service",
+        "The default log upload service has changed.",
+        "The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.",
+        "Use new default service (mclo.gs)",
+        "Recommended — switch to the new, faster mclo.gs service.",
+        "Keep previous settings",
+        "Your existing custom paste service URL will be preserved.",
+    ],
+    "ThemeWizardPage": [
+        "Appearance",
+        "Choose a theme and icon set that suits you.",
+    ],
+    "LoginWizardPage": [
+        "Account",
+        "Add Account",
+        "Sign in to play Minecraft. You can add more accounts later in Settings.",
+        "Please enter your desired username to add your offline account.",
+        "Please enter authentication server URL, your username and password.",
+        "  Microsoft account  (Minecraft: Java Edition)",
+        "  Ely.by account",
+        "  Offline account  (no authentication)",
+        "  Custom auth server",
+    ],
+    "FlameAPIKeyWizardPage": [
+        "CurseForge API",
+        "CurseForge API Key",
+        "Enable full CurseForge modpack downloads.",
+        "Warning: Using the official CurseForge app's API key may violate CurseForge's terms of service.",
+        "Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.",
+        "Fetch Official Launcher's Key",
+    ],
 }
 
 

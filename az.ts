@@ -14166,4 +14166,12 @@ Hesabınızı %1 ə əsasən düzəldin.</translation>
         <translation>Sağdakı Xəbərlər paneli ən son Halky Launcher yeniləmələrini və elanlarını göstərir.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Tez Quraşdırma</translation>
+    </message>
+</context>
 </TS>

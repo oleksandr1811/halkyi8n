@@ -13699,4 +13699,12 @@ Please set up your account according to %1.</source>
         <translation>Die Nuus-paneel aan die regterkant wys die nuutste Halky Launcher-opdaterings en -aankondigings.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Vinnige opstelling</translation>
+    </message>
+</context>
 </TS>

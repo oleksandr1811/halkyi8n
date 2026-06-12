@@ -18030,4 +18030,12 @@ Mohon atur akun anda menurut %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Pengaturan Cepat</translation>
+    </message>
+</context>
 </TS>

@@ -18891,4 +18891,12 @@ Configure a sua conta conforme o %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Configuração rápida</translation>
+    </message>
+</context>
 </TS>

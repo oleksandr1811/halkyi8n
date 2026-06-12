@@ -17004,4 +17004,12 @@ Please set up your account according to %1.</source>
         <translation>تعرض لوحة الأخبار الموجودة على اليمين آخر تحديثات وإعلانات Halky Launcher.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>الإعداد السريع</translation>
+    </message>
+</context>
 </TS>

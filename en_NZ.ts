@@ -9151,4 +9151,84 @@ Please set up your account according to %1.</translation>
         <translation>The News panel on the right shows the latest Halky Launcher updates and announcements.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Quick Setup</translation>
+    </message>
+</context>
+
+<context>
+    <name>AutoJavaWizardPage</name>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatic Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Automatically download the correct Java version for each Minecraft version.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Enable automatic Java download</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Recommended — %1 will download and manage Java automatically.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Keep manual Java settings</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>You will manage Java installation and selection yourself.</translation>
+    </message>
+</context>
+
+<context>
+    <name>LoginWizardPage</name>
+    <message>
+        <source>Account</source>
+        <translation>Account</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Add Account</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Sign in to play Minecraft. You can add more accounts later in Settings.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Please enter your desired username to add your offline account.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Please enter authentication server URL, your username and password.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>  Microsoft account  (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>  Ely.by account</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>  Offline account  (no authentication)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>  Custom auth server</translation>
+    </message>
+</context>
 </TS>

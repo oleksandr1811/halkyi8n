@@ -16171,4 +16171,12 @@ Sila sediakan akaun anda mengikut %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Persediaan Pantas</translation>
+    </message>
+</context>
 </TS>

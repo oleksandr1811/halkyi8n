@@ -15387,4 +15387,12 @@ Please set up your account according to %1.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

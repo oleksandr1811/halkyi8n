@@ -14618,4 +14618,12 @@ Please set up your account according to %1.</source>
         <translation>Ang News panel sa tuo nagpakita sa pinakabag-o nga Halky Launcher updates ug pahibalo.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Dali nga Setup</translation>
+    </message>
+</context>
 </TS>

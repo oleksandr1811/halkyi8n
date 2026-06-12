@@ -16030,4 +16030,12 @@ Sett opp kontoen din i samsvar med %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Quick Setup</translation>
+    </message>
+</context>
 </TS>

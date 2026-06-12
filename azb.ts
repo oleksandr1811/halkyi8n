@@ -13295,4 +13295,12 @@ Please set up your account according to %1.</source>
         <translation>Sağdakı Xəbərlər paneli ən son Halky Launcher yeniləmələrini və elanlarını göstərir.</translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Tez Quraşdırma</translation>
+    </message>
+</context>
 </TS>

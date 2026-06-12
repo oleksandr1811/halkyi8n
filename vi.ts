@@ -17976,4 +17976,12 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
         <translation type="unfinished"></translation>
     </message>
 </context>
+
+<context>
+    <name>WizardSidebar</name>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Thiết lập nhanh</translation>
+    </message>
+</context>
 </TS>

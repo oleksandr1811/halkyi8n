@@ -57,6 +57,10 @@ ENGLISH_LANGS = {"en_AU", "en_CA", "en_GB", "en_NZ"}
 NEW_CONTEXTS = [
     "HalkyNavBar", "NewsPanel", "HomePage",
     "BrowsePage", "OnboardingOverlay", "MainWindow",
+    # Wizard redesign
+    "WizardSidebar", "SetupWizard",
+    "LanguageWizardPage", "JavaWizardPage", "AutoJavaWizardPage",
+    "PasteWizardPage", "ThemeWizardPage", "LoginWizardPage", "FlameAPIKeyWizardPage",
 ]
 
 
