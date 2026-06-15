@@ -18394,7 +18394,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>додому</translation>
+        <translation>Головна</translation>
     </message>
     <message>
         <source>Library</source>

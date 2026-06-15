@@ -15267,7 +15267,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>дадому</translation>
+        <translation>Галоўная</translation>
     </message>
     <message>
         <source>Library</source>

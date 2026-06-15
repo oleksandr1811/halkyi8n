@@ -13946,7 +13946,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>Дома</translation>
+        <translation>Главна</translation>
     </message>
     <message>
         <source>Library</source>

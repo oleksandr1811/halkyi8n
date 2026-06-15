@@ -17472,7 +17472,7 @@ Säädä tilisi ohjeiden mukaan osoitteessa %1.</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Kotiin</translation>
+        <translation>Koti</translation>
     </message>
     <message>
         <source>Library</source>

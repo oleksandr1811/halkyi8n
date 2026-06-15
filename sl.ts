@@ -14433,7 +14433,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>domov</translation>
+        <translation>Domov</translation>
     </message>
     <message>
         <source>Library</source>
