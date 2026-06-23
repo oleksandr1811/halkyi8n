@@ -1766,7 +1766,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="114"/>
         <source>Specify a world or server to automatically join on launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>მიუთითეთ სამყარო ან სერვერი, რომელსაც ავტომატურად შეუერთდებით გაშვებისას.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CreateShortcutDialog.ui" line="117"/>
@@ -1855,7 +1855,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="29"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>უპირატესობის მინიჭება და გლობალური პარამეტრები</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
@@ -2366,7 +2366,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="20"/>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">უპირატესობის მინიჭება და გლობალური პარამეტრები</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/EnvironmentVariables.ui" line="57"/>
@@ -5370,6 +5370,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
+        <source>Could not launch Minecraft: %1</source>
+        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
@@ -5746,6 +5751,10 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
+        <source>The process failed to start: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The process failed to start.</source>
         <translation type="unfinished"></translation>
     </message>

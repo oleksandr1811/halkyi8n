@@ -62,12 +62,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="174"/>
         <source>Legacy FML Libraries Server</source>
-        <translation>Eski FML Kütüphane Sunucusu</translation>
+        <translation>Eski FML Kütüphaneleri Sunucusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="180"/>
         <source>You can set this to another server if you have problems with downloading legacy FML libraries (Minecraft 1.5.2 and earlier).</source>
-        <translation>Eğer eski FML kütüphanelerini(Minecraft 1.5.2 ve önceki sürümler) indirirken sorun yaşıyorsanız bunu başka bir sunucuya ayarlayabilirsiniz.</translation>
+        <translation>Eğer eski FML kütüphanelerini (Minecraft 1.5.2 ve önceki sürümler) indirirken sorun yaşıyorsanız bunu başka bir sunucuya ayarlayabilirsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="234"/>
@@ -7191,6 +7191,11 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
+        <source>Could not launch Minecraft: %1</source>
+        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
+        <translation>Minecraft başlatılamadı: %1</translation>
+    </message>
+    <message>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
@@ -7668,6 +7673,10 @@ Sebep:
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
+        <source>The process failed to start: %1</source>
+        <translation>İşlem başlayamadı: %1</translation>
+    </message>
+    <message>
         <source>The process failed to start.</source>
         <translation>İşlem başlatılamadı.</translation>
     </message>
@@ -13833,7 +13842,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="97"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
-        <translation>Belirtilen Java binary çalışmadı.&lt;br/&gt;&quot;Algıla&quot;&apos;ya basın ya da Java executable&apos;a yol açın.&lt;br/&gt;</translation>
+        <translation>Belirtilen Java yürütülebilir dosyası çalışmadı.&lt;br /&gt;&apos;Algıla&apos; düğmesine basmalı veya Java yürütülebilir dosyasının yolunu belirlemelisiniz.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -15143,7 +15152,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="48"/>
         <source>Download Packs</source>
-        <translation>Paket İndir</translation>
+        <translation>Paketleri İndir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>

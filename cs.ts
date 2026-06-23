@@ -6123,7 +6123,7 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="500"/>
         <source>Auto-download Mojang Java</source>
-        <translation>Automaticky stáhnout Mojang Java</translation>
+        <translation>Automaticky stáhnout Mojang Javu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaWizardWidget.cpp" line="502"/>
@@ -7204,6 +7204,11 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
+        <source>Could not launch Minecraft: %1</source>
+        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
+        <translation>Nepodařilo se spustit Minecraft: %1</translation>
+    </message>
+    <message>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
@@ -7677,6 +7682,10 @@ Důvod:
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="117"/>
+        <source>The process failed to start: %1</source>
+        <translation>Nepodařilo se spustit proces: %1</translation>
+    </message>
+    <message>
         <source>The process failed to start.</source>
         <translation>Příkaz se nepodařilo spustit.</translation>
     </message>
@@ -13688,7 +13697,7 @@ Pokračovat se zkrácením?</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>Nepodařilo se zjistit URL hlavní jar - Mojang odebral server, který jsme používali jako záložní.</translation>
+        <translation>Nepodařilo se zjistit adresu hlavního souboru jar – Mojang odebral server, který jsme používali jako záložní.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="268"/>
