@@ -948,6 +948,14 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Um erro fatal aterrorizante!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Cores de tema personalizadas</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Selecione a cor para % 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6400,6 +6408,18 @@ Você pode mudar a versão do Java nas configurações posteriormente.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Selecione o idioma de uso em %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Desativar telemetria</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>A telemetria está desativada.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Habilitar telemetria</translation>
     </message>
 </context>
 <context>

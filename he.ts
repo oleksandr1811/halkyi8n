@@ -924,6 +924,14 @@ Please update both your operating system and %1.</source>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[שגיאה חמורה] שגיאה חמורה ומחרידה!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>צבעי נושא מותאמים אישית</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>בחר צבע עבור% 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5896,6 +5904,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>נא לבחור את שפת התצוגה של %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>השבת את הטלמטריה</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>הטלמטריה מושבתת.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>אפשר טלמטריה</translation>
     </message>
 </context>
 <context>
@@ -15217,7 +15237,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>תצוגה מקדימה:&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt; תצוגה מקדימה:&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;הודעה&gt; 
+&lt;location filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;37&quot;/&gt; 
+&lt;source&gt;מראה&lt;/source&gt; 
+&lt;translation&gt;מראה&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;הודעה&gt; 
+&lt;location filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;38&quot;/&gt; 
+&lt;מקור&gt;בחר ערכת נושא וסמלים לשימוש</translation>
     </message>
 </context>
 <context>

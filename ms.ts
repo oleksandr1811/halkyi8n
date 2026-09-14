@@ -892,6 +892,14 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Sebuah ralat fatal yang mengerikan!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Warna Tema Tersuai</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Pilih Warna untuk % 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5837,6 +5845,18 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Pilih bahasa untuk digunakan dalam %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Lumpuhkan telemetri</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetri dilumpuhkan.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Dayakan telemetri</translation>
     </message>
 </context>
 <context>
@@ -15291,7 +15311,29 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage&lt;/sumber&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;WizardPage&lt;/translation&gt; 
+&lt;/mesej&gt; 
+&lt;mesej&gt; 
+&lt;sumber&gt;Petunjuk: Kucing muncul di latar belakang dan tidak ditunjukkan secara lalai. Ia hanya kelihatan apabila menekan butang Cat dalam Bar Alat.&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;Petunjuk: Kucing muncul di latar belakang dan tidak ditunjukkan secara lalai. Ia hanya akan kelihatan apabila menekan butang Kucing pada Bar Alat.&lt;/translation&gt; 
+&lt;/mesej&gt; 
+&lt;mesej&gt; 
+&lt;sumber&gt; Pratonton:&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt; Pralihat:&lt;/translation&gt; 
+&lt;/mesej&gt; 
+&lt;mesej&gt; 
+&lt;sumber&gt;Kucing itu muncul di latar belakang dan tidak mempunyai tujuan, ia adalah visual semata-mata.&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;Kucing itu muncul di latar belakang dan tidak mempunyai tujuan, ia adalah untuk visual semata-mata.&lt;/translation&gt; 
+&lt;/mesej&gt; 
+&lt;mesej&gt; 
+&lt;nama fail lokasi=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;37&quot;/&gt; 
+&lt;sumber&gt;Penampilan&lt;/source&gt; 
+&lt;translation&gt;Tampilan&lt;/translation&gt; 
+&lt;/mesej&gt; 
+&lt;mesej&gt; 
+&lt;nama fail lokasi=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;38&quot;/&gt; 
+&lt;sumber&gt;Pilih tema dan ikon untuk digunakan</translation>
     </message>
 </context>
 <context>

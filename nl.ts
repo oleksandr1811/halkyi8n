@@ -932,6 +932,14 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[DODELIJK] Een gruwelijke dodelijke error!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Aangepaste themakleuren</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Selecteer Kleur voor %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6277,6 +6285,18 @@ Je kan de Java-versie later in de instellingen wijzigen.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Kies de taal die in %1 moet worden gebruikt</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Schakel telemetrie uit</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetrie is uitgeschakeld.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Schakel telemetrie in</translation>
     </message>
 </context>
 <context>

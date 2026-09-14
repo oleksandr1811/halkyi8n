@@ -740,6 +740,14 @@ As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot;-knoppie kies om jou 
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[NOOD] &apos;n skrikwekkende noodlottige fout!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Pasgemaakte temakleure</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Kies Kleur vir %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -4686,6 +4694,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Deaktiveer telemetrie</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetrie is gedeaktiveer.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Aktiveer telemetrie</translation>
     </message>
 </context>
 <context>

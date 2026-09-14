@@ -928,6 +928,14 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[NERIPAREBLA] Jen terura neriparebla eraro!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Propra Temo Koloroj</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Elektu Koloron por % 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5454,6 +5462,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Malebligu telemetrion</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetrio estas malŝaltita.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Ebligu telemetrion</translation>
     </message>
 </context>
 <context>
@@ -14356,7 +14376,21 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;Sorĉisto-Paĝo&lt;/ translation &gt; 
+&lt;/mesaĝo&gt; 
+&lt;mesaĝo&gt; 
+&lt;source&gt; Antaŭrigardo:&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt; Antaŭrigardo:&lt;/ translation &gt; 
+&lt;/mesaĝo&gt; 
+&lt;mesaĝo&gt; 
+&lt;location filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;37&quot;/&gt; 
+&lt;source&gt;Aspekto&lt;/source&gt; 
+&lt;translation type=&quot;unfinished&quot;&gt;Aspekto&lt;/translation&gt; 
+&lt;/mesaĝo&gt; 
+&lt;mesaĝo&gt; 
+&lt;location filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;38&quot;/&gt; 
+&lt;source&gt;Elektu temon kaj ikonojn por uzi</translation>
     </message>
 </context>
 <context>

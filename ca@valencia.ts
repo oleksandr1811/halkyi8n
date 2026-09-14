@@ -4280,6 +4280,18 @@ You can change the Java version in the settings later.
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Desactiva la telemetria</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>La telemetria està desactivada.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Activa la telemetria</translation>
+    </message>
 </context>
 <context>
     <name>LaunchController</name>
@@ -13161,6 +13173,18 @@ Please set up your account according to %1.</source>
     <message>
         <source>None</source>
         <translation>Cap</translation>
+    </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>None&lt;/source&gt; 
+&lt;translation&gt;Cap&lt;/translation&gt; 
+&lt;/missatge&gt; 
+&lt;missatge&gt; 
+&lt;font&gt;Colors de tema personalitzats</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Seleccioneu Color per a %1</translation>
     </message>
 </context>
 

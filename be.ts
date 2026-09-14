@@ -888,6 +888,14 @@ Please update both your operating system and %1.</source>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[ФАТАЛЬНА] Жахлівая фатальная памылка!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Карыстальніцкія колеры тэмы</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Выберыце колер для %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5871,6 +5879,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Выберыце мову інтэрфэйса %1а</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Адключыць тэлеметрыю</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Тэлеметрыя адключана.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Уключыць тэлеметрыю</translation>
     </message>
 </context>
 <context>

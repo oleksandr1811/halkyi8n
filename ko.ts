@@ -940,6 +940,14 @@ Please update both your operating system and %1.</source>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] 끔찍하기 짝이 없는 치명적인 오류입니다!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>맞춤 테마 색상</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>% 1의색상을선택하세요</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6349,6 +6357,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>%1에서 사용할 언어를 선택하십시오</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>원격 측정 비활성화</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>원격 측정이 비활성화되었습니다.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>원격 측정 활성화</translation>
     </message>
 </context>
 <context>

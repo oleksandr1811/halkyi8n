@@ -898,6 +898,14 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Isang nakakatakot na fatal error!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Mga Kulay ng Custom na Tema</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Piliin ang Kulay para sa %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5815,6 +5823,18 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>I-select ang wika na gagamitin sa %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Huwag paganahin ang telemetry</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Naka-disable ang telemetry.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Paganahin ang telemetry</translation>
     </message>
 </context>
 <context>

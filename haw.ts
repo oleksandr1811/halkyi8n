@@ -731,6 +731,14 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <source>[FATAL] A terrifying fatal error!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Nā waihoʻoluʻu kumuhana kūikawā</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>E koho i ke kala no %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -4971,6 +4979,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Hoʻopau i ka telemetry</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Ua pio ka telemetry.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>E ho&apos;ā i ka telemetry</translation>
     </message>
 </context>
 <context>
@@ -13236,23 +13256,23 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>E koho i ke kumuhana āu e makemake ai e hoʻohana</translation>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Ōlelo Aʻo: Hōʻike ʻia ka pōpoki ma ke kua a ʻaʻole hōʻike ʻia e ka paʻamau. ʻIke wale ʻia ke kaomi ʻana i ke pihi Cat ma ka Toolbar.</translation>
     </message>
     <message>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nāmua:</translation>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hōʻike ʻia ka pōpoki ma ke kua a ʻaʻole lawelawe i kahi kumu, he mea ʻike wale nō.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>
@@ -14586,7 +14606,7 @@ Please set up your account according to %1.</source>
     <name>WizardSidebar</name>
     <message>
         <source>Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoʻonohonoho wikiwiki</translation>
     </message>
 </context>
 

@@ -740,6 +740,14 @@ Nese jeni i ri ketu, ju mundeni te selektoni &quot;Shto Microsoft&quot; buton qe
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Një gabim i tmerrshëm fatal!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Ngjyrat e personalizuara të temave</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Zgjidhni Ngjyra për %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -4764,6 +4772,18 @@ Mund të ndryshosh versionin e Java-s në cilësime ma vonë.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Zgjidh gjuhën për të përdorur në %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Çaktivizo telemetrinë</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetria është e çaktivizuar.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Aktivizo telemetrinë</translation>
     </message>
 </context>
 <context>

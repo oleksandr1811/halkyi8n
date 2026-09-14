@@ -928,6 +928,14 @@ Actualice su sistema operativo y %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Un terrible error fatal!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Colores de tema personalizados</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Seleccionar color para %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6175,6 +6183,18 @@ Puedes cambiar la versión de Java en la configuración más tarde.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Selecciona el idioma para usar en %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Desactivar telemetría</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>La telemetría está deshabilitada.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Habilitar telemetría</translation>
     </message>
 </context>
 <context>
@@ -16716,7 +16736,33 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Página del asistente&lt;/source&gt; 
+&lt;translation type=&quot;desaparecido&quot;&gt;Página del asistente&lt;/translation&gt; 
+&lt;/mensaje&gt; 
+&lt;mensaje&gt; 
+&lt;fuente&gt;Seleccione el tema que desea utilizar&lt;/fuente&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;Selecciona el tema que deseas usar&lt;/translation&gt; 
+&lt;/mensaje&gt; 
+&lt;mensaje&gt; 
+&lt;fuente&gt;Sugerencia: El gato aparece en segundo plano y no se muestra de forma predeterminada. Solo se hace visible al presionar el botón Gato en la barra de herramientas.&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;Pista: El gato aparece en el fondo y no se muestra por defecto. Solo es visible al presionar el botón de Gato en la barra de herramientas.&lt;/translation&gt; 
+&lt;/mensaje&gt; 
+&lt;mensaje&gt; 
+&lt;fuente&gt; Vista previa:&lt;/fuente&gt; 
+&lt;translation type=&quot;vanished&quot;&gt; Previsualización:&lt;/translation&gt; 
+&lt;/mensaje&gt; 
+&lt;mensaje&gt; 
+&lt;source&gt;El gato aparece en el fondo y no tiene ningún propósito, es puramente visual.&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;El gato aparece en el fondo y no tiene un propósito, es puramente visual.&lt;/translation&gt; 
+&lt;/mensaje&gt; 
+&lt;mensaje&gt; 
+&lt;ubicación filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;37&quot;/&gt; 
+&lt;fuente&gt;Apariencia&lt;/fuente&gt; 
+&lt;translation type=&quot;unfinished&quot;&gt;Apariencia&lt;/translation&gt; 
+&lt;/mensaje&gt; 
+&lt;mensaje&gt; 
+&lt;ubicación filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;38&quot;/&gt; 
+&lt;fuente&gt;Seleccione el tema y los íconos para usar</translation>
     </message>
 </context>
 <context>
@@ -18475,7 +18521,7 @@ Por favor, configura tu cuenta como se indica en %1.</translation>
     <name>WizardSidebar</name>
     <message>
         <source>Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración rápida</translation>
     </message>
 </context>
 

@@ -2783,6 +2783,18 @@ Please select one of the following or browse for a Java executable.</translation
         <source>Select the language to use in %1</source>
         <translation>Select the language to use in %1</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Disable telemetry</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetry is disabled.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Enable telemetry</translation>
+    </message>
 </context>
 <context>
     <name>LaunchController</name>
@@ -9237,6 +9249,14 @@ Please set up your account according to %1.</translation>
     <message>
         <source>None</source>
         <translation>None</translation>
+    </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Custom Theme Colors</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Select Color for %1</translation>
     </message>
 </context>
 

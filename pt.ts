@@ -928,6 +928,14 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Um erro fatal aterrorizante!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Cores de tema personalizadas</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Selecione a cor para % 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6248,6 +6256,18 @@ Podes alterar a versão do Java nas definições mais tarde.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Seleciona o idioma a ser usado em %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Desativar telemetria</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>A telemetria está desativada.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Habilitar telemetria</translation>
     </message>
 </context>
 <context>
@@ -18882,7 +18902,7 @@ Por favor, configura a tua conta de acordo com %1.</translation>
     <name>WizardSidebar</name>
     <message>
         <source>Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração Rápida</translation>
     </message>
 </context>
 

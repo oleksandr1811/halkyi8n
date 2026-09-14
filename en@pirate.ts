@@ -2748,6 +2748,18 @@ Select one of the following or browse for a Java executable, if ye dare.</transl
         <source>Select the language to use in %1</source>
         <translation>Select the tongue ye wish to use in %1</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LaunchController</name>
@@ -9188,6 +9200,14 @@ Please prep yer captain accordin&apos; to %1.</translation>
     <name>AppearanceWidget</name>
     <message>
         <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

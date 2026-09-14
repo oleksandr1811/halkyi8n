@@ -920,6 +920,14 @@ Prosím aktualizujte váš operačný systém a aj %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Hrôzostrašná fatálna chyba!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Vlastné farby motívu</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Vyberte Farba pre %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6126,6 +6134,18 @@ Vybranú verziu Javy môžete neskôr zmeniť v nastaveniach.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Zvoľte jazyk pre %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Zakázať telemetriu</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetria je zakázaná.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Povoliť telemetriu</translation>
     </message>
 </context>
 <context>

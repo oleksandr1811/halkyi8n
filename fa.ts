@@ -928,6 +928,14 @@ Please update both your operating system and %1.</source>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] یک خطا مهلک وحشتناک!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>رنگ های تم سفارشی</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>رنگ را برای % 1 انتخاب کنید</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5923,6 +5931,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>یک زبان را برای استفاده در %1 انتخاب کنید</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>غیرفعال کردن تله متری</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>تله متری غیرفعال است.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>تله متری را فعال کنید</translation>
     </message>
 </context>
 <context>

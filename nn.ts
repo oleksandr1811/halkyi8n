@@ -894,6 +894,14 @@ Om du er ny her kan du trykkja på «Legg til Microsoft-konto»-knappen for å k
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Ein fælsleg uheldig feil!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Egendefinerte temafarger</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Velg farge for %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5561,6 +5569,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Vel språket som %1 skal bruka</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Deaktiver telemetri</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetri er deaktivert.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Aktiver telemetri</translation>
     </message>
 </context>
 <context>

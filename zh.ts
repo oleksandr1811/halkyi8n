@@ -948,6 +948,14 @@ Please update both your operating system and PolyMC.</source>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] 哈人的严重性错误信息！</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>自定义主题颜色</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>选择 %1 的颜色</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6385,6 +6393,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>设置 %1 使用的语言</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>禁用遥测</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>遥测已禁用。</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>启用遥测</translation>
     </message>
 </context>
 <context>
@@ -19474,7 +19494,7 @@ Please set up your account according to %1.</source>
     <name>WizardSidebar</name>
     <message>
         <source>Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>快速设置</translation>
     </message>
 </context>
 

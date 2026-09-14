@@ -920,6 +920,14 @@ Päivitä sekä käyttöjärjestelmä että %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAALI] Kauhistuttavan vakava virhe!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Mukautetut teemavärit</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Valitse väri kohteelle %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6110,6 +6118,18 @@ Voit muuttaa Java-version myöhemmin asetuksista.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Valitse %1:ssä käytettävä kieli</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Poista telemetria käytöstä</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetria ei ole käytössä.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Ota telemetria käyttöön</translation>
     </message>
 </context>
 <context>

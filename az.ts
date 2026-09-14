@@ -715,6 +715,14 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Dəhşətli və kritik bir xəta!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Fərdi Mövzu Rəngləri</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>%1 üçün Rəng seçin</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -4807,6 +4815,18 @@ Java versiyasını daha sonra tənzimləmələrdən dəyişə bilərsiniz.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>%1 tətbiqində istifadə ediləcək dili seçin</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Telemetriyanı söndürün</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetriya deaktivdir.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Telemetriyanı aktivləşdirin</translation>
     </message>
 </context>
 <context>

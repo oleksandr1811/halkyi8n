@@ -779,6 +779,14 @@ Agar bu yerda yangi bo&apos;lsangiz, Microsoft Akkauntingizni bog&apos;lash uchu
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Dahshatli halokatli xato!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Maxsus mavzu ranglari</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>%1 uchun Rangni tanlang</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -4805,6 +4813,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Telemetriyani o&apos;chiring</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetriya o&apos;chirilgan.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Telemetriyani yoqing</translation>
     </message>
 </context>
 <context>

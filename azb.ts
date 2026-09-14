@@ -4269,6 +4269,18 @@ You can change the Java version in the settings later.
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Telemetriyanı söndürün</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetriya deaktivdir.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Telemetriyanı aktivləşdirin</translation>
+    </message>
 </context>
 <context>
     <name>LaunchController</name>
@@ -13309,6 +13321,18 @@ Please set up your account according to %1.</source>
     <message>
         <source>None</source>
         <translation>Heç biri</translation>
+    </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Heç biri&lt;/source&gt; 
+&lt;translation&gt;Heç biri&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;mesaj&gt; 
+&lt;mənbə&gt;Fərdi Mövzu Rəngləri</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>%1 üçün Rəng seçin</translation>
     </message>
 </context>
 

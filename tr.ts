@@ -944,6 +944,14 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[KRİTİK] Korkunç bir kritik hata!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Özel Tema Renkleri</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>%1 için Renk Seçin</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6356,6 +6364,18 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>%1&apos;de kullanılacak dili seçin</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Telemetriyi devre dışı bırak</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetri devre dışı.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Telemetriyi etkinleştir</translation>
     </message>
 </context>
 <context>

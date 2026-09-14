@@ -2851,6 +2851,18 @@ Please select one of the following or browse for a java executable.</oldsource>
         <source>Select the language to use in %1</source>
         <translation>زمانێک ھەڵبژێرە بۆ بەکارھێنانی لە %1</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Telemetrîyê neçalak bike</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetrî astengdar e.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Telemetry çalak bike</translation>
+    </message>
 </context>
 <context>
     <name>LaunchController</name>
@@ -9242,31 +9254,31 @@ Please set up your account according to %1.</source>
     <name>AutoJavaWizardPage</name>
     <message>
         <source>Automatic Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java otomatîk</translation>
     </message>
     <message>
         <source>Automatically download the correct Java version for each Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ji bo her guhertoya Minecraft bixweber guhertoya Java-ya rast dakêşin.</translation>
     </message>
     <message>
         <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Taybetmendiyek nû hate zêdekirin ku dikare bixweber dakêşîne û ji bo her mînakek guhertoya rast a Java-yê veguherîne. Ma hûn dixwazin wê çalak bikin?</translation>
     </message>
     <message>
         <source>Enable automatic Java download</source>
-        <translation type="unfinished"></translation>
+        <translation>Daxistina Java ya otomatîkî çalak bike</translation>
     </message>
     <message>
         <source>Recommended — %1 will download and manage Java automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pêşniyar - % 1 dê Java-ê bixweber dakêşîne û birêve bibe.</translation>
     </message>
     <message>
         <source>Keep manual Java settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mîhengên Java-ya manual biparêzin</translation>
     </message>
     <message>
         <source>You will manage Java installation and selection yourself.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hûn ê sazkirin û bijartina Java-ê bixwe birêve bibin.</translation>
     </message>
 </context>
 
@@ -9274,39 +9286,39 @@ Please set up your account according to %1.</source>
     <name>LoginWizardPage</name>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Add Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesab lê zêde bike</translation>
     </message>
     <message>
         <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Têkeve ji bo lîstina Minecraft. Hûn dikarin paşê di Mîhengan de bêtir hesaban zêde bikin.</translation>
     </message>
     <message>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ji kerema xwe navê bikarhênerê xweya xwestî binivîse da ku hesabê xweya negirêdayî lê zêde bike.</translation>
     </message>
     <message>
         <source>Please enter authentication server URL, your username and password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ji kerema xwe URL-ya servera erêkirinê, navê bikarhêner û şîfreya xwe binivîse.</translation>
     </message>
     <message>
         <source>  Microsoft account  (Minecraft: Java Edition)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesabê Microsoft (Minecraft: Java Edition)</translation>
     </message>
     <message>
         <source>  Ely.by account</source>
-        <translation type="unfinished"></translation>
+        <translation>Ely.bi hesabê</translation>
     </message>
     <message>
         <source>  Offline account  (no authentication)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hesabê negirêdayî (ne rastandin)</translation>
     </message>
     <message>
         <source>  Custom auth server</source>
-        <translation type="unfinished"></translation>
+        <translation>server auth Custom</translation>
     </message>
 </context>
 
@@ -9315,6 +9327,18 @@ Please set up your account according to %1.</source>
     <message>
         <source>None</source>
         <translation>Netû</translation>
+    </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Tune&lt;/source&gt; 
+&lt;translation&gt;Netû&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;peyam&gt; 
+&lt;çavkanî&gt; Rengên Mijara Xwerû</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Ji bo %1 Rengê Hilbijêre</translation>
     </message>
 </context>
 

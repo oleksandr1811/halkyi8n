@@ -928,6 +928,14 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Un terrorífic error fatal!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Colors de tema personalitzats</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Seleccioneu Color per a %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6103,6 +6111,18 @@ Podràs canviar la versió de Java més tard a la configuració.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Selecciona la llengua a utilitzar en %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Desactiva la telemetria</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>La telemetria està desactivada.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Activa la telemetria</translation>
     </message>
 </context>
 <context>

@@ -928,6 +928,14 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Skräckinjagande kritiskt fel!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Anpassade temafärger</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Välj färg för %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6322,6 +6330,18 @@ Du kan ändra Java-versionen i inställningarna senare.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Välj ett språk att använda i %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Inaktivera telemetri</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetri är inaktiverat.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Aktivera telemetri</translation>
     </message>
 </context>
 <context>

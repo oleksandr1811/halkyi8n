@@ -915,6 +915,14 @@ Se eres novo/a aquí, podes seleccionar o botón &quot;Engadir Microsoft&quot; p
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Un erro catastrófico!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Cores do tema personalizado</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Seleccione a cor para % 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5916,6 +5924,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Desactivar a telemetría</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>A telemetría está desactivada.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Activa a telemetría</translation>
     </message>
 </context>
 <context>

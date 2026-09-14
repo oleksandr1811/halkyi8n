@@ -927,6 +927,14 @@ Please update both your operating system and %1.</source>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[ร้ายแรง] ข้อผิดพลาดร้ายแรงที่น่าสะพรึงกลัว!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>สีของธีมที่กำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>เลือกสีสำหรับ %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6034,6 +6042,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>เลือกภาษาที่จะใช้ใน %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>ปิดใช้งานการวัดและส่งข้อมูลทางไกล</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>การวัดและส่งข้อมูลทางไกลถูกปิดใช้งาน</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>เปิดใช้งานการวัดและส่งข้อมูลทางไกล</translation>
     </message>
 </context>
 <context>

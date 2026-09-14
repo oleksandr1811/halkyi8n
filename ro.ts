@@ -928,6 +928,14 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] O eroare înfricoşătoare!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Culori tematice personalizate</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Selectați Culoare pentru %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6246,6 +6254,18 @@ Puteți schimba versiunea de Java din setări ulterior.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Selectați o limba în %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Dezactivează telemetria</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetria este dezactivată.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Activați telemetria</translation>
     </message>
 </context>
 <context>

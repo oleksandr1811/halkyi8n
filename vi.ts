@@ -932,6 +932,14 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[THẢM KHỐC] Một đoạn lỗi THẢM KHỐC khủng khiếp!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Màu chủ đề tùy chỉnh</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Chọn Màu cho %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6241,6 +6249,18 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Chọn ngôn ngữ để dùng cho %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Tắt tính năng đo từ xa</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Đo từ xa bị vô hiệu hóa.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Bật đo từ xa</translation>
     </message>
 </context>
 <context>

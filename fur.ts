@@ -740,6 +740,14 @@ Sêstu gnûf/gnove achì? Tu puedis selezionâ il boton &quot;Zonte Microsoft&qu
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATÂL] Un erôr fatâl terificant!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5500,6 +5508,18 @@ Tu puedis cambiâ la version di Java tes impostazions plui indevant.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Selezione la lenghe di doprâ su %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

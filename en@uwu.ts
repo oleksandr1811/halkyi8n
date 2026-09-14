@@ -2857,6 +2857,18 @@ Pwease sewect onye of the fowwowing ow bwowse fow a Java executabwe.</translatio
         <source>Select the language to use in %1</source>
         <translation>Sewect the wanguage to use in %1</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LaunchController</name>
@@ -9395,6 +9407,14 @@ Pwease set up youw account accowding to %1.</translation>
     <name>AppearanceWidget</name>
     <message>
         <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

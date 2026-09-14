@@ -705,6 +705,14 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] កំហុសដ៏គ្រោះថ្នាក់មួយដែលគួរឱ្យខ្លាចបំផុត!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>ពណ៌ស្បែកផ្ទាល់ខ្លួន</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>ជ្រើសរើសពណ៌សម្រាប់% 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -4641,6 +4649,18 @@ You can change the Java version in the settings later.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>បិទដំណើរការទូរលេខ</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetry ត្រូវបានបិទ។</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>បើកដំណើរការទូរលេខ</translation>
     </message>
 </context>
 <context>

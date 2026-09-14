@@ -956,6 +956,14 @@ Bitte aktualisiere macOS und PolyMC.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>FATAL] Ein fataler Fehler!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Benutzerdefinierte Designfarben</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Wählen Sie Farbe für %1 aus</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6410,6 +6418,18 @@ Sie können die Java-Version in den Einstellungen später ändern.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Wähle die Sprache, die du für %1 nutzen möchtest</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Telemetrie deaktivieren</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetrie ist deaktiviert.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Telemetrie aktivieren</translation>
     </message>
 </context>
 <context>

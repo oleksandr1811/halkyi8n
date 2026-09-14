@@ -952,6 +952,14 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Przerażający błąd krytyczny!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Niestandardowe kolory motywu</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Wybierz Kolor dla %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6414,6 +6422,18 @@ Możesz później zmienić wersję Javy w ustawieniach.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Wybierz język używany w %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Wyłącz telemetrię</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetria jest wyłączona.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Włącz telemetrię</translation>
     </message>
 </context>
 <context>

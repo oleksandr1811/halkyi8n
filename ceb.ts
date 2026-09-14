@@ -733,6 +733,14 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Usa ka makalilisang ug makamamatay nga kasaypanan!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Mga Kolor sa Custom nga Tema</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Pilia ang Kolor para sa %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -4984,6 +4992,18 @@ Mahimo nimong mailisan ang bersiyon sa Java sulod sa mga himutangan sa pagkaunya
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="44"/>
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>I-disable ang telemetry</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Gi-disable ang telemetry.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>I-enable ang telemetry</translation>
     </message>
 </context>
 <context>
@@ -13264,7 +13284,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <source>Select the Theme you wish to use</source>
@@ -13272,7 +13292,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilia ang Tema nga gusto nimong gamiton&lt;/source&gt; 
+&lt;translation&gt;Pagpili sa Hilisgotan nga imong gustong gamiton&lt;/translation&gt; 
+&lt;/mensahe&gt; 
+&lt;mensahe&gt; 
+&lt;source&gt;Pahibalo: Ang iring makita sa background ug wala gipakita sa default. Makita ra kini kung pugson ang Cat button sa Toolbar.</translation>
     </message>
     <message>
         <source> Preview:</source>
@@ -13280,7 +13304,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paglantaw:&lt;/source&gt; 
+&lt;translation&gt; Pasiuna:&lt;/translation&gt; 
+&lt;/mensahe&gt; 
+&lt;mensahe&gt; 
+&lt;source&gt; Ang iring makita sa luyo ug wala magsilbi nga katuyoan, kini usa lamang ka biswal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="37"/>

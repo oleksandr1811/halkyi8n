@@ -920,6 +920,14 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Hirmuäratavalt saatuslik viga!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Kohandatud teemavärvid</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Valige %1 jaoks värv</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -6146,6 +6154,18 @@ Java versiooni saab pärast seadetes muuta.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Vali keel, mida kasutada %1 jaoks</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Telemeetria keelamine</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemeetria on keelatud.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Telemeetria lubamine</translation>
     </message>
 </context>
 <context>
@@ -16675,7 +16695,29 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;Viisardileht&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;sõnum&gt; 
+&lt;source&gt;Vihje: kass kuvatakse taustal ja seda ei kuvata vaikimisi. See on nähtav ainult siis, kui vajutate tööriistaribal nuppu Kass.&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;Vihje: kass kuvatakse taustal ning mitte vaikimisi. See tuuakseale vaid kassinupu nähtaval tööriistaribal.&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;sõnum&gt; 
+&lt;source&gt; Eelvaade:&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt; Eelvaade:&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;sõnum&gt; 
+&lt;source&gt;Kass ilmub taustale ja ei täida eesmärki, see on puhtalt visuaalne.&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt;Kass kuvatakse taustal ning ei oma eesmärki, on vaid visuaalne.&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;sõnum&gt; 
+&lt;location filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;37&quot;/&gt; 
+&lt;source&gt;Välimus&lt;/source&gt; 
+&lt;translation type=&quot;unfinished&quot;&gt;Välimus&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;sõnum&gt; 
+&lt;location filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;38&quot;/&gt; 
+&lt;source&gt;Valige kasutatavad teemad ja ikoonid</translation>
     </message>
 </context>
 <context>

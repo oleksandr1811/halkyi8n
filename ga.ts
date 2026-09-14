@@ -740,6 +740,14 @@ Más duine nua thú anseo, is féidir leat an cnaipe &quot;Cuir Microsoft leis&q
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[MARFACH] Earráid mharfach scanrúil!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Dathanna Téama Saincheaptha</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Roghnaigh Dath do % 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -5534,6 +5542,18 @@ Is féidir leat an leagan Java a athrú sna socruithe níos déanaí.
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="45"/>
         <source>Select the language to use in %1</source>
         <translation>Roghnaigh an teanga chun úsáid i %1</translation>
+    </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Díchumasaigh teiliméadracht</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Tá teiliméadracht díchumasaithe.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Cumasaigh teiliméadracht</translation>
     </message>
 </context>
 <context>
