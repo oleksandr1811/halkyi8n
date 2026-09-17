@@ -4062,12 +4062,12 @@ Par plasê, prove di gnûf.</translation>
 <context>
     <name>InfoFrame</name>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="134"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="129"/>
         <source>License: %1</source>
         <translation>Licence: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="141"/>
+        <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="136"/>
         <source>Report issues to: </source>
         <translation>Segnale i problemis su: </translation>
     </message>
@@ -5904,7 +5904,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation>Cartelis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>I&amp;nstances:</source>
         <translation>I&amp;stancis:</translation>
     </message>
@@ -5925,17 +5925,15 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation type="vanished">Simpri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Mods:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="415"/>
         <source>&amp;Icons:</source>
         <translation>&amp;Iconis:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="440"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
         <translation>Se ativât, sore ae cartele dai discjariâts, lis sôs sot cartelis a vignaran tegnudis di cont pe ricercje des risorsis (p.e. cuant che si cirin mods blocadis su CurseForge).</translation>
     </message>
@@ -5988,17 +5986,17 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation type="vanished">h</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="322"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
         <source>&amp;Downloads:</source>
         <translation>&amp;Discjariâts:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="298"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="351"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Browse</source>
         <translation>Sgarfe</translation>
     </message>
@@ -6058,12 +6056,11 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>&amp;Auto Java Download:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Folder where Prism Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6083,92 +6080,87 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
         <source>&amp;Skins:</source>
         <translation>&amp;Aspiets:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
-        <source>Additional instance directories</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
         <source>Add</source>
         <translation type="unfinished">Zonte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Remove</source>
         <translation type="unfinished">Gjave</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="428"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="434"/>
         <source>Mods and Modpacks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="443"/>
         <source>Check &amp;subfolders for blocked mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="450"/>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
         <translation>Se ativât, al spostarà lis risorsis blocadis invezit che copiâlis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="484"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="490"/>
         <source>Currently this just shows mods which are not marked as compatible with the current Minecraft version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="487"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="493"/>
         <source>Detect and show mod incompatibilities (experimental)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="507"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
         <source>Instance Creation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="513"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="519"/>
         <source>Downloads required game files while creating the instance. Disable this to skip the initial download and fetch files when the instance is launched instead.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="516"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="522"/>
         <source>Download game files during instance creation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="541"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="547"/>
         <source>Log History &amp;Limit:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="586"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="592"/>
         <source>Tasks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="649"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="655"/>
         <source>Retry Limit:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="656"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="662"/>
         <source>Concurrent Download Limit:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="666"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="672"/>
         <source>HTTP Timeout:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="692"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="698"/>
         <source>Concurrent Task Limit:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6191,7 +6183,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation type="vanished">Disative la utilizazion dai metadâts pes mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="464"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="470"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Atenzion&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: la disativazion dai metadâts des mods e podarès disativâ ancje cualchi funzionalitât QoL, come l&apos;inzornament des mods!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -6222,7 +6214,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation type="vanished">Numar di discjariaments in contemporanie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="663"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="669"/>
         <source>Seconds to wait until the requests are terminated</source>
         <translation>Seconts di spiete prime de terminazion des domandis</translation>
     </message>
@@ -6231,7 +6223,7 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation type="vanished">Scjadince pes domandis HTTP</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="642"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="648"/>
         <source>s</source>
         <translation>s</translation>
     </message>
@@ -6271,42 +6263,62 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation>&amp;Sostituìs la sbare dai struments cu la sbare dai menûs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="447"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="308"/>
+        <source>&amp;Auto Downloaded Java:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="338"/>
+        <source>Instance &amp;Icons:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="368"/>
+        <source>&amp;Mods (Quick Access):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
+        <source>Additional Instance Folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="453"/>
         <source>Move blocked mods instead of copying them</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="454"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="460"/>
         <source>Store version information provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="457"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="463"/>
         <source>Keep track of mod metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="474"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="480"/>
         <source>Automatically detect, install, and update mod dependencies.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="477"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="483"/>
         <source>Install dependencies automatically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="494"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="500"/>
         <source>When creating a new modpack instance, suggest updating an existing instance instead.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="497"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="503"/>
         <source>Suggest to update an existing instance during modpack installation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="526"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="532"/>
         <source>Console</source>
         <translation>Console</translation>
     </message>
@@ -6335,13 +6347,13 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
         <translation type="vanished">Limit &amp;cronologjie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="576"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="582"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>&amp;Interomp la regjistrazion se il regjistri al stramonte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="557"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="563"/>
         <source> lines</source>
         <translation> riis</translation>
     </message>
@@ -7138,7 +7150,7 @@ Motîf:
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="349"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="348"/>
         <source>Launch the selected instance.</source>
         <translation>Invie la istance selezionade.</translation>
     </message>
@@ -7148,87 +7160,86 @@ Motîf:
         <translation>Sbare struments principâl</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="294"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="293"/>
         <source>Add a new instance.</source>
         <translation>Zonte une gnove istance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="564"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Vierç la cartele centrâl des mods intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="206"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="205"/>
         <source>&amp;Accounts</source>
         <translation>&amp;Accounts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="403"/>
         <source>&amp;Edit...</source>
         <translation>&amp;Modifiche...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="418"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="417"/>
         <source>&amp;Folder</source>
         <translation>&amp;Cartele</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="457"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="456"/>
         <source>E&amp;xport...</source>
         <translation>E&amp;spuarte...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="429"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="428"/>
         <source>Dele&amp;te</source>
         <translation>&amp;Elimine</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="702"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
         <source>Folders</source>
         <translation>Cartelis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="705"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="703"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Vierç une des cartelis condividudis tra lis istancis.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="319"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="318"/>
         <source>Change settings.</source>
         <translation>Modifiche lis impostazions.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="613"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="612"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Vierç il strument pe gjestion dai erôrs par segnalâ un erôr cun %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="646"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="645"/>
         <source>Open %1 subreddit.</source>
         <translation>Vierç il subreddit di %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="657"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="656"/>
         <source>View information about %1.</source>
         <translation>Mostre informazions su %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="713"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="711"/>
         <source>Help</source>
         <translation>Jutori</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="716"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="714"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Oten jutori cun %1 o Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="305"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="304"/>
         <source>Check for new updates for %1.</source>
         <translation>Verifiche la presince di gnûfs inzornaments par %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="259"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="258"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>Al è un tui tant fof :3</translation>
     </message>
@@ -7238,22 +7249,22 @@ Motîf:
         <translation>Sbare struments des istancis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="393"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
         <source>Change Icon</source>
         <translation>Cambie icone</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="357"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="356"/>
         <source>&amp;Kill</source>
         <translation>&amp;Cope</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="346"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="345"/>
         <source>&amp;Launch</source>
         <translation>&amp;Invie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="291"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="290"/>
         <source>Add Instanc&amp;e...</source>
         <translation>Zonte istanc&amp;e...</translation>
     </message>
@@ -7263,181 +7274,173 @@ Motîf:
         <translation>C&amp;artelis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="242"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="241"/>
         <source>More News...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="267"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="266"/>
         <source>Status Bar</source>
         <translation>Sbare di stât</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="315"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>Impostazio&amp;ns...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="330"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="329"/>
         <source>Manage &amp;Skins...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="494"/>
         <source>Creates a shortcut on a selected folder to launch the selected instance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>&amp;Instances</source>
         <translation>&amp;Istancis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="541"/>
         <source>Open the instances folder in a file browser.</source>
         <translation>Vierç la cartele des istancis intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="550"/>
         <source>Launcher &amp;Root</source>
         <translation>&amp;Lidrîs dal inviadôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="561"/>
         <source>&amp;Central Mods</source>
         <translation>Mods &amp;centrâls</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="572"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="571"/>
         <source>&amp;Skins</source>
         <translation>&amp;Aspiets</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="574"/>
         <source>Open the skins folder in a file browser.</source>
         <translation>Vierç la cartele dai aspiets intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Instance Icons</source>
         <translation>Iconis de istance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="586"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="585"/>
         <source>Open the instance icons folder in a file browser.</source>
         <translation>Vierç la cartele des iconis de istance intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="594"/>
         <source>Logs</source>
         <translation>Regjistris</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="597"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="596"/>
         <source>Open the logs folder in a file browser.</source>
         <translation>Vierç la cartele dai regjistris intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="668"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="667"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>%Nete cache metadâts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="671"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="670"/>
         <source>Clear cached metadata</source>
         <translation>Nete i metadâts te cache</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="678"/>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="683"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="681"/>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="732"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="730"/>
         <source>%1 &amp;Wiki</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="743"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="741"/>
         <source>&amp;Widget Themes</source>
         <translation>Temis dai &amp;widget</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="746"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="744"/>
         <source>Open the widget themes folder in a file browser.</source>
         <translation>Vierç la cartele dai temis dai widget intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="754"/>
         <source>I&amp;con Theme</source>
         <translation>Teme i&amp;conis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="757"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="755"/>
         <source>Open the icon theme folder in a file browser.</source>
         <translation>Vierç la cartele dal teme des iconis intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="765"/>
         <source>Cat Packs</source>
         <translation>Pachets di gjats</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="768"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="766"/>
         <source>Open the cat packs folder in a file browser.</source>
         <translation>Vierç la cartele dai pachets di gjats intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="776"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="779"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="777"/>
         <source>Open the Java folder in a file browser. Only available if the built-in Java downloader is used.</source>
         <oldsource>Open the java folder in a file browser. Only available if the built-in Java downloader is used.</oldsource>
         <translation>Vierç la cartele di Java intun esploradôr di files. Disponibil nome se al ven doprât il discjariadôr predefinît di Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="631"/>
         <source>&amp;Matrix Space</source>
         <translation>Spazi &amp;Matrix</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="621"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="620"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord Guild</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="643"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="642"/>
         <source>Sub&amp;reddit</source>
         <translation>Sub&amp;reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="654"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="653"/>
         <source>&amp;About %1</source>
         <translation>Informazions su %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="302"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="301"/>
         <source>&amp;Update...</source>
         <translation>&amp;Inzorne...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="255"/>
         <source>&amp;Meow</source>
         <translation>&amp;Sgnau</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="338"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="337"/>
         <source>&amp;Manage Accounts...</source>
         <translation>&amp;Gjestìs i accounts...</translation>
     </message>
@@ -7452,64 +7455,109 @@ Motîf:
         <translation>&amp;Visualizazion</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="211"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="210"/>
         <source>&amp;Help</source>
         <translation>&amp;Jutori</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="360"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="359"/>
         <source>Kill the running instance.</source>
         <translation>Cope la istance in esecuzion.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="459"/>
         <source>Export the selected instance to supported formats.</source>
         <translation>Espuarte la istance selezionade sui formâts supuartâts.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="467"/>
         <source>Prism Launcher (zip)</source>
         <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="475"/>
         <source>Modrinth (mrpack)</source>
         <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="484"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="483"/>
         <source>CurseForge (zip)</source>
         <translation>CurseForge (zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="524"/>
         <source>Close &amp;Window</source>
         <translation>Siere &amp;barcon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="527"/>
         <source>Close the current window</source>
         <translation>Siere il barcon corint</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="553"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="538"/>
+        <source>I&amp;nstances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="549"/>
+        <source>Launcher &amp;Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="552"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
         <translation>Vierç la cartele lidrîs dal inviadôr intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="610"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="560"/>
+        <source>&amp;Mods (Quick Access)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
+        <source>Open the mods folder in a file browser.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="582"/>
+        <source>Instance &amp;Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="593"/>
+        <source>Launcher &amp;Logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="609"/>
         <source>Report a Bug or Suggest a Feature</source>
         <translation>Segnale un erôr o sugjerìs une funzionalitât</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="634"/>
         <source>Open %1 Matrix space.</source>
         <translation>Vierç spazi Matrix %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="692"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
         <translation>Instale un colegament simbolic di %1 in /usr/local/bin</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="752"/>
+        <source>I&amp;con Themes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="763"/>
+        <source>&amp;Cat Packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.ui" line="774"/>
+        <source>&amp;Auto Downloaded Java</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 &amp;Help</source>
@@ -7517,42 +7565,42 @@ Motîf:
         <translation type="vanished">Pagjine di &amp;jutori di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="735"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="733"/>
         <source>Open the %1 wiki</source>
         <translation>Vierç il wiki di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="396"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="395"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Cambie la icone de istance selezionade.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="371"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="370"/>
         <source>Rename</source>
         <translation>Cambie non</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="373"/>
         <source>Rename the selected instance.</source>
         <translation>Cambie non ae istance selezionade.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="362"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="410"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="409"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="382"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="381"/>
         <source>&amp;Change Group...</source>
         <translation>&amp;Cambie grup...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="388"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="387"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
@@ -7562,18 +7610,18 @@ Motîf:
         <translation>Cancele indaûr</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="449"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="722"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Accounts</source>
         <translation>Accounts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="283"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="282"/>
         <source>&amp;Undo Last Instance Deletion</source>
         <translation>&amp;Anule ultime eliminazion di istance</translation>
     </message>
@@ -7583,53 +7631,53 @@ Motîf:
         <translation>Modifich&amp;e</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="407"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="406"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Cambie impostazions, mods e versions de istance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="432"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="431"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>Elimine la istance selezionade.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="385"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="384"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Cambie il grup de istance selezionade.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="689"/>
         <source>Install to &amp;PATH</source>
         <translation>Instale su &amp;PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="275"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="274"/>
         <source>Lock Toolbars</source>
         <translation>Bloche sbare dai struments</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="601"/>
         <source>Themes</source>
         <translation>Temis</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="421"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="420"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Vierç la cartele de istance selezionade intun esploradôr di files.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="443"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="442"/>
         <source>Cop&amp;y...</source>
         <translation>Cop&amp;ie...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="446"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="445"/>
         <source>Copy the selected instance.</source>
         <translation>Copie la istance selezionade.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="492"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="491"/>
         <source>Create Shortcut</source>
         <translation>Cree scurte</translation>
     </message>
@@ -7662,7 +7710,7 @@ Motîf:
         <translation>&amp;Elimine grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="503"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="502"/>
         <source>No accounts added!</source>
         <translation>Nissun account zontât!</translation>
     </message>
@@ -7672,12 +7720,12 @@ Motîf:
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="514"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="513"/>
         <source>No Default Account</source>
         <translation>Nissun account predefinît</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="517"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="516"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
@@ -8028,7 +8076,7 @@ Are you sure?</source>
         <translation type="vanished">Altris novitâts...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="244"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation>Vierç il blog di svilup par lei altris novitâts su %1.</translation>
     </message>
@@ -8043,7 +8091,7 @@ Are you sure?</source>
         <translation>Nissune novitât disponibile.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.ui" line="624"/>
+        <location filename="src/launcher/ui/MainWindow.ui" line="623"/>
         <source>Open %1 Discord guild.</source>
         <translation>Vierç la guild di Discord di %1.</translation>
     </message>
@@ -8286,57 +8334,57 @@ Make sure you also trust the URL.
         <translation>&amp;Nissun profiladôr</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1045"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESSION&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1053"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1048"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;GJETON DI ACÈS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1055"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1050"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PROFÎL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1092"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1087"/>
         <source>broken</source>
         <translation>rot</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1098"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1108"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1103"/>
         <source>, last played on %1 for %2</source>
         <translation>, ultime zuiade su %1 par %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1110"/>
         <source>, total played for %1</source>
         <translation>, zuiât par un totâl di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1120"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1115"/>
         <source>, has crashed.</source>
         <translation>, al è colassât.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1179"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1174"/>
         <source>Pre-Load</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1200"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1195"/>
         <source>Pre-Launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1256"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="1251"/>
         <source>Post-Launch</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9221,7 +9269,6 @@ It is most likely you will need to change the path - please refer to the mod&apo
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="99"/>
         <source>Folder</source>
         <translation>Cartele</translation>
     </message>
@@ -10283,12 +10330,12 @@ Inzorne %1!</translation>
 <context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="128"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="129"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>Impussibil interompi dutis lis ativitâts tal NetJob!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="154"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="155"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Daûr a eseguî %1 ativitât(s) (%2 di %3 completadis)</translation>
     </message>
