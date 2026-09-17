@@ -920,6 +920,14 @@ OSと%1をアップデートしてください。</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[致命的] 恐ろしい致命的なエラー！</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>カスタムテーマの色</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>%1 の色を選択してください</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1436,6 +1444,34 @@ Minecraft のバージョンによっては起動しない場合があります�
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
         <translation>自動ダウンロードを無効化</translation>
+    </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>自動Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>各Minecraftバージョンに対して正しいJavaバージョンを自動的にダウンロードします。</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>新しい機能が追加され、各インスタンスに対して正しいJavaバージョンを自動的にダウンロードして切り替えることができるようになりました。有効にしますか？</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>自動的にJavaをダウンロードできるようにする</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>推奨 — %1 は Java を自動的にダウンロードして管理します。</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>手動でJavaの設定を維持する</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Javaのインストールと選択は自分で管理してください。</translation>
     </message>
 </context>
 <context>
@@ -6212,6 +6248,18 @@ Javaのバージョンは後で設定で変更できます。
         <source>Select the language to use in %1</source>
         <translation>%1で使用する言語を選択してください</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>テレメトリを無効にする</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>テレメトリーが無効になっています。</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>テレメトリを有効にする</translation>
+    </message>
 </context>
 <context>
     <name>LaunchCommand</name>
@@ -7795,6 +7843,42 @@ Reason:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
         <translation>Microsoftアカウントを追加する</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>アカウント</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>アカウントを追加</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecraftをプレイするにはサインインしてください。後で設定でアカウントを追加することもできます。</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>オフラインアカウントを追加するために、希望するユーザー名を入力してください。</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>認証サーバーの URL、ユーザー名、パスワードを入力してください。</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft アカウント（Minecraft: Java エディション）</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by アカウント</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>オフラインアカウント（認証なし）</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>カスタム認証サーバー</translation>
     </message>
 </context>
 <context>
@@ -12635,6 +12719,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation>既存の設定を使い続ける</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>ペーストサービス</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>デフォルトのログアップロードサービスが変更されました。</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>デフォルトのペーストサービスが mclo.gs に変更されました。既存のペースト設定でどうするかを選択してください。</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>新しいデフォルトサービス（mclo.gs）を使用してください</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>推奨 — 新しく、より高速な mclo.gs サービスに切り替えてください。</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>既存のカスタムペーストサービスのURLは保持されます。</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -16009,6 +16117,26 @@ Are you sure?</source>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation>%1 クイック セットアップ</translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>次 &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; 戻る</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>終了</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>更新</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>クイック設定</translation>
     </message>
 </context>
 <context>

@@ -1200,6 +1200,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation>Автожүктеуді өшіру</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Автоматты Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Әр Minecraft нұсқасына дұрыс Java нұсқасын автоматты түрде жүктеп алыңыз.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Әрбір инстанция үшін дұрыс Java нұсқасын автоматты түрде жүктеп, онымен ауысуға болатын жаңа функция қосылды. Сіз оны қосқыңыз келе ме?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Автоматты Java жүктеуді қосу</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Ұсынылады — %1 Java бағдарламасын автоматты түрде жүктеп, басқарады.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Java параметрлерін қолмен сақтау</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Сіз Java орнатуын және таңдауын өзіңіз басқарасыз.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5842,6 +5870,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Шот</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Аккаунт қосу</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecraft ойнау үшін кіріңіз. Кейінірек Параметрлерде қосымша есептік жазбаларды қоса аласыз.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Өз офлайн есептік жазбаңызды қосу үшін қалаған пайдаланушы атыңызды енгізіңіз.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Аутентификация серверінің URL мекенжайын, пайдаланушы аты мен құпия сөзді енгізіңіз.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft есептік жазбасы (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by тіркелгісі</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Офлайн тіркелгі (аутентификация жоқ)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Тапсырыс бойынша аутентификация сервері</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9314,6 +9378,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Қызметті қою</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Әдепкі журналы жүктеу қызметі өзгерді.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Әдепкі қою қызметі mclo.gs болып өзгерді. Қолданыстағы қою параметрлерімен не істеу керектігін таңдаңыз.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Жаңа әдепкі қызметті қолданыңыз (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Ұсынылады — жаңа, жылдамырақ mclo.gs қызметіне ауысу.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Сіздің бар жергілікті жасалған тіркеме қызмет URL-мекенжайыңыз сақталады.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12275,6 +12363,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Келесі &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Артқа</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Аяқтау</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Жаңарту</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Жылдам баптау</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14156,6 +14264,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API кілті</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Толық CurseForge модпактарын жүктеуді қосу.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Ескерту: Ресми CurseForge қолданбасының API кілтін пайдалану CurseForge қызмет көрсету шарттарын бұзуы мүмкін.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Кілтті алу %1-ге модпактағы барлық модтарды автоматты түрде жүктеуге мүмкіндік береді, қолмен жүктеуді қажет етпестен. Мұны кейін Параметрлерде де жасауға болады.</translation>
     </message>
 </context>
 <context>

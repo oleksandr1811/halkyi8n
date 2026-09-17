@@ -1453,6 +1453,34 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
         <source>Disable Auto-Download</source>
         <translation>Desativar Download Automático</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java automático</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Baixe automaticamente a versão correta do Java para cada versão do Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Um novo recurso foi adicionado que pode baixar automaticamente e alternar para a versão correta do Java para cada instância. Você gostaria de ativá-lo?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Habilitar download automático de Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Recomendado — %1 fará o download e gerenciará o Java automaticamente.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Manter configurações manuais do Java</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Você mesmo gerenciará a instalação e a seleção do Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7880,6 +7908,42 @@ Motivo:
         <source>Add Microsoft account</source>
         <translation>Adicionar conta Microsoft</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Conta</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Adicionar Conta</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Entre para jogar Minecraft. Você pode adicionar mais contas depois em Configurações.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Digite o nome de usuário desejado para adicionar sua conta offline.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Por favor, insira o URL do servidor de autenticação, seu nome de usuário e senha.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Conta Microsoft (Minecraft: Edição Java)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Conta Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Conta offline (sem autenticação)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Servidor de autenticação personalizado</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -12719,6 +12783,30 @@ Mensagem de erro: %3</translation>
         <source>Keep previous settings</source>
         <translation>Manter configurações anteriores</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Serviço de Colagem</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>O serviço de upload de log padrão foi alterado.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>O serviço de colagem padrão foi alterado para mclo.gs. Escolha o que fazer com suas configurações de colagem existentes.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Use o novo serviço padrão (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Recomendado — altere para o novo serviço mclo.gs, mais rápido.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>O URL do serviço de colagem personalizado existente será preservado.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -16108,6 +16196,26 @@ Tens a certeza que queres prosseguir?</translation>
         <source>%1 Quick Setup</source>
         <translation>%1 Configuração rápida</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Próximo &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Voltar</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Terminar</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Atualizar</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Configuração Rápida</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -18719,6 +18827,26 @@ Por favor, configura a tua conta de acordo com %1.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Obter chave do launcher oficial</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>API do CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>Chave da API do CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Habilitar downloads completos de modpacks do CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Aviso: Usar a chave de API do aplicativo oficial CurseForge pode violar os termos de serviço do CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Buscar a chave permite que %1 baixe todos os mods de um modpack automaticamente, sem precisar de downloads manuais. Isso também pode ser feito posteriormente em Configurações.</translation>
     </message>
 </context>
 <context>

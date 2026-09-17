@@ -1405,6 +1405,34 @@ Some versions of Minecraft may not launch.
         <source>Disable Auto-Download</source>
         <translation>Απενεργοποίηση αυτόματης λήψης</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Αυτόματη Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Αυτόματη λήψη της σωστής έκδοσης Java για κάθε έκδοση Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Προστέθηκε μια νέα δυνατότητα που μπορεί να πραγματοποιήσει αυτόματη λήψη και εναλλαγή στη σωστή έκδοση Java για κάθε εμφάνιση. Θα θέλατε να το ενεργοποιήσετε;</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Ενεργοποιήστε την αυτόματη λήψη Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Συνιστάται — Το %1 θα πραγματοποιήσει λήψη και διαχείριση της Java αυτόματα.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Διατηρήστε τις μη αυτόματες ρυθμίσεις Java</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Θα διαχειριστείτε μόνοι σας την εγκατάσταση και την επιλογή Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7135,6 +7163,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>Προθήκη λογαργιασμού Microsoft</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Λογαριασμός</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Προσθήκη λογαριασμού</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Συνδεθείτε για να παίξετε Minecraft. Μπορείτε να προσθέσετε περισσότερους λογαριασμούς αργότερα στις Ρυθμίσεις.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Εισαγάγετε το όνομα χρήστη που επιθυμείτε για να προσθέσετε τον λογαριασμό σας εκτός σύνδεσης.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Εισαγάγετε τη διεύθυνση URL του διακομιστή ελέγχου ταυτότητας, το όνομα χρήστη και τον κωδικό πρόσβασής σας.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Λογαριασμός Microsoft (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.από λογαριασμό</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Λογαριασμός εκτός σύνδεσης (χωρίς έλεγχο ταυτότητας)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Προσαρμοσμένος διακομιστής εξουσιοδότησης</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -11068,6 +11132,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Υπηρεσία επικόλλησης</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Η προεπιλεγμένη υπηρεσία μεταφόρτωσης αρχείων καταγραφής άλλαξε.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Η προεπιλεγμένη υπηρεσία επικόλλησης έχει αλλάξει σε mclo.gs. Επιλέξτε τι να κάνετε με τις υπάρχουσες ρυθμίσεις επικόλλησης.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Χρήση νέας προεπιλεγμένης υπηρεσίας (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Συνιστάται — μεταβείτε στη νέα, ταχύτερη υπηρεσία mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Η υπάρχουσα διεύθυνση URL της υπηρεσίας προσαρμοσμένης επικόλλησης θα διατηρηθεί.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -14161,6 +14249,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Επόμενο &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Πίσω</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Φινίρισμα</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Φρεσκάρω</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Γρήγορη εγκατάσταση</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -16435,6 +16543,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Ανάκτηση κλειδιού επίσημου launcher</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>Κλειδί API CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Ενεργοποιήστε τις πλήρεις λήψεις του CurseForge modpack.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Προειδοποίηση: Η χρήση του επίσημου κλειδιού API της εφαρμογής CurseForge ενδέχεται να παραβιάζει τους όρους παροχής υπηρεσιών του CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Η ανάκτηση του κλειδιού επιτρέπει στο %1 να κατεβάσει αυτόματα όλες τις τροποποιήσεις σε ένα modpack, χωρίς να απαιτούνται μη αυτόματες λήψεις. Αυτό μπορεί επίσης να γίνει αργότερα στις Ρυθμίσεις.</translation>
     </message>
 </context>
 <context>

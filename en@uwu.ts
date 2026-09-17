@@ -2859,15 +2859,15 @@ Pwease sewect onye of the fowwowing ow bwowse fow a Java executabwe.</translatio
     </message>
     <message>
         <source>Disable telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Disable telemetry</translation>
     </message>
     <message>
         <source>Telemetry is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetry is disabled.</translation>
     </message>
     <message>
         <source>Enable telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable telemetry</translation>
     </message>
 </context>
 <context>
@@ -5961,6 +5961,30 @@ Ewwow message: %3</translation>
         <source>Keep previous settings</source>
         <translation>Keewp pwevious s-settings</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Paste Service</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>The default log upload service has changed.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Use new default service (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Recommended — switch to the new, faster mclo.gs service.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Your existing custom paste service URL will be preserved.</translation>
+    </message>
 </context>
 <context>
     <name>PostLaunchCommand</name>
@@ -7457,6 +7481,26 @@ Awe u sure??</translation>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation>%1 Qwuik Setup</translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Next &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Back</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Finish</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Refresh</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Quick Setup</translation>
     </message>
 </context>
 <context>
@@ -9065,6 +9109,26 @@ Pwease set up youw account accowding to %1.</translation>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API Key</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Enable full CurseForge modpack downloads.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</translation>
+    </message>
 </context>
 <context>
     <name>FetchFlameAPIKey</name>
@@ -9327,7 +9391,7 @@ Pwease set up youw account accowding to %1.</translation>
     <name>WizardSidebar</name>
     <message>
         <source>Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Quick Setup</translation>
     </message>
 </context>
 
@@ -9335,31 +9399,31 @@ Pwease set up youw account accowding to %1.</translation>
     <name>AutoJavaWizardPage</name>
     <message>
         <source>Automatic Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatic Java</translation>
     </message>
     <message>
         <source>Automatically download the correct Java version for each Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatically download the correct Java version for each Minecraft version.</translation>
     </message>
     <message>
         <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
-        <translation type="unfinished"></translation>
+        <translation>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</translation>
     </message>
     <message>
         <source>Enable automatic Java download</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable automatic Java download</translation>
     </message>
     <message>
         <source>Recommended — %1 will download and manage Java automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recommended — %1 will download and manage Java automatically.</translation>
     </message>
     <message>
         <source>Keep manual Java settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Keep manual Java settings</translation>
     </message>
     <message>
         <source>You will manage Java installation and selection yourself.</source>
-        <translation type="unfinished"></translation>
+        <translation>You will manage Java installation and selection yourself.</translation>
     </message>
 </context>
 
@@ -9367,39 +9431,39 @@ Pwease set up youw account accowding to %1.</translation>
     <name>LoginWizardPage</name>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Account</translation>
     </message>
     <message>
         <source>Add Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Account</translation>
     </message>
     <message>
         <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sign in to play Minecraft. You can add more accounts later in Settings.</translation>
     </message>
     <message>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Please enter your desired username to add your offline account.</translation>
     </message>
     <message>
         <source>Please enter authentication server URL, your username and password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Please enter authentication server URL, your username and password.</translation>
     </message>
     <message>
         <source>  Microsoft account  (Minecraft: Java Edition)</source>
-        <translation type="unfinished"></translation>
+        <translation>  Microsoft account  (Minecraft: Java Edition)</translation>
     </message>
     <message>
         <source>  Ely.by account</source>
-        <translation type="unfinished"></translation>
+        <translation>  Ely.by account</translation>
     </message>
     <message>
         <source>  Offline account  (no authentication)</source>
-        <translation type="unfinished"></translation>
+        <translation>  Offline account  (no authentication)</translation>
     </message>
     <message>
         <source>  Custom auth server</source>
-        <translation type="unfinished"></translation>
+        <translation>  Custom auth server</translation>
     </message>
 </context>
 
@@ -9407,15 +9471,15 @@ Pwease set up youw account accowding to %1.</translation>
     <name>AppearanceWidget</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>None</translation>
     </message>
     <message>
         <source>Custom Theme Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom Theme Colors</translation>
     </message>
     <message>
         <source>Select Color for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Color for %1</translation>
     </message>
 </context>
 

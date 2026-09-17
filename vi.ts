@@ -1461,6 +1461,34 @@ Một số phiên bản Minecraft có thể không khởi động.
         <source>Disable Auto-Download</source>
         <translation>Tắt tự động tải</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java Tự Động</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Tự động tải xuống phiên bản Java đúng cho mỗi phiên bản Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Một tính năng mới đã được thêm vào có thể tự động tải xuống và chuyển sang phiên bản Java đúng cho mỗi trường hợp. Bạn có muốn bật nó không?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Bật tải xuống Java tự động</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Được khuyến nghị - %1 sẽ tự động tải xuống và quản lý Java.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Giữ các thiết lập Java thủ công</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Bạn sẽ tự mình quản lý việc cài đặt và lựa chọn Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7861,6 +7889,42 @@ Lý do:
         <source>Add Microsoft account</source>
         <translation>Thêm tài khoản Microsoft</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Tài khoản</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Thêm tài khoản</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Đăng nhập để chơi Minecraft. Bạn có thể thêm nhiều tài khoản hơn sau trong Cài đặt.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Vui lòng nhập tên người dùng mong muốn để thêm tài khoản ngoại tuyến của bạn.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Vui lòng nhập URL máy chủ xác thực, tên đăng nhập và mật khẩu của bạn.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Tài khoản Microsoft (Minecraft: Phiên bản Java)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Tài khoản Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Tài khoản ngoại tuyến (không xác thực)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Máy chủ xác thực tùy chỉnh</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -12605,6 +12669,30 @@ Tin nhắn báo lỗi: %3</translation>
         <source>Keep previous settings</source>
         <translation>Giữ các cài đặt trước đó</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Dịch vụ Dán</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Dịch vụ tải lên nhật ký mặc định đã thay đổi.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Dịch vụ dán mặc định đã được thay đổi thành mclo.gs. Chọn cách xử lý với các cài đặt dán hiện tại của bạn.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Sử dụng dịch vụ mặc định mới (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Được khuyến nghị — chuyển sang dịch vụ mclo.gs mới, nhanh hơn.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>URL dịch vụ dán tùy chỉnh hiện có của bạn sẽ được giữ nguyên.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -15947,6 +16035,26 @@ Bạn có chắc không?</translation>
         <source>%1 Quick Setup</source>
         <translation>%1 Thiết lập nhanh</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Tiếp theo &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Quay lại</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Hoàn thành</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Làm mới</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Cài đặt nhanh</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -18472,6 +18580,26 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Lấy khóa launcher chính thức</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>API CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>Khóa API CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Cho phép tải xuống toàn bộ modpack của CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Cảnh báo: Sử dụng khóa API của ứng dụng chính thức CurseForge có thể vi phạm điều khoản dịch vụ của CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Lấy khóa cho phép %1 tải tất cả các mod trong một gói mod một cách tự động, mà không cần tải xuống thủ công. Điều này cũng có thể được thực hiện sau trong Cài đặt.</translation>
     </message>
 </context>
 <context>

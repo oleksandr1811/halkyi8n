@@ -1392,6 +1392,34 @@ Some versions of Minecraft may not launch.
         <source>Disable Auto-Download</source>
         <translation>تعطيل التنزيل التلقائي</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>جافا التلقائي</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>قم تلقائيًا بتنزيل إصدار Java الصحيح لكل إصدار من إصدارات Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>تمت إضافة ميزة جديدة يمكنها تنزيل إصدار Java الصحيح والتبديل إليه تلقائيًا لكل مثيل. هل ترغب في تمكينه؟</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>تمكين التنزيل التلقائي لجافا</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>مستحسن — سيقوم %1 بتنزيل Java وإدارتها تلقائيًا.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>احتفظ بإعدادات Java اليدوية</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>ستدير عملية تثبيت Java واختيارها بنفسك.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7585,6 +7613,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>أضف حساب مايكروسوفت</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>حساب</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>إضافة حساب</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>قم بتسجيل الدخول لتلعب لعبة ماينكرافت. يمكنك إضافة المزيد من الحسابات لاحقًا في الإعدادات.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>الرجاء إدخال اسم المستخدم المطلوب لإضافة حسابك غير المتصل بالإنترنت.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>الرجاء إدخال عنوان URL لخادم المصادقة، واسم المستخدم وكلمة المرور.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>حساب Microsoft (Minecraft: إصدار Java)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>ايلي.عن طريق الحساب</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>حساب غير متصل (بدون مصادقة)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>خادم مصادقة مخصص</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -11986,6 +12050,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation>احفظ الإعدادات السابقة</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>خدمة اللصق</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>لقد تغيرت خدمة تحميل السجل الافتراضية.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>لقد تغيرت خدمة اللصق الافتراضية إلى mclo.gs. اختر ما تريد فعله بإعدادات اللصق الموجودة لديك.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>استخدام الخدمة الافتراضية الجديدة (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>موصى به - قم بالتبديل إلى خدمة mclo.gs الجديدة والأسرع.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>سيتم الاحتفاظ بعنوان URL الحالي لخدمة اللصق المخصصة.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -15223,6 +15311,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation>الإعداد السريع لـ %1</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>التالي &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; العودة</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>ينهي</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>ينعش</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>الإعداد السريع</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -17532,6 +17640,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>جلب مفتاح المشغل الرسمي</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>واجهة برمجة التطبيقات CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>مفتاح CurseForge API</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>تمكين التنزيلات الكاملة لـ CurseForge modpack.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>تحذير: قد يؤدي استخدام مفتاح API الرسمي لتطبيق CurseForge إلى انتهاك شروط خدمة CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>يؤدي جلب المفتاح إلى السماح لـ %1 بتنزيل جميع التعديلات في حزمة modpack تلقائيًا، دون الحاجة إلى تنزيلات يدوية. ويمكن أيضًا القيام بذلك لاحقًا في الإعدادات.</translation>
     </message>
 </context>
 <context>

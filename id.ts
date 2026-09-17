@@ -928,6 +928,14 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Eror fatal yang mengerikan!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Warna Tema Kustom</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Pilih Warna untuk %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1444,6 +1452,34 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
         <translation>Nonaktifkan Unduh Otomatis</translation>
+    </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java Otomatis</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Unduh versi Java yang benar secara otomatis untuk setiap versi Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Fitur baru telah ditambahkan yang dapat secara otomatis mengunduh dan beralih ke versi Java yang benar untuk setiap instance. Apakah Anda ingin mengaktifkannya?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Aktifkan unduhan Java otomatis</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Disarankan — %1 akan mengunduh dan mengelola Java secara otomatis.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Pertahankan pengaturan Java manual</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Anda akan mengelola instalasi dan pemilihan Java sendiri.</translation>
     </message>
 </context>
 <context>
@@ -6214,6 +6250,18 @@ Anda dapat mengubah pengaturan versi Java dalam pengaturan nanti.
         <source>Select the language to use in %1</source>
         <translation>Pilih bahasa yang akan digunakan di %1</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Nonaktifkan telemetri</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetri dinonaktifkan.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Aktifkan telemetri</translation>
+    </message>
 </context>
 <context>
     <name>LaunchCommand</name>
@@ -7815,6 +7863,42 @@ Alasan:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
         <translation>Tambahkan akun Microsoft</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Akun</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Tambah Akun</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Masuk untuk bermain Minecraft. Anda dapat menambahkan lebih banyak akun nanti di Pengaturan.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Silakan masukkan nama pengguna yang Anda inginkan untuk menambahkan akun offline Anda.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Silakan masukkan URL server autentikasi, nama pengguna, dan kata sandi Anda.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Akun Microsoft (Minecraft: Edisi Java)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Akun Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Akun offline (tanpa otentikasi)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Server otentikasi kustom</translation>
     </message>
 </context>
 <context>
@@ -12598,6 +12682,30 @@ Pesan kesalahan: %3</translation>
         <source>Keep previous settings</source>
         <translation>Simpan setelan sebelumnya</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Layanan Tempel</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Layanan unggah log default telah berubah.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Layanan tempel default telah berubah menjadi mclo.gs. Pilih apa yang ingin dilakukan dengan pengaturan tempel Anda yang ada.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Gunakan layanan default baru (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Disarankan — beralih ke layanan mclo.gs yang baru dan lebih cepat.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>URL layanan tempel kustom Anda yang ada akan dipertahankan.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -15931,6 +16039,26 @@ Apakah Anda yakin?</translation>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation>%1 Pengaturan Cepat</translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Berikut &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Kembali</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Selesai</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Segarkan</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Pengaturan Cepat</translation>
     </message>
 </context>
 <context>

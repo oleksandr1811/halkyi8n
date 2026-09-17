@@ -898,6 +898,14 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Zastrašujuća kritična pogreška!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Prilagođene boje teme</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Odaberite boju za %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1361,6 +1369,34 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
         <translation>Iskljući automatsko preuzimanje</translation>
+    </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatski Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Automatski preuzmite ispravnu verziju Jave za svaku verziju Minecrafta.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Dodana je nova značajka koja može automatski preuzeti i prebaciti se na ispravnu verziju Jave za svaki primjerak. Želite li je omogućiti?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Omogući automatsko preuzimanje Jave</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Preporučeno — %1 će automatski preuzeti i upravljati Javom.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Zadrži ručne postavke Jave</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Sami ćete upravljati instalacijom i odabirom Jave.</translation>
     </message>
 </context>
 <context>
@@ -5190,6 +5226,18 @@ You can change the Java version in the settings later.
         <source>Select the language to use in %1</source>
         <translation>Odaberi jezik za %1</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Onemogući telemetriju</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Telemetrija je onemogućena.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Omogući telemetriju</translation>
+    </message>
 </context>
 <context>
     <name>LaunchCommand</name>
@@ -6335,6 +6383,42 @@ Reason:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Račun</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Dodaj račun</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Prijavite se kako biste igrali Minecraft. Kasnije možete dodati više računa u Postavkama.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Molimo unesite željeno korisničko ime za dodavanje vašeg offline računa.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Molimo unesite URL poslužitelja za autentifikaciju, vaše korisničko ime i lozinku.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft račun (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by račun</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Offline račun (bez autentikacije)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Prilagođeni auth poslužitelj</translation>
     </message>
 </context>
 <context>
@@ -10085,6 +10169,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Usluga lijepljenja</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Zadani servis za prijenos zapisnika je promijenjen.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Zadana usluga lijepljenja promijenjena je u mclo.gs. Odaberite što učiniti sa svojim postojećim postavkama lijepljenja.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Koristi novu zadanu uslugu (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Preporučeno — prebacite se na novu, bržu mclo.gs uslugu.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Vaša postojeća prilagođena URL adresa usluge lijepljenja bit će sačuvana.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -13095,6 +13203,26 @@ Stvarno želiš to učiniti?</translation>
         <source>%1 Quick Setup</source>
         <translation>%1 postavljanje</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Sljedeće &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Natrag</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Završiti</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Osvježi</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Brza postava</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -13952,7 +14080,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.h" line="38"/>
         <source>Select theme and icons to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregled:&lt;/source&gt; 
+&lt;translation type=&quot;vanished&quot;&gt; Pregled:&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;poruka&gt; 
+&lt;location filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;37&quot;/&gt; 
+&lt;source&gt;Izgled&lt;/source&gt; 
+&lt;translation type=&quot;unfinished&quot;&gt;Izgled&lt;/translation&gt; 
+&lt;/message&gt; 
+&lt;poruka&gt; 
+&lt;location filename=&quot;src/launcher/ui/setupwizard/ThemeWizardPage.h&quot; line=&quot;38&quot;/&gt; 
+&lt;source&gt;Odaberite temu i ikone za korištenje</translation>
     </message>
 </context>
 <context>

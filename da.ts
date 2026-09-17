@@ -1435,6 +1435,34 @@ Nogle versioner af Minecraft starter muligvis ikke.
         <source>Disable Auto-Download</source>
         <translation>Deaktivér Auto-Download</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatisk Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Download automatisk den korrekte Java-version for hver Minecraft-version.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>En ny funktion blev tilføjet, der automatisk kan downloade og skifte til den korrekte Java-version for hver instans. Vil du aktivere det?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Aktiver automatisk Java-download</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Anbefalet — %1 vil downloade og administrere Java automatisk.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Behold manuelle Java-indstillinger</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Du vil selv styre Java-installation og -valg.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7724,6 +7752,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>Tilføj Microsoft konto</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Konto</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Tilføj konto</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Log ind for at spille Minecraft. Du kan tilføje flere konti senere i Indstillinger.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Indtast venligst dit ønskede brugernavn for at tilføje din offlinekonto.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Indtast venligst autentificeringsserverens URL, dit brugernavn og din adgangskode.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft-konto (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by konto</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Offline konto (ingen godkendelse)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Brugerdefineret godkendelsesserver</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -12405,6 +12469,30 @@ Fejlmeddelelse: %3</translation>
         <source>Keep previous settings</source>
         <translation>Behold tidligere indstillinger</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Indsæt service</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Standard log upload-tjenesten er ændret.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Standardindsæt-tjenesten er ændret til mclo.gs. Vælg, hvad du vil gøre med dine eksisterende indsæt-indstillinger.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Brug ny standardtjeneste (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Anbefalet — skift til den nye, hurtigere mclo.gs-tjeneste.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Din eksisterende brugerdefinerede indsæt-tjeneste-URL vil blive bevaret.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -15671,6 +15759,26 @@ Er du sikker?</translation>
         <source>%1 Quick Setup</source>
         <translation>%1 Hurtig Opsætning</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Næste &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Tilbage</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Slutte</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Opfriske</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Hurtig opsætning</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -17921,6 +18029,26 @@ Indstil din konto i henhold til %1.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Hent officiel launcher-nøgle</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API-nøgle</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Aktiver fuld CurseForge modpack downloads.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Advarsel: Brug af den officielle CurseForge-apps API-nøgle kan krænke CurseForges servicevilkår.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Hentning af nøglen giver %1 mulighed for at downloade alle mods i en modpack automatisk uden at kræve manuelle downloads. Dette kan også gøres senere i Indstillinger.</translation>
     </message>
 </context>
 <context>

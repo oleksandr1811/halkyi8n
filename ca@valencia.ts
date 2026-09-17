@@ -998,6 +998,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java automàtic</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Baixeu automàticament la versió de Java correcta per a cada versió de Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>S&apos;ha afegit una nova característica que es pot descarregar automàticament i canviar a la versió de Java correcta per a cada instància. Voleu habilitar-lo?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Activa la descàrrega automàtica de Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Recomanat: %1 baixarà i gestionarà Java automàticament.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Mantenir la configuració manual de Java</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Gestionaràs tu mateix la instal·lació i la selecció de Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5301,6 +5329,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Compte</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Afegeix un compte</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Inicia sessió per jugar a Minecraft. Podeu afegir més comptes més endavant a Configuració.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Introduïu el vostre nom d&apos;usuari desitjat per afegir el vostre compte fora de línia.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Introduïu l&apos;URL del servidor d&apos;autenticació, el vostre nom d&apos;usuari i contrasenya.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Compte de Microsoft (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.per compte</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Compte fora de línia (sense autenticació)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Servidor d&apos;autenticació personalitzat</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -8392,6 +8456,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Servei de pasta</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>El servei de càrrega de registres predeterminat ha canviat.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>El servei d&apos;enganxament predeterminat ha canviat a mclo.gs. Trieu què voleu fer amb la vostra configuració d&apos;enganxament existent.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Utilitza el servei predeterminat nou (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Recomanat: canvieu al servei mclo.gs nou i més ràpid.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Es conservarà l&apos;URL del servei d&apos;enganxament personalitzat existent.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -10986,6 +11074,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Següent &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Enrere</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Acabar</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Actualitza</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Configuració ràpida</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackPage</name>
@@ -12901,6 +13009,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Obtén la clau del llançador oficial</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>API CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>Clau de l&apos;API CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Activa les descàrregues completes del paquet de mods CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Avís: l&apos;ús de la clau API de l&apos;aplicació oficial CurseForge pot infringir les condicions del servei de CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Obtenir la clau permet que % 1 descarregui tots els mods d&apos;un modpack automàticament, sense necessitat de descàrregues manuals. Això també es pot fer més endavant a Configuració.</translation>
     </message>
 </context>
 <context>

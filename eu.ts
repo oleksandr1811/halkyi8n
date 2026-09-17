@@ -1265,6 +1265,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java automatikoa</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Deskargatu automatikoki Java bertsio zuzena Minecraft bertsio bakoitzeko.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Instantzia bakoitzerako Java bertsio egokia automatikoki deskargatu eta alda dezakeen eginbide berri bat gehitu da. Gaitu nahi duzu?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Gaitu Java deskarga automatikoa</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Gomendatua — %1ek Java automatikoki deskargatuko eta kudeatuko du.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Mantendu eskuzko Java ezarpenak</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Zuk zeuk kudeatuko dituzu Java instalazioa eta hautaketa.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6155,6 +6183,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Kontu</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Kontua Gehitu</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Hasi saioa Minecraft-en jolasteko. Geroago kontu gehiago gehi ditzakezu Ezarpenak atalean.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Mesedez, sartu zure kontu lineaz kanpoko kontua gehitzeko nahi duzun erabiltzaile-izena.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Mesedez, sartu autentifikazio zerbitzariaren URL-a, zure erabiltzaile izena eta pasahitza.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft kontua (Minecraft: Java Edizioa)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by kontua</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Sarbide-lineaz kanpoko kontua (ez da egiaztapenik behar)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Autentikazio zerbitzari pertsonalizatua</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9769,6 +9833,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Itsatsi Zerbitzua</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Erregistroak kargatzeko zerbitzu lehenetsia aldatu da.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Itsatsi-zerbitzu lehenetsia mclo.gs-era aldatu da. Aukeratu lehendik dituzun itsatsi ezarpenekin zer egin.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Erabili defektuzko zerbitzu berria (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Gomendatua — aldatu Mclo.gs zerbitzu berri eta azkarragoara.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Lehendik dagoen itsatsi zerbitzu pertsonalizatuaren URLa gordeko da.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12766,6 +12854,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Hurrengoa &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Itzuli</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Amaitu</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Freskatu</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Konfigurazio azkarra</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14776,6 +14884,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API Giltza</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Gaitu CurseForge modpack osoko deskargak.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Kontuz: CurseForge aplikazio ofizialaren API gakoa erabiltzeak CurseForge-ren zerbitzu baldintzak urratu ditzake.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Gakoaren eskuratzeak %1i aukera ematen dio modpakete bateko mod guztiak automatikoki deskargatzeko, eskuzko deskargak behar izan gabe. Hau geroago ezarpenetan ere egin daiteke.</translation>
     </message>
 </context>
 <context>

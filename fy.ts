@@ -944,6 +944,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatyske Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Download automatysk de juste Java-ferzje foar elke Minecraft-ferzje.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>In nije funksje waard tafoege dy&apos;t automatysk de juste Java-ferzje foar elk gefal kin downloadje en oerskeakelje. Wolle jo it ynskeakelje?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Makket automatyske Java-ôfbylding mooglik</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Oanrikkemandearre — %1 sil Java automatysk downloade en beheare.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Hâld hânmjittige Java-ynstellingen</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Do silst sels it Java-ynstallaasje en seleksje beheare.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5528,6 +5556,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Akount</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Account tafoegje</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Meld jo oan om Minecraft te spyljen. Jo kinne letter mear akkounts tafoegje yn Ynstellings.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Fier asjebleaft jo winske brûkersnamme yn om jo offline akkount ta te foegjen.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Fier asjebleaft de URL fan de autentikaasjeserver, jo brûkersnamme en wachtwurd yn.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft-akkount (Minecraft: Java-edysje)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by akkount</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Offline akkount (gjin autentikaasje)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Oanpaste autentifikaasje-server</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -8947,6 +9011,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Plaktsjinst</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>De standert log uploadtsjinst is feroare.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>De standert plakke-tsjinst is wizige nei mclo.gs. Kies wat te dwaan mei jo besteande plakke-ynstellings.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Brûk nije standerttsjinst (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Aanrikkemandearre — wikselje oer nei de nije, fluggere mclo.gs-tsjinst.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Jo besteande oanpaste paste-tsjinst-URL sil behâlden wurde.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -11904,6 +11992,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Folgjende &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Werom</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Klear</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Ferskine</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Flugge ynstellings</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -13777,6 +13885,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API-kaai</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Makket folsleine CurseForge modpack downloads mooglik.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Warskôging: It brûken fan de API-kaai fan de offisjele CurseForge-app kin de tsjinsten fan CurseForge oertrêde.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>It sletten fan de kaai makket it mooglik foar %1 om alle mods yn in modpack automatysk te downloaden, sûnder hânmjittige downloads te fereaskjen. Dit kin ek letter yn Ynstellings dien wurde.</translation>
     </message>
 </context>
 <context>

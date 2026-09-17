@@ -1420,6 +1420,34 @@ Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;ex
         <source>Disable Auto-Download</source>
         <translation>Keela automaatne allalaadimine</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automaatne Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Laadige iga Minecrafti versiooni jaoks automaatselt alla õige Java versioon.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Lisati uus funktsioon, mis saab automaatselt alla laadida ja lülituda iga eksemplari jaoks õigele Java versioonile. Kas soovite selle lubada?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Luba automaatne Java allalaadimine</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Soovitatav — %1 laadib Java automaatselt alla ja haldab seda.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Hoidke käsitsi Java seaded alles</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Java installimist ja valikut haldate ise.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7699,6 +7727,42 @@ Põhjus:
         <source>Add Microsoft account</source>
         <translation>Lisa Microsofti konto</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Konto</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Lisa konto</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecrafti mängimiseks logige sisse. Saate lisada hiljem rohkem kontosid jaotises Seaded.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Palun sisestage soovitud kasutajanimi, et lisada oma võrguühenduseta konto.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Sisestage autentimisserveri URL, oma kasutajanimi ja parool.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsofti konto (Minecraft: Java väljaanne)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by konto</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Võrguühenduseta konto (ilma autentimiseta)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Kohandatud autentimiserver</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -12564,6 +12628,30 @@ Veateade: %3</translation>
         <source>Keep previous settings</source>
         <translation>Säilita viimased seaded</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Kleepimisteenus</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Vaikimisi logi üleslaadimise teenus on muutunud.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Vaikimisi kleepimisteenus on muutunud mclo.gs-ks. Valige, mida teha olemasolevate kleepimisseadetega.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Kasuta uut vaiketeenust (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Soovitatav – lülituge uuele, kiiremale teenusele mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Teie olemasolev kohandatud kleepimisteenuse URL jäetakse alles.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -15804,6 +15892,26 @@ Kas oled kindel?</translation>
         <source>%1 Quick Setup</source>
         <translation>%1 kiirseadistus</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Järgmine &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Tagasi</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Lõpeta</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Värskenda</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Kiire seadistamine</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -18250,6 +18358,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Hangi ametliku launcheri võti</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge&apos;i API-võti</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Luba täielikud CurseForge modipakettide allalaadimised.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Hoiatus: ametliku CurseForge rakenduse API-võtme kasutamine võib rikkuda CurseForge&apos;i teenusetingimusi.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Võtme hankimine võimaldab %1-l automaatselt alla laadida kõik modipaki modid, ilma et oleks vaja käsitsi allalaadimist. Seda saab hiljem teha ka seadetes.</translation>
     </message>
 </context>
 <context>

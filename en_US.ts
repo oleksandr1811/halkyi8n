@@ -525,11 +525,11 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     </message>
     <message>
         <source>Custom Theme Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom Theme Colors</translation>
     </message>
     <message>
         <source>Select Color for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Color for %1</translation>
     </message>
 </context>
 <context>
@@ -939,6 +939,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatic Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Automatically download the correct Java version for each Minecraft version.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Enable automatic Java download</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Recommended — %1 will download and manage Java automatically.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Keep manual Java settings</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>You will manage Java installation and selection yourself.</translation>
     </message>
 </context>
 <context>
@@ -4429,15 +4457,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Disable telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Disable telemetry</translation>
     </message>
     <message>
         <source>Telemetry is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetry is disabled.</translation>
     </message>
     <message>
         <source>Enable telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable telemetry</translation>
     </message>
 </context>
 <context>
@@ -5523,6 +5551,42 @@ Reason:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Account</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Add Account</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Sign in to play Minecraft. You can add more accounts later in Settings.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Please enter your desired username to add your offline account.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Please enter authentication server URL, your username and password.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>  Microsoft account  (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>  Ely.by account</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>  Offline account  (no authentication)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>  Custom auth server</translation>
     </message>
 </context>
 <context>
@@ -8943,6 +9007,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Paste Service</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>The default log upload service has changed.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Use new default service (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Recommended — switch to the new, faster mclo.gs service.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Your existing custom paste service URL will be preserved.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -11899,6 +11987,26 @@ Are you sure?</source>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Next &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Back</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Finish</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Refresh</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Quick Setup</translation>
     </message>
 </context>
 <context>

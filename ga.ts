@@ -1200,6 +1200,34 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
         <source>Disable Auto-Download</source>
         <translation>Díchumasaigh Uath-Íoslódáil</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java Uathoibríoch</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Íoslódáil go huathoibríoch an leagan ceart de Java do gach leagan de Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Cuirtear gné nua leis a féidir í a íoslódáil go huathoibríoch agus athrú go dtí an leagan Java ceart do gach sampla. Ar mhaith leat é a chur ar siúl?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Cumasigh íoslódáil uathoibríoch Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Moltar — íoslódálfaidh %1 agus bainistíonn sé Java go huathoibríoch.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Coinnigh socruithe láimhe Java</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Bainfidh tú féin bainistíocht ar shuiteáil agus roghnú Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6969,6 +6997,42 @@ Cúis:
         <source>Add Microsoft account</source>
         <translation>Cuir cuntas Microsoft leis</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Cuntas</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Cuir Cuntas Leis</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Sín isteach chun Minecraft a imirt. Is féidir leat cuntais níos mó a chur leis níos déanaí sna Socruithe.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Iontráil d’ainm úsáideora inmhianaithe chun do chuntas as líne a chur leis.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Iontráil le do thoil URL an fhreastalaí fíordheimhnithe, do ainm úsáideora agus do phasfhocal.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Cuntas Microsoft (Minecraft: Eagrán Java)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Cuntas Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Cuntas as líne (gan fíordheimhniú)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Freastalaí údaraithe saincheaptha</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -11084,6 +11148,30 @@ Teachtaireacht earráide: %3</translation>
         <source>Keep previous settings</source>
         <translation>Coinnigh na socruithe roimhe seo</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Seirbhís Greamaigh</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Tá seirbhís luchtaithe loga réamhshocraithe athraithe.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Tá seirbhís greamaithe réamhshocraithe athraithe go mclo.gs. Roghnaigh cad ba mhaith leat a dhéanamh le do shocruithe greamaithe reatha.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Úsáid an tseirbhís réamhshocraithe nua (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Moltar — aistrigh go dtí an tseirbhís nua, níos tapúla mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Coinnófar URL seirbhíse greamacháin saincheaptha atá agat cheana féin.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -14298,6 +14386,26 @@ An bhfuil tú cinnte?</translation>
         <source>%1 Quick Setup</source>
         <translation>Socrú Tapa %1</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Ar Aghaidh &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Ar ais</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Críochnaigh</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Athnuaigh</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Socrú Tapa</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -16373,6 +16481,26 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>API CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>Eochair API CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Cumasaigh íoslacháin iomlána pacáistí mod CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Rabhadh: D’fhéadfadh úsáid eochair API oifigiúil an aip CurseForge téarmaí seirbhíse CurseForge a shárú.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Ligann an eochair a fháil do %1 gach mod i bpacáiste mod a íoslódáil go huathoibríoch, gan gá le híoslódálacha lámhscríofa. Is féidir é seo a dhéanamh níos déanaí freisin sna Socruithe.</translation>
     </message>
 </context>
 <context>

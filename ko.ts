@@ -1469,6 +1469,34 @@ Some versions of Minecraft may not launch.
         <source>Disable Auto-Download</source>
         <translation>자동 다운로드 비활성화</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>자동 자바</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>각 마인크래프트 버전에 맞는 자바 버전을 자동으로 다운로드합니다.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>각 인스턴스에 대해 올바른 Java 버전을 자동으로 다운로드하고 전환할 수 있는 새로운 기능이 추가되었습니다. 이것을 활성화하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>자동 Java 다운로드 활성화</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>권장 — %1이(가) Java를 자동으로 다운로드하고 관리합니다.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>수동 Java 설정 유지</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>자바 설치와 선택은 스스로 관리해야 합니다.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -8013,6 +8041,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>Microsoft 계정 추가</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>계정</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>계정 추가</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecraft를 플레이하려면 로그인하세요. 설정에서 나중에 더 많은 계정을 추가할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>오프라인 계정을 추가하려면 원하는 사용자 이름을 입력하세요.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>인증 서버 URL, 사용자 이름 및 비밀번호를 입력하세요.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>마이크로소프트 계정 (마인크래프트: 자바 에디션)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by 계정</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>오프라인 계정 (인증 없음)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>맞춤 인증 서버</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -13152,6 +13216,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation>이전 설정 유지</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>붙여넣기 서비스</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>기본 로그 업로드 서비스가 변경되었습니다.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>기본 붙여넣기 서비스가 mclo.gs로 변경되었습니다. 기존 붙여넣기 설정을 어떻게 처리할지 선택하세요.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>새 기본 서비스(mclo.gs) 사용</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>권장 — 새롭고 더 빠른 mclo.gs 서비스로 전환하세요.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>기존 맞춤 붙여넣기 서비스 URL은 그대로 유지됩니다.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -16586,6 +16674,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation>%1 빠른 설치</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>다음 &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; 뒤로</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>완료</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>새로 고침</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>빠른 설정</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -19197,6 +19305,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>공식 런처 키 가져오기</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>커스포지 API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API 키</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>전체 CurseForge 모드팩 다운로드를 활성화합니다.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>경고: 공식 CurseForge 앱의 API 키를 사용하면 CurseForge의 서비스 약관을 위반할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>키를 가져오면 %1이 수동 다운로드 없이 모드팩의 모든 모드를 자동으로 다운로드할 수 있습니다. 이는 나중에 설정에서 수행할 수도 있습니다.</translation>
     </message>
 </context>
 <context>

@@ -940,6 +940,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>خودکار جاوا</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>ہر Minecraft ورژن کے لیے صحیح Java ورژن خودکار طور پر ڈاؤن لوڈ کریں۔</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>ایک نیا فیچر شامل کیا گیا ہے جو خودکار طور پر ہر انسٹینس کے لیے درست جاوا ورژن ڈاؤن لوڈ اور سوئچ کر سکتا ہے۔ کیا آپ اسے فعال کرنا چاہیں گے؟</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>خودکار جاوا ڈاؤن لوڈ کو فعال کریں</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>تجویز کردہ — %1 جاوا کو خود بخود ڈاؤن لوڈ اور منظم کرے گا۔</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>دستی جاوا کی ترتیبات رکھیں</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>آپ خود جاوا کی تنصیب اور انتخاب کا انتظام کریں گے۔</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5524,6 +5552,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>اکاؤنٹ</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>اکاؤنٹ شامل کریں</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecraft کھیلنے کے لیے سائن ان کریں۔ آپ بعد میں سیٹنگز میں مزید اکاؤنٹس شامل کر سکتے ہیں۔</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>براہ کرم اپنا مطلوبہ صارف نام درج کریں تاکہ آپ اپنا آف لائن کھاتہ شامل کر سکیں۔</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>براہ کرم توثیقی سرور کا یو آر ایل، اپنا یوزرنیم اور پاس ورڈ درج کریں۔</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>مائیکروسافٹ اکاؤنٹ (مائن کرافٹ: جاوا ایڈیشن)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by اکاؤنٹ</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>آف لائن اکاؤنٹ (کوئی توثیق نہیں)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>کسٹم تصدیقی سرور</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -8943,6 +9007,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>پیست سروس</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>ڈیفالٹ لاگ اپ لوڈ سروس تبدیل ہو گئی ہے۔</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>ڈیفالٹ پیسٹ سروس mclo.gs میں تبدیل ہو گئی ہے۔ اپنے موجودہ پیسٹ سیٹنگز کے ساتھ کیا کرنا ہے، منتخب کریں۔</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>نئی ڈیفالٹ سروس استعمال کریں (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>تجویز کی گئی — نئے، تیز mclo.gs سروس پر سوئچ کریں۔</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>آپ کا موجودہ حسب ضرورت پیسٹ سروس URL محفوظ رہے گا۔</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -11900,6 +11988,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>اگلا &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; واپس</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>ختم کریں</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>تازہ کریں</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>فوری سیٹ اپ</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -13773,6 +13881,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>کرز فورج اے پی آئی</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API کلید</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>پورے CurseForge موڈ پیک ڈاؤن لوڈز کو فعال کریں۔</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>خبردار: سرکاری CurseForge ایپ کے API کلید کا استعمال کرنا CurseForge کی سروس کی شرائط کی خلاف ورزی کر سکتا ہے۔</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>چابی حاصل کرنے سے %1 کو ایک موڈ پیک میں تمام موڈز خود بخود ڈاؤن لوڈ کرنے کی اجازت ملتی ہے، بغیر کسی دستی ڈاؤن لوڈ کی ضرورت کے۔ یہ بعد میں سیٹنگز میں بھی کیا جا سکتا ہے۔</translation>
     </message>
 </context>
 <context>

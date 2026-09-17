@@ -1452,6 +1452,34 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
         <source>Disable Auto-Download</source>
         <translation>ปิดการดาวน์โหลดอัตโนมัติ</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>จาวาอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>ดาวน์โหลดเวอร์ชัน Java ที่ถูกต้องสำหรับแต่ละเวอร์ชันของ Minecraft โดยอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>มีการเพิ่มคุณสมบัติใหม่ที่สามารถดาวน์โหลดและสลับไปยังเวอร์ชัน Java ที่ถูกต้องโดยอัตโนมัติสำหรับแต่ละอินสแตนซ์ คุณต้องการเปิดใช้งานหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>เปิดใช้งานการดาวน์โหลด Java อัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>แนะนำ — %1 จะดาวน์โหลดและจัดการ Java โดยอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>เก็บการตั้งค่า Java แบบแมนนวล</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>คุณจะจัดการการติดตั้งและการเลือก Java ด้วยตัวเอง</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7399,6 +7427,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>เพิ่มบัญชี Microsoft</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>บัญชี</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>เพิ่มบัญชี</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>ลงชื่อเข้าใช้เพื่อเล่น Minecraft คุณสามารถเพิ่มบัญชีเพิ่มเติมได้ในภายหลังในการตั้งค่า</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>กรุณาใส่ชื่อผู้ใช้ที่คุณต้องการเพื่อเพิ่มบัญชีออฟไลน์ของคุณ</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>กรุณาใส่ URL ของเซิร์ฟเวอร์การตรวจสอบตัวตน ชื่อผู้ใช้ และรหัสผ่านของคุณ</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>บัญชี Microsoft (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>บัญชี Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>บัญชีแบบออฟไลน์ (ไม่มีการพิสูจน์ตัวตน)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>เซิร์ฟเวอร์ยืนยันตัวตนแบบกำหนดเอง</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -11181,6 +11245,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>บริการวางข้อความ</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>บริการอัปโหลดบันทึกเริ่มต้นได้เปลี่ยนแปลงแล้ว</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>บริการวางข้อความเริ่มต้นได้เปลี่ยนเป็น mclo.gs เลือกสิ่งที่ต้องการทำกับการตั้งค่าวางข้อความที่มีอยู่ของคุณ</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>ใช้บริการเริ่มต้นใหม่ (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>แนะนำ — เปลี่ยนไปใช้บริการ mclo.gs ใหม่ที่เร็วขึ้น</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>URL ของบริการวางข้อความแบบกำหนดเองที่มีอยู่ของคุณจะถูกเก็บไว้</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -14190,6 +14278,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation>การตั้งค่า %1 แบบด่วน</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>ถัดไป &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; ย้อนกลับ</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>เสร็จ</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>รีเฟรช</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>ตั้งค่าอย่างรวดเร็ว</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -16175,6 +16283,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>ดึงคีย์ของลอนเชอร์อย่างเป็นทางการ</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>API ของ CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>คีย์ API ของ CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>เปิดใช้งานการดาวน์โหลดม็อดแพ็ค CurseForge แบบเต็ม</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>คำเตือน: การใช้คีย์ API ของแอป CurseForge อย่างเป็นทางการอาจละเมิดข้อกำหนดการให้บริการของ CurseForge</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>การดึงคีย์จะทำให้ %1 ดาวน์โหลด mod ทั้งหมดใน modpack โดยอัตโนมัติ โดยไม่ต้องดาวน์โหลดด้วยตนเอง ซึ่งสามารถทำได้ในภายหลังในการตั้งค่า</translation>
     </message>
 </context>
 <context>

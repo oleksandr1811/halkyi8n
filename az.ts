@@ -1167,6 +1167,34 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
         <source>Disable Auto-Download</source>
         <translation>Avtomatik yükləməni deaktiv edin</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Avtomatik Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Hər Minecraft versiyası üçün düzgün Java versiyasını avtomatik endirin.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Hər bir nümunə üçün avtomatik yükləyə və düzgün Java versiyasına keçə bilən yeni funksiya əlavə edildi. Onu aktiv etmək istərdinizmi?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Avtomatik Java yükləməsini aktivləşdirin</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Tövsiyə olunur — %1 Java-nı avtomatik endirəcək və idarə edəcək.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Əl ilə Java parametrlərini saxlayın</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Java quraşdırılması və seçimini özünüz idarə edəcəksiniz.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6035,6 +6063,42 @@ Səbəb:
         <source>Add Microsoft account</source>
         <translation>Microsoft hesabı əlavə et</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Hesab</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Hesab əlavə edin</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecraft oynamaq üçün daxil olun. Daha sonra Parametrlərdə daha çox hesab əlavə edə bilərsiniz.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Oflayn hesabınızı əlavə etmək üçün istədiyiniz istifadəçi adınızı daxil edin.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Zəhmət olmasa, identifikasiya serverinin URL-sini, istifadəçi adınızı və parolunuzu daxil edin.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft hesabı (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely. hesabı ilə</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Offline hesab (identifikasiyası yoxdur)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Fərdi doğrulama serveri</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9562,6 +9626,30 @@ Bu daimi ola bilər və loqlar qovluğundan silinəcəkdir.
         <source>Keep previous settings</source>
         <translation>Əvvəlki parametrləri saxla</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Yapıştırma xidməti</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Defolt log yükləmə xidməti dəyişdi.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Defolt pasta xidməti mclo.gs-ə dəyişdi. Mövcud pasta parametrlərinizlə nə edəcəyinizi seçin.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Yeni standart xidmətdən istifadə edin (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Tövsiyə olunur — yeni, daha sürətli mclo.gs xidmətinə keçin.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Mövcud fərdi yapışdırma xidmətinizin URL-i qorunacaq.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12663,6 +12751,26 @@ Bu proses daimidir və server siyahınızdan həmişəlik (ÇOX UZUN MÜDDƏTLİ
         <source>%1 Quick Setup</source>
         <translation>%1 Sürətli Quraşdırma</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Sonrakı &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Geri</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Bitir</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Yeniləyin</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Tez Quraşdırma</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14646,6 +14754,26 @@ Hesabınızı %1 ə əsasən düzəldin.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Rəsmi launcherin açarını əldə et</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API Açarı</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Tam CurseForge modpack yükləmələrini aktivləşdirin.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Xəbərdarlıq: Rəsmi CurseForge tətbiqinin API açarından istifadə CurseForge xidmət şərtlərini poza bilər.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Açarın gətirilməsi %1-ə əl yükləmələri tələb etmədən modpackdakı bütün modları avtomatik endirməyə imkan verir. Bunu daha sonra Parametrlərdə də etmək olar.</translation>
     </message>
 </context>
 <context>

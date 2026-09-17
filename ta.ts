@@ -1205,6 +1205,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation>ஆட்டோ-டவுன்லோவை முடக்கு</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>தானியங்கி ஜாவா</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>ஒவ்வொரு Minecraft பதிப்பிற்கும் சரியான Java பதிப்பை தானாக பதிவிறக்கவும்.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>ஒவ்வொரு உதாரணத்திற்கும் சரியான ஜாவா பதிப்பை தானாக தரவிறக்கம் செய்து மாற்றக்கூடிய புதிய அம்சம் சேர்க்கப்பட்டது. அதை செயல்படுத்த விரும்புகிறீர்களா?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>தானாக ஜாவா பதிவிறக்கம் செய்ய இயலுமாகச் செய்க</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>பரிந்துரைக்கப்படுகிறது — %1 ஜావாவை தன்னிச்சையாக பதிவிறக்கி நிர்வகிக்கும்.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>மனுவல் ஜாவா அமைப்புகளை պահிக்கவும்</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>நீங்கள் ஜாவா நிறுவலையும் தேர்வையும் தானாகவே கையாள்வீர்கள்.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6978,6 +7006,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>நுண்மென் கணக்கைச் சேர்க்கவும்</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>கணக்கு</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>கணக்கைச் சேர்க்க</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecraft விளையாட கருத்தில் உள்நுழையவும். பின்னர் அமைப்புகளில் கூடுதலாக கணக்குகளை சேர்க்கலாம்.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>உங்கள் ஆஃப்லைன் கணக்கைச் சேர்க்க உங்கள் விரும்பிய பயனர் பெயரை உள்ளிடவும்.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>தயவுசெய்து அங்கீகார சேவையக URL, உங்கள் பயனர் பெயர் மற்றும் கடவுச்சொல்லை உள்ளிடவும்.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>مایக்க்ரோசாஃப்ட் கணக்கு (Minecraft: ஜாவா பதிப்பு)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by கணக்கு</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>ஆஃப்லைன் கணக்கு (ஆங்கீகாரம் இல்லை)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>தனிப்பயன் அங்கீகார சேவை</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -11115,6 +11179,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation>முந்தைய அமைப்புகளை வைத்திருங்கள்</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>பெருக்க சেবা</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>இயல்புநிலை பதிவு பதிவேற்ற சேவை மாற்றப்பட்டுள்ளது.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>இயல்புநிலை பதித்தல் சேவை mclo.gs ஆக மாற்றப்பட்டது. உங்கள் உள்ளமைவுள்ள பதிப்புக் கட்டளைகளுடன் என்ன செய்யுவது என்பதைக் தேர்ந்தெடுக்கவும்.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>புதிய குறுந்தேவை சேவையை (mclo.gs) பயன்படுத்தவும்</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>பரிந்துரைக்கப்படுகிறது — புதிய, வேகமான mclo.gs சேவைக்கு மாறவும்.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>உங்கள் தற்போதைய தனிப்பட்ட பேஸ்ட் சேவை URL பாதுகாக்கப்படும்.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -14311,6 +14399,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation>%1 விரைவான அமைப்பு</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>அடுத்தது &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; பின்</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>முடி</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>மறுமீட்டமை</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>வெரைக சீரமைப்பு</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -16384,6 +16492,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>கர்ஸ்‌ஃபோர்ஜ் API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>கர்மம்Forge API விசை</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>முழு CurseForge modpack பதிவிறக்கங்களை இயக்கவும்.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>எச்சரிக்கை: அதிகாரபூர்வ CurseForge செயலியின் API விசையை பயன்படுத்துவது CurseForge சேவை நிபந்தனைகளை உடைக்கும் வாய்ப்பு உள்ளது.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>சாவியை பெறுவதன் மூலம் %1 அனைத்து மோட்பேக்கில் உள்ள மாட்களை தானாகவே பதிவிறக்கம் செய்ய முடியும், கைமுறை பதிவிறக்கங்களை தேவையாக்காமல். இதை பிறகு அமைப்புகளில் செய்யலாம்.</translation>
     </message>
 </context>
 <context>

@@ -576,6 +576,14 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <source>[FATAL] A terrifying fatal error!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Պատվերով թեմայի գույներ</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Ընտրեք Գույն %1-ի համար</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -984,6 +992,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Ատոմատ Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Ավտոմատ կերպով ներբեռնել ճիշտ Java տարբերակը յուրաքանչյուր Minecraft տարբերակի համար:</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Ավելացավ նոր ֆունկցիա, որը կարող է ինքնաբերաբար ներբեռնել և անցնել ճիշտ Java տարբերակին յուրաքանչյուր օրինակին համար: Ցանկանու՞մ եք այն ակտիվացնել:</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Ընդարձակում ավտոմատ Java ներբեռնումը</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Խորհուրդ է տրվում — %1 ավտոմատ կերպով կբեռնարկի և կառավարի Java-ն:</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Պահպանել ձեռնարկային Java կարգավորումները</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Դուք ինքներդ եք կառավարելու Java-ի տեղադրումը և ընտրությունը:</translation>
     </message>
 </context>
 <context>
@@ -4593,6 +4629,18 @@ You can change the Java version in the settings later.
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Անջատել հեռաչափությունը</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Հեռաչափությունը անջատված է:</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Միացնել հեռաչափությունը</translation>
+    </message>
 </context>
 <context>
     <name>LaunchCommand</name>
@@ -5712,6 +5760,42 @@ Reason:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Հաշիվ</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Ավելացնել Խումբ</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Մուտք գործեք Minecraft խաղալու համար: Կարող եք հետագայում ավելացնել ավելի շատ հաշիվներ Սահմաններում։</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Խնդրում ենք մուտքագրել ձեր ցանկալի օգտանունը՝ ձեր օֆլայն հաշիվը ավելացնելու համար։</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Խնդրում ենք մուտքագրել ավտենտիկացման սերվերի URL-ը, ձեր օգտանունը և գաղտնաբառը։</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft հաշիվ (Minecraft: Java հրատարակություն)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by հաշիվ</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Օֆլայն հաշիվ (առանց հաստատման)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Պատվերով հավաստագրող սերվեր</translation>
     </message>
 </context>
 <context>
@@ -9247,6 +9331,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Թխվածքի ծառայություն</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Նախնական նշագրումների բեռնման ծառայությունը փոխվել է։</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Նախնական պատճենման ծառայությունը փոխվել է՝ mclo.gs։ Ընտրեք, թե ինչ անել ձեր առկա պատճենման կարգավորումների հետ։</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Օգտագործեք նոր ընտրված ծառայությունը (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Խորհուրդ է տրվում՝ անցնել նոր, ավելի արագ mclo.gs ծառայությանը։</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Ձեր գոյություն ունեցող հարմարեցված զանգվածային ծառայության URL-ը պահպանվելու է։</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12211,6 +12319,26 @@ Are you sure?</source>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Հաջորդ &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Վերադառնալ</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Ավարտել</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Թարմացնել</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Արտահերթ կարգավորում</translation>
     </message>
 </context>
 <context>

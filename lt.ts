@@ -1396,6 +1396,34 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
         <source>Disable Auto-Download</source>
         <translation>Išjungti automatinį atsisiuntimą</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatinė Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Automatiškai atsisiųskite tinkamą „Java“ versiją kiekvienai „Minecraft“ versijai.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Buvo pridėta nauja funkcija, kuri gali automatiškai atsisiųsti ir perjungti į teisingą Java versiją kiekvienam egzemplioriui. Ar norėtumėte ją įjungti?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Įgalinti automatinį Java parsisiuntimą</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Rekomenduojama — %1 automatiškai atsisiųs ir valdys Java.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Laikykite rankinius Java nustatymus</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Java diegimą ir pasirinkimą valdysite patys.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7324,6 +7352,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>sąskaita</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Pridėti paskyrą</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Prisijunkite, kad galėtumėte žaisti Minecraft. Vėliau galite pridėti daugiau paskyrų nustatymuose.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Įveskite norimą vartotojo vardą, kad pridėtumėte neprisijungus pasiekiamą paskyrą.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Prašome įvesti autentifikavimo serverio URL, savo vartotojo vardą ir slaptažodį.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>„Microsoft“ paskyra (Minecraft: Java leidimas)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.pagal sąskaitą</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Nepageidaujama paskyra (be autentifikacijos)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Pasirinktinis autentifikavimo serveris</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -11207,6 +11271,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Įklijavimo paslauga</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Numatytoji žurnalo įkėlimo paslauga pasikeitė.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Numatytoji įklijavimo paslauga pakeista į mclo.gs. Pasirinkite, ką daryti su esamais įklijavimo nustatymais.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Naudoti naują numatytąją paslaugą (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Rekomenduojama — pereikite prie naujos, greitesnės mclo.gs paslaugos.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Jūsų esamas pasirinktas įklijavimo paslaugos URL bus išsaugotas.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -14232,6 +14320,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Kitas &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Atgal</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Baigti</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Atnaujinti</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Greitas nustatymas</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -16228,6 +16336,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Gauti oficialaus palaistuvės raktą</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API raktas</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Įgalinti visus CurseForge modpack atsisiuntimus.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Įspėjimas: naudojant oficialų CurseForge programos API raktą gali būti pažeistos CurseForge paslaugų teikimo sąlygos.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Rakto gavimas leidžia %1 automatiškai atsisiųsti visus modifikacijų paketo modifikacijas, nereikalaujant rankinio atsisiuntimo. Tai taip pat galima padaryti vėliau nustatymuose.</translation>
     </message>
 </context>
 <context>

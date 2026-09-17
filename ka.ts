@@ -1259,6 +1259,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation>არა, გათიშე</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>ავტომატური ჯავა</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>თვითმხრობით ჩამოტვირთეთ სწორი Java ვერსია თითოეული Minecraft ვერსიისთვის.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>დამატდა ახალი ფუნქცია, რომელიც ავტომატურად დატვირთავს და გადაერთვება შესაბამისი Java ვერსიაზე თითოეული ინსტანციისთვის. გსურთ მისი ჩართვა?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>გააქტიურეთ ავტომატური Java-ის ჩამოტვირთვა</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>რეკომენდებულია — %1 ავტომატურად ჩამოტვირთავს და მართავს Java-ს.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>გაიტანეთ ხელით Java პარამეტრები</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>თქვენ თვითონ გაუმკლავდებით Java-ს ინსტალაციას და არჩევას.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6051,6 +6079,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>ანგარიში</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>ანგარიშის დამატება</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>შესვლა Minecraft-ის სათამაშოდ. შემდეგ შეგიძლიათ დამატებითი ანგარიშები დაამატოთ პარამეტრებში.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>გთხოვთ შეიყვანოთ თქვენი სასურველი სახელი, რათა დაამატოთ საკუთარი ოფლაინ ანგარიშის.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>გთხოვთ შეიყვანოთ ავთენტიფიკაციის სერვერის URL, თქვენი მომხმარებლის სახელი და პაროლი.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft-ის ანგარიში (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by ანგარიში</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation> ოფლაინ ანგარიში (ავტენტიკაციის გარეშე)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>მორგებული ავტორიზაციის სერვერი</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9622,6 +9686,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>პასტის სერვისი</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>ნაგულისხმევი ჟურნალის ატვირთვის სერვისი შეიცვალა.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>სურათების სტანდარტული სერვისი შეიცვალა mclo.gs-სად. აირჩიეთ, რა გსურთ გააკეთოთ არსებული პასტის პარამეტრებთან.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>გამოიყენეთ ახალი დეფაულტური სერვისი (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>რეკომენდებულია — გადაერთეთ ახალ, უფრო სწრაფ mclo.gs სერვისზე.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>თქვენი არსებული კასტომიზირებული პასტის სერვისის URL შენარჩუნდება.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12607,6 +12695,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>შემდეგი &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; უკან</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>დასრულება</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>განახლება</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>სწრაფი წყვეტა</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14526,6 +14634,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>კურსფორჯის API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API გასაღები</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>ჩართეთ სრული CurseForge modpack ჩამოტვირთვები.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>გაფრთხილება: ოფიციალური CurseForge აპის API-ის კლავიშის გამოყენება შეიძლება დაარღვიონ CurseForge-ის მომსახურების პირობები.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>გასაღების მოპოვება საშუალებას აძლევს %1-ს ჩამოტვირთოს ყველა მოდიფიკაცია მოდპაკეტში ავტომატურად, ხელით ჩამოტვირთვების საჭიროების გარეშე. ეს ასევე შეიძლება მოგვიანებით გაკეთდეს პარამეტრებიდან.</translation>
     </message>
 </context>
 <context>

@@ -5870,6 +5870,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Xizmeta Paste</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Karûbarê barkirina têketinê ya xwerû guherî.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Karûbarê paste ya xwerû guhertiye mclo.gs. Hilbijêrin ku hûn bi mîhengên pasteya xweya heyî re çi bikin.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Karûbarê xwerû ya nû bikar bînin (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Pêşniyar kirin - veguherînin karûbarê mclo.gs nû, zûtirîn.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>URL-ya weya karûbarê pasteya xwerû ya heyî dê were parastin.</translation>
+    </message>
 </context>
 <context>
     <name>PostLaunchCommand</name>
@@ -7370,6 +7394,26 @@ Are you sure?</source>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Next &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Vegere</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Qedandin</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Hênikkirin</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Setup Quick</translation>
     </message>
 </context>
 <context>
@@ -8983,6 +9027,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API Key</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Dakêşanên moda pakêtê yên CurseForge bi tevahî çalak bikin.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Hişyarî: Bikaranîna mifteya API-ya fermî ya CurseForge dibe ku şertên karûbarê CurseForge binpê bike.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Girtina kilîtê dihêle ku %1 hemî modên di modpakê de bixweber dakêşîne, bêyî ku pêdivî bi dakêşana bi destan hebe. Ev jî dikare paşê di Mîhengan de were kirin.</translation>
     </message>
 </context>
 <context>

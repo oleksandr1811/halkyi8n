@@ -1149,6 +1149,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation>បិទមុខងារទាញយកដោយស្វ័យប្រវត្តិ</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>ជាវ៉ាន់អូតូម៉ាទិក Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>ទាញយកជាវិAutomatic នូវកំណែ Java ត្រឹមត្រូវសម្រាប់កំណែ Minecraft នីមួយៗ។</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>គុណលក្ខណៈថ្មីត្រូវបានបន្ថែមដែលអាចទាញយកដោយស្វ័យប្រវត្តិ និងផ្លាស់ប្តូរកំណែ Java ដែលត្រឹមត្រូវសម្រាប់រាល់អង្គភាព។ តើយូកចង់បើកវាទេ?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>អនុញ្ញាតឲ្យទាញយក Java អូតូមាតិច</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>បានណែនាំ — %1 នឹងទាញយក និងគ្រប់គ្រង Java ដោយស្វ័យប្រវត្តិ។</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>រក្សាការកំណត់ Java ដោយដៃ</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>អ្នកនឹងគ្រប់គ្រងការដំឡើង Java និងការជ្រើសរើសដោយខ្លួនឯង។</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5752,6 +5780,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>គណនី</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>បន្ថែមគណនី</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>ចូល כדיលេង Minecraft។ អ្នកអាចបន្ថែមគណនីបន្ថែមនៅពេលក្រោយក្នុងការកំណត់។</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>សូមបញ្ចូលឈ្មោះអ្នកប្រើដែលអ្នកចង់បាន ដើម្បីបន្ថែមគណនីអ៊ហ្វឡាញរបស់អ្នក។</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>សូមបញ្ចូល URL ម៉ាស៊ីនមេ ការផ្ទៀងផ្ទាត់ ឈ្មោះអ្នកប្រើប្រាស់ និងពាក្យសម្ងាត់របស់អ្នក។</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>គណនី Microsoft (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>គណនី Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>គណនីក្រៅបណ្តាញ (គ្មានការផ្ទៀងផ្ទាត់)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>ម៉ាស៊ីនមេផ្ទាល់ខ្លួនសម្រាប់ផ្ទៀងផ្ទាត់អត្តសញ្ញាណ</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9192,6 +9256,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>សេវាកម្មបញ្ចូល</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>សេវាកម្មផ្ទុកឯកសារចូលបញ្ជីលំនាំដើមបានផ្លាស់ប្តូរ។</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>សេវាកម្មភ្ជាប់លំនាំដើមបានផ្លាស់ប្តូរទៅជា mclo.gs។ ជ្រើសអ្វីដែលត្រូវធ្វើជាមួយការកំណត់ភ្ជាប់មានស្រាប់របស់អ្នក។</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>ប្រើសេវាប្រកាសលំនាំដើមថ្មី (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>បានណែនាំ — បិទទៅសេវាកម្ម mclo.gs ថ្មីដែលលឿនជាង។</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>URL សេវាកម្មបិទភ្ជាប់ផ្ទាល់ខ្លួនដែលមានស្រាប់របស់អ្នកនឹងត្រូវបានរក្សាទុក។</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12149,6 +12237,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>បន្ទាប់ &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; ត្រលប់</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>បញ្ចប់</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>បន្ទាន់សម័យ</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>ការដំឡើងរហ័ស</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14023,6 +14131,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>កូនសោ API របស់ CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>បើកការទាញយក CurseForge modpack ពេញលេញ។</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>ការព្រមានៈ ការប្រើកូនសោ API របស់កម្មវិធី CurseForge ផ្លូវការអាចលើកឡើងការបំពានលើលក្ខខណ្ឌសេវាកម្មរបស់ CurseForge។</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>ការទាញយកកូនសោអនុញ្ញាតឱ្យ %1 ទាញយកម៉ូដទាំងអស់ក្នុង modpack ពីរការដោយស្វ័យប្រវត្តិដោយមិនចាំបាច់ទាញយកដោយដៃ។ ក៏អាចធ្វើបានក្នុងការកំណត់នៅពេលក្រោយផងដែរ។</translation>
     </message>
 </context>
 <context>

@@ -1073,6 +1073,34 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
         <source>Disable Auto-Download</source>
         <translation>ປິດໃຊ້ການດາວໂຫຼດອັດຕະໂນມັດ</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java ອັດຕະໂນມັດ</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>ດາວໂຫລດເວີຊັນ Java ທີ່ຖືກຕ້ອງສໍາລັບແຕ່ລະເວີຊັນ Minecraft ອັດຕະໂນມັດ.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>ຄຸນນະສົມບັດໃຫມ່ໄດ້ຖືກເພີ່ມທີ່ສາມາດດາວໂຫລດອັດຕະໂນມັດແລະປ່ຽນໄປໃຊ້ Java ທີ່ຖືກຕ້ອງສໍາລັບແຕ່ລະຕົວຢ່າງ. ທ່ານຕ້ອງການເປີດໃຊ້ມັນບໍ?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>ເປີດໃຊ້ການດາວໂຫລດ Java ອັດຕະໂນມັດ</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>ແນະນຳ — %1 ຈະດາວໂຫຼດ ແລະຈັດການ Java ໂດຍອັດຕະໂນມັດ.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>ຮັກສາການຕັ້ງຄ່າ Java ແບບມື</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>ທ່ານຈະຈັດການການຕິດຕັ້ງແລະເລືອກ Java ເອງ.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5779,6 +5807,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>ເພີ່ມບັນຊີ Microsoft</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>ບັນຊີ</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>ເພີ່ມບັນຊີ</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>ເຂົ້າສູ່ລະບົບເພື່ອຫຼິ້ນ Minecraft.ທ່ານສາມາດເພີ່ມບັນຊີເພີ່ມເຕີມໃນພາຍຫຼັງໃນການຕັ້ງຄ່າ.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>ກະລຸນາໃສ່ຊື່ຜູ້ໃຊ້ທີ່ທ່ານຕ້ອງການເພື່ອເພີ່ມບັນຊີອອຟໄລຂອງທ່ານ.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>ກະລຸນາໃສ່ URL ເຊີບເວີການຢືນຢັນ, ຊື່ຜູ້ໃຊ້, ແລະລະຫັດຜ່ານ.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>ບັນຊີ Microsoft (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>ບັນຊີ Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>ບັນຊີອອບໄລນ໌ (ບໍ່ມີການພິສູດຢືນຢັນ)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>ເຊີບເວີການຮັບຮອງແບບກຳນົດເອງ</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9245,6 +9309,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation>ຮັກສາການຕັ້ງຄ່າເດີມໄວ້</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>ບໍລິການວາງ</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>ບໍລິການອັບໂຫລດບັນທຶກເລີ່ມຕົ້ນໄດ້ຖືກປ່ຽນແປງ.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>ບໍລິການວາງເລີ່ມຕົ້ນໄດ້ປ່ຽນເປັນ mclo.gs.ເລືອກສິ່ງທີ່ຈະເຮັດກັບການຕັ້ງຄ່າວາງທີ່ມີຢູ່ຂອງທ່ານ.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>ໃຊ້ບໍລິການເລີ່ມຕົ້ນໃໝ່ (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>ແນະນຳ — ສະຫຼັບໄປໃຊ້ການບໍລິການ mclo.gs ໃໝ່ທີ່ໄວກວ່າ.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>URL ການບໍລິການວາງແບບກຳນົດເອງທີ່ມີຢູ່ຂອງເຈົ້າຈະຖືກຮັກສາໄວ້.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12298,6 +12386,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation>ຕັ້ງຄ່າດ່ວນ %1</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>&gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; ກັບຄືນ</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>ສິ້ນສຸດ</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>ຟື້ນຟູ</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>ການຕັ້ງຄ່າຢ່າງຮວດເລັວ</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14228,6 +14336,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>ລະຫັດ API CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>ເປີດໃຊ້ການດາວໂຫລດ modpack ຂອງ CurseForge ໄດ້ຢ່າງຄົບຖ້ວນ.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>ຄຳເຕືອນ: ການໃຊ້ລະຫັດ API ຂອງແອັບ CurseForge ຢ່າງເປັນທາງການອາດລະເມີດເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>ການດຶງເອົາລະຫັດອະນຸຍາດໃຫ້ %1 ດາວໂຫຼດ mods ທັງໝົດໃນ modpack ໂດຍອັດຕະໂນມັດ, ໂດຍບໍ່ຕ້ອງການດາວໂຫຼດດ້ວຍຕົນເອງ. ອັນນີ້ສາມາດເຮັດໄດ້ພາຍຫຼັງໃນການຕັ້ງຄ່າ.</translation>
     </message>
 </context>
 <context>

@@ -1457,6 +1457,34 @@ Vissa versioner av Minecraft kanske inte startar.
         <source>Disable Auto-Download</source>
         <translation>Inaktivera automatisk nedladdning</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatisk Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Ladda automatiskt ner rätt version av Java för varje Minecraft-version.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>En ny funktion har lagts till som automatiskt kan ladda ner och byta till rätt Java-version för varje instans. Vill du aktivera den?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Aktivera automatisk nedladdning av Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Rekommenderas — %1 kommer automatiskt att ladda ner och hantera Java.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Behåll manuella Java-inställningar</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Du kommer själv att hantera installation och val av Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7989,6 +8017,42 @@ Orsak:
         <source>Add Microsoft account</source>
         <translation>Lägg till Microsoft-konto</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Konto</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Lägg till konto</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Logga in för att spela Minecraft. Du kan lägga till fler konton senare under Inställningar.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Vänligen ange ditt önskade användarnamn för att lägga till ditt offlinekonto.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Vänligen ange autentiseringsservers URL, ditt användarnamn och lösenord.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft-konto (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by-konto</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Offlinekonto (ingen autentisering)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Anpassad autentiseringsserver</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -13055,6 +13119,30 @@ Felmeddelande: %3</translation>
         <source>Keep previous settings</source>
         <translation>Behåll tidigare inställningar</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Klistra in-tjänst</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Standardtjänsten för logguppdatering har ändrats.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Standardtjänsten för inklistring har ändrats till mclo.gs. Välj vad du vill göra med dina befintliga inklistringsinställningar.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Använd ny standardtjänst (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Rekommenderas — byt till den nya, snabbare mclo.gs-tjänsten.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Din befintliga anpassade klistra in-tjänst URL kommer att bevaras.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -16471,6 +16559,26 @@ Detta är permanent och servern kommer att försvinna från din lista för allti
         <source>%1 Quick Setup</source>
         <translation>%1 Snabbinställningar</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Nästa &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Tillbaka</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Slutför</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Uppdatera</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Snabb installation</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -19072,6 +19180,26 @@ Ställ in kontot enligt %1.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Hämta officiell launcher-nyckel</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API-nyckel</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Aktivera fullständiga nedladdningar av CurseForge-modpaket.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Varning: Att använda den officiella CurseForge-appens API-nyckel kan bryta mot CurseForges användarvillkor.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Att hämta nyckeln gör det möjligt för %1 att automatiskt ladda ner alla mods i ett modpaket, utan att kräva manuella nedladdningar. Detta kan också göras senare i Inställningar.</translation>
     </message>
 </context>
 <context>

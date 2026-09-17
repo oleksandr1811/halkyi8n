@@ -1445,6 +1445,34 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
         <source>Disable Auto-Download</source>
         <translation>Zakázať automatické sťahovanie</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatický Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Automaticky stiahnuť správnu verziu Javy pre každú verziu Minecraftu.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Bola pridaná nová funkcia, ktorá dokáže automaticky stiahnuť a prepínať na správnu verziu Javy pre každú inštanciu. Chceli by ste ju povoliť?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Povoliť automatické sťahovanie Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Odporúčané — %1 automaticky stiahne a bude spravovať Javu.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Ponechať manuálne nastavenia Javy</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Inštaláciu a výber Javy budete spravovať sami.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7717,6 +7745,42 @@ Dôvod:
         <source>Add Microsoft account</source>
         <translation>Pridať Microsoft účet</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Účet</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Pridať účet</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Prihláste sa, aby ste mohli hrať Minecraft. Účty môžete pridať neskôr v Nastaveniach.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Zadajte požadované používateľské meno pre pridanie vášho offline účtu.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Zadajte URL autentifikačného servera, svoje používateľské meno a heslo.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft účet (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Účet Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Offline účet (bez overenia)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Vlastný autentifikačný server</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -12094,6 +12158,30 @@ Naozaj to chcete odstrániť?</translation>
         <source>Keep previous settings</source>
         <translation>Ponechať predošlé nastavenia</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Služba vkladania</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Predvolená služba nahrávania protokolov sa zmenila.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Predvolená služba vkladania sa zmenila na mclo.gs. Vyberte, čo robiť s vašimi existujúcimi nastaveniami vkladania.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Použite novú predvolenú službu (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Odporúčané — prejsť na novú, rýchlejšiu mclo.gs službu.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Vaša existujúca vlastná URL adresa služby pre vkladanie bude zachovaná.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -15286,6 +15374,26 @@ Naozaj to chcete urobiť?</translation>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Ďalej &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Späť</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Dokončiť</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Obnoviť</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Rýchle nastavenie</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -17643,6 +17751,26 @@ Prosím nastavte si účet podľa %1.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Načítať kľúč oficiálneho launchera</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>API CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>API kľúč CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Povoliť úplné sťahovanie modpackov CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Upozornenie: Používanie kľúča API oficiálnej aplikácie CurseForge môže porušovať podmienky služby CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Získanie kľúča umožňuje %1 automaticky stiahnuť všetky mody v balíku modov, bez potreby manuálneho sťahovania. Toto je možné urobiť aj neskôr v Nastaveniach.</translation>
     </message>
 </context>
 <context>

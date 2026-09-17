@@ -1200,6 +1200,34 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
         <source>Disable Auto-Download</source>
         <translation>Çaktivizo Shkarkimin Automatik</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java Automatike</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Shkarko automatikisht versionin e saktë të Java për çdo version të Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>U shtua një veçori e re që mund të shkarkojë automatikisht dhe të kalojë në versionin e duhur të Java për çdo instancë. A dëshironi ta aktivizoni atë?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Aktivizo shkarkimin automatik të Java-s</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>E rekomanduar — %1 do të shkarkojë dhe menaxhojë Java automatikisht.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Mbani cilësimet manuale të Java</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Ju do të menaxhoni vetë instalimin dhe përzgjedhjen e Java-s.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5922,6 +5950,42 @@ Arsyeja:
         <source>Add Microsoft account</source>
         <translation>Shto llogari Microsoft</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Llogari</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Shto Llogari</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Hyni për të luajtur Minecraft. Mund të shtoni më shumë llogari më vonë në Cilësimet.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Ju lutemi shkruani emrin e dëshiruar të përdoruesit për të shtuar llogarinë tuaj offline.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Ju lutemi shkruani URL-në e serverit të autentifikimit, emrin tuaj të përdoruesit dhe fjalëkalimin.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Llogaria Microsoft (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Llogari Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Llogari jashtë linje (pa autentikim)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Server i personalizuar i autentikimit</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9416,6 +9480,30 @@ Je i sigurt?</translation>
         <source>Keep previous settings</source>
         <translation>Mbaj cilësimet e mëparshme</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Shërbimi i ngjitjes</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Shërbimi i parazgjedhur i ngarkimit të regjistrimeve ka ndryshuar.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Shërbimi i paracaktuar i ngjitjes është ndryshuar në mclo.gs. Zgjidhni se çfarë të bëni me cilësimet ekzistuese të ngjitjes.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Përdorni shërbimin e ri të paracaktuar (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>E rekomanduar — kaloni te shërbimi i ri, më i shpejtë mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>URL-ja ekzistuese e shërbimit tuaj të ngjitjes së personalizuar do të ruhet.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12471,6 +12559,26 @@ Jeni i sigurt?</translation>
         <source>%1 Quick Setup</source>
         <translation>&apos;Konfigurimi i shpejtë i %1&apos;</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Tjetër &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Kthehu</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Mbaro</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Rifresko</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Konfigurim i Shpejtë</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14416,6 +14524,26 @@ Ju lutemi konfiguroni llogarinë tuaj sipas %1.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>API e CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>Çelësi i API-së CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Aktivizo shkarkimet e plota të modpaketeve CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Paralajmërim: Përdorimi i çelësit API të aplikacionit zyrtar CurseForge mund të shkelë kushtet e shërbimit të CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Marrja e çelësit lejon %1 të shkarkojë automatikisht të gjitha modet në një paketë modes, pa pasur nevojë për shkarkime manuale. Kjo mund të bëhet gjithashtu më vonë në Cilësimet.</translation>
     </message>
 </context>
 <context>

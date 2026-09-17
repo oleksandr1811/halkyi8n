@@ -1009,6 +1009,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java awtomatiku</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Niżżel awtomatikament il-verżjoni Java korretta għal kull verżjoni ta &apos;Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Żiedu karatteristika ġdida li tista&apos; tniżżel u tbiddel awtomatikament għall-verżjoni korretta ta&apos; Java għal kull eżempju. Tixtieqx tgħaliha?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Ippermetti tniżżil awtomatiku ta&apos; Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Rakkomandat — % 1 se jniżżel u jamministra Java awtomatikament.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Żomm issettjar manwali ta&apos; Java</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Int ser timmaniġġja l-installazzjoni u l-għażla tal-Java lilek innifsek.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5675,6 +5703,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Kont</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Żid Kont</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Idħol biex tilgħab Minecraft. Tista&apos; żżid aktar kontijiet aktar tard fis-Settings.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Jekk jogħġbok daħħal l-isem tal-utent mixtieq biex iżżid il-kont offline tiegħek.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Jekk jogħġbok daħħal l-URL tas-server ta&apos; awtentikazzjoni, l-isem tal-utent u l-password tiegħek.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Kont Microsoft (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Kont Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Konto offline (l-ebda awtentikazzjoni)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Server ta&apos; awtorizzazzjoni personalizzat</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9122,6 +9186,30 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Servizz ta&apos; Paste</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Is-servizz default ta&apos; upload ta&apos; log inbidel.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Is-servizz standard tal-paste nbidel għal mclo.gs. Agħżel x’għandek tagħmel bis-settings tal-paste eżistenti tiegħek.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Uża servizz default ġdid (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Rakkomandat — ibdel għas-servizz ġdid u aktar mgħaġġel ta’ mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Il-URL tas-servizz tal-pejst tad-dwana eżistenti tiegħek se jiġi ppreservat.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12085,6 +12173,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Li jmiss&gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Lura</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Spiċċa</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Aġġorna</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Setup Malajr</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -13972,6 +14080,26 @@ Jekk jogħġbok stabbilixxi l-kont tiegħek skont %1.</translation>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>Ċavetta API ta’ CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Ippermetti downloads sħaħ tal-modpack ta&apos; CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Twissija: L-użu taċ-ċavetta API tal-app uffiċjali ta&apos; CurseForge jista&apos; jikser it-termini tas-servizz ta&apos; CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Il-ġbir taċ-ċavetta jippermetti lil % 1 biex tniżżel il-mods kollha f&apos;modpack awtomatikament, mingħajr ma teħtieġ downloads manwali. Dan jista&apos; jsir ukoll aktar tard fis-Settings.</translation>
     </message>
 </context>
 <context>

@@ -1433,6 +1433,34 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
         <source>Disable Auto-Download</source>
         <translation>Atspējot automātisko lejupielādi</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automātiskā Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Automātiski lejupielādēt pareizo Java versiju katrai Minecraft versijai.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Tika pievienota jauna funkcija, kas var automātiski lejupielādēt un pārslēgties uz pareizo Java versiju katram gadījumam. Vai vēlaties to iespējot?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Iespējot automātisko Java lejupielādi</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Ieteicams — %1 automātiski lejupielādēs un pārvaldīs Java.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Saglabāt manuālos Java iestatījumus</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Jūs pats pārvaldīsit Java instalēšanu un atlasi.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7046,6 +7074,42 @@ Iemesls:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Konts</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Pievienot kontu</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Pierakstieties, lai spēlētu Minecraft. Vēlāk iestatījumos varēsiet pievienot vairāk kontu.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Lūdzu, ievadiet vēlamo lietotājvārdu, lai pievienotu savu bezsaistes kontu.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Lūdzu, ievadiet autentifikācijas servera URL, savu lietotājvārdu un paroli.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft konts (Minecraft: Java izdevums)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by account</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Bezsaistes konts (bez autentifikācijas)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Pielāgota autentifikācijas serveris</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -11024,6 +11088,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Ielīmēšanas pakalpojums</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Noklusējuma žurnāla augšupielādes pakalpojums ir mainīts.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Noklusējuma kopēšanas pakalpojums ir mainīts uz mclo.gs. Izvēlieties, ko darīt ar esošajiem kopēšanas iestatījumiem.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Izmantojiet jauno noklusējuma pakalpojumu (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Ieteicams — pārejiet uz jauno, ātrāko pakalpojumu mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Jūsu esošais pielāgotā ielīmēšanas pakalpojuma URL tiks saglabāts.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -14038,6 +14126,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Tālāk &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Atpakaļ</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Pabeigt</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Atsvaidzināt</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Ātra iestatīšana</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -16113,6 +16221,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Iegūt oficiālā launčera atslēgu</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API atslēga</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Iespējot pilnas CurseForge modpack lejupielādes.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Brīdinājums: oficiālās CurseForge lietotnes API atslēgas izmantošana var pārkāpt CurseForge pakalpojumu sniegšanas noteikumus.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Atslēgas iegūšana ļauj %1 automātiski lejupielādēt visus modifikācijas pakotnē, neprasot manuālu lejupielādi. To var izdarīt arī vēlāk sadaļā Iestatījumi.</translation>
     </message>
 </context>
 <context>

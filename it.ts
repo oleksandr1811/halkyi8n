@@ -944,6 +944,14 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Un errore fatale terrificante!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Colori tema personalizzati</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Seleziona Colore per %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1464,6 +1472,34 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
         <translation>Disabilita Scaricamento Automatico</translation>
+    </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java automatico</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Scarica automaticamente la versione Java corretta per ogni versione di Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>È stata aggiunta una nuova funzionalità che può scaricare automaticamente e passare alla versione corretta di Java per ogni istanza. Vuoi abilitarla?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Abilita il download automatico di Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Consigliato — %1 scaricherà e gestirà Java automaticamente.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Mantieni le impostazioni Java manuali</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Gestirai tu stesso l&apos;installazione e la selezione di Java.</translation>
     </message>
 </context>
 <context>
@@ -6338,6 +6374,18 @@ Puoi cambiare la versione di Java nelle impostazioni più tardi.
         <source>Select the language to use in %1</source>
         <translation>Seleziona la lingua da utilizzare su %1</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Disabilita la telemetria</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>La telemetria è disabilitata.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Abilita la telemetria</translation>
+    </message>
 </context>
 <context>
     <name>LaunchCommand</name>
@@ -7979,6 +8027,42 @@ Causa:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
         <translation>Aggiungi account Microsoft</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Account</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Aggiungi account</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Accedi per giocare a Minecraft. Puoi aggiungere altri account più tardi nelle Impostazioni.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Per favore inserisci il nome utente desiderato per aggiungere il tuo account offline.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Si prega di inserire l&apos;URL del server di autenticazione, il tuo nome utente e la password.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Account Microsoft (Minecraft: Edizione Java)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Account Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Account offline (nessuna autenticazione)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Server di autenticazione personalizzato</translation>
     </message>
 </context>
 <context>
@@ -13099,6 +13183,30 @@ Messaggio d&apos;errore: %3</translation>
         <source>Keep previous settings</source>
         <translation>Mantieni le impostazioni precedenti</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Servizio di incolla</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Il servizio predefinito di caricamento dei log è cambiato.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Il servizio predefinito per gli incolli è cambiato in mclo.gs. Scegli cosa fare con le impostazioni degli incolli esistenti.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Usa il nuovo servizio predefinito (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Consigliato — passa al nuovo servizio mclo.gs, più veloce.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>L&apos;URL del tuo servizio di incolla personalizzato esistente sarà preservato.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -16517,6 +16625,26 @@ Sei sicuro?</translation>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation>Configurazione rapida di %1</translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Avanti &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Indietro</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Finire</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Aggiorna</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Configurazione rapida</translation>
     </message>
 </context>
 <context>

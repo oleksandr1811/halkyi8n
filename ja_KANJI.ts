@@ -1301,6 +1301,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>自動Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>各Minecraftバージョンに対して正しいJavaバージョンを自動的にダウンロードします。</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>新しい機能が追加され、各インスタンスに対して正しいJavaバージョンを自動でダウンロードし切り替えることができるようになりました。有効にしますか？</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>自動的にJavaをダウンロードできるようにする</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>推奨 — %1 は Java を自動的にダウンロードして管理します。</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>手動でJavaの設定を維持する</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Javaのインストールと選択は自分で管理してください。</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6859,6 +6887,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>アカウント</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>アカウントを追加</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecraftをプレイするにはサインインしてください。後で設定でアカウントを追加することもできます。</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>オフライン アカウントを追加するには、希望のユーザー名を入力してください。</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>認証サーバーのURL、ユーザー名、パスワードを入力してください。</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft アカウント（Minecraft: Java エディション）</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by アカウント</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>オフラインアカウント（認証なし）</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>カスタム認証サーバー</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -10767,6 +10831,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>ペーストサービス</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>デフォルトのログアップロードサービスが変更されました。</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>デフォルトのペーストサービスが mclo.gs に変更されました。既存のペースト設定でどうするかを選択してください。</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>新しいデフォルトサービス（mclo.gs）を使用してください</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>推奨 — 新しく、より高速な mclo.gs サービスに切り替えてください。</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>既存のカスタムペーストサービスのURLは保持されます。</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -13863,6 +13951,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>次&gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; 戻る</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>終了</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>更新</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>クイック設定</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -16190,6 +16298,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>公式ランチャーのキーを取得</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge APIキー</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>CurseForge modpack の完全なダウンロードを有効にします。</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>警告: 公式のCurseForgeアプリのAPIキーを使用すると、CurseForgeの利用規約に違反する可能性があります。</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>キーを取得すると、%1 は手動でダウンロードすることなく、modpack 内のすべての mod を自動的にダウンロードできます。 これは、後から「設定」で行うこともできます。</translation>
     </message>
 </context>
 <context>

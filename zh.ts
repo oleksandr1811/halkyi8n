@@ -1476,6 +1476,34 @@ Some versions of Minecraft may not launch.
         <source>Disable Auto-Download</source>
         <translation>关闭自动下载</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>自动 Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>自动为每个 Minecraft 版本下载正确的 Java 版本。</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>添加了一个新功能，可以自动下载并切换到每个实例的正确 Java 版本。您想启用它吗？</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>启用自动下载 Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>推荐 — %1 将自动下载并管理 Java。</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>保持手动 Java 设置</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>你将自己管理 Java 的安装和选择。</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -8069,6 +8097,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>添加微软账户</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>账户</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>添加账户</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>登录以玩Minecraft。你可以稍后在设置中添加更多账户。</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>请输入您想要的用户名以添加您的离线账户。</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>请输入认证服务器的 URL、您的用户名和密码。</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft账户（Minecraft：Java版）</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by 帐户</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>离线账户（无需认证）</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>自定义认证服务器</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -13273,6 +13337,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation>保留以前的设置</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>粘贴服务</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>默认的日志上传服务已更改。</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>默认的粘贴服务已更改为 mclo.gs。请选择如何处理您现有的粘贴设置。</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>使用新的默认服务（mclo.gs）</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>推荐 — 切换到新的、更快速的 mclo.gs 服务。</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>您现有的自定义粘贴服务 URL 将被保留。</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -16703,6 +16791,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation>%1 快速设置</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>下一步 &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; 返回</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>完成</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>刷新</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>快速设置</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -19315,6 +19423,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>获取官方启动器密钥</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API 密钥</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>启用完整的 CurseForge 模组包下载。</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>警告：使用官方 CurseForge 应用的 API 密钥可能会违反 CurseForge 的服务条款。</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>获取密钥允许 %1 自动下载 modpack 中的所有 mod，无需手动下载。 这也可以稍后在“设置”中完成。</translation>
     </message>
 </context>
 <context>

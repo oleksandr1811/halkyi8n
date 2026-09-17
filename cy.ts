@@ -1351,6 +1351,34 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Java awtomatig</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Dadlwythwch y fersiwn Java gywir ar gyfer pob fersiwn Minecraft yn awtomatig.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Ychwanegwyd nodwedd newydd a all lawrlwytho a newid yn awtomatig i&apos;r fersiwn Java gywir ar gyfer pob achos. Hoffech chi ei alluogi?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Galluogi lawrlwytho Java yn awtomatig</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Argymhellir — bydd % 1 yn llwytho i lawr ac yn rheoli Java yn awtomatig.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Cadw gosodiadau Java â llaw</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Byddwch chi&apos;n rheoli gosod a dewis Java eich hun.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6005,6 +6033,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Cyfrif</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Ychwanegu Cyfrif</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Mewngofnodwch i chwarae Minecraft. Gallwch ychwanegu mwy o gyfrifon yn ddiweddarach yn y Gosodiadau.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Rhowch eich enw defnyddiwr dymunol i ychwanegu eich cyfrif all-lein.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Rhowch URL y gweinydd dilysu, eich enw defnyddiwr a&apos;ch cyfrinair.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Cyfrif Microsoft (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>cyfrif Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Cyfrif all-lein (dim dilysu)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Gweinydd awdurdod personol</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9532,6 +9596,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Gwasanaeth Gludo</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Mae&apos;r gwasanaeth llwytho i fyny log rhagosodedig wedi newid.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Mae&apos;r gwasanaeth past rhagosodedig wedi newid i mclo.gs. Dewiswch beth i&apos;w wneud gyda&apos;ch gosodiadau past presennol.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Defnyddio gwasanaeth diofyn newydd (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Argymhellir - newid i&apos;r gwasanaeth mclo.gs newydd, cyflymach.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Bydd eich URL gwasanaeth past personol presennol yn cael ei gadw.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12492,6 +12580,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Nesaf &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Yn ol</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Gorffen</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Adnewyddu</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Gosodiad Cyflym</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14388,6 +14496,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>Allwedd API CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Galluogi lawrlwythiadau modpack CurseForge llawn.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Rhybudd: Gall defnyddio allwedd API swyddogol app CurseForge dorri telerau gwasanaeth CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Mae nôl yr allwedd yn caniatáu i % 1 lawrlwytho pob mod mewn modpack yn awtomatig, heb fod angen lawrlwythiadau llaw. Gellir gwneud hyn hefyd yn ddiweddarach yn y Gosodiadau.</translation>
     </message>
 </context>
 <context>

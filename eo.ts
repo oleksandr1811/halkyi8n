@@ -1396,6 +1396,34 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
         <source>Disable Auto-Download</source>
         <translation>Malŝalti aŭtomate elŝuti</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Aŭtomata Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Aŭtomate elŝutu la ĝustan Java-version por ĉiu Minecraft-versio.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Nova funkcio estis aldonita, kiu povas aŭtomate elŝuti kaj ŝanĝi al la ĝusta Java versio por ĉiu kazo. Ĉu vi ŝatus ebligi ĝin?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Ebligu aŭtomatan elŝuton de Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Rekomendita — % 1 elŝutos kaj administros Java aŭtomate.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Konservu manajn Java-agordojn</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Vi mem administros Java-instaladon kaj elekton.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6694,6 +6722,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Konto</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Aldoni Konton</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Ensalutu por ludi Minecraft. Vi povas aldoni pliajn kontojn poste en Agordoj.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Bonvolu enigi vian deziratan uzantnomon por aldoni vian senkonektan konton.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Bonvolu enigi la URL de la aŭtentikiga servilo, vian uzantnomon kaj pasvorton.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Mikrosofta konto (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.per konto</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Senkonekta konto (neniu aŭtentigo)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Propra aŭtservilo</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -10533,6 +10597,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Alglui Servon</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>La defaŭlta protokolo-alŝuta servo ŝanĝiĝis.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>La defaŭlta gluservo ŝanĝiĝis al mclo.gs. Elektu kion fari kun viaj ekzistantaj algluaj agordoj.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Uzu novan defaŭltan servon (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Rekomendita — ŝanĝu al la nova, pli rapida servo mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Via ekzistanta algluita servo URL estos konservita.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -13554,6 +13642,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Sekva &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Reen</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Finu</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Refreŝigi</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Rapida Agordo</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -15615,6 +15723,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Ricevi la ŝlosilon de la oficiala klienta</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>API-Ŝlosilo de CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Ebligu plenajn elŝutojn de modpack de CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Averto: Uzado de la API-ŝlosilo de la oficiala CurseForge-apo povas malobservi la servokondiĉojn de CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Preti la ŝlosilon permesas al % 1 elŝuti ĉiujn modifojn en modpakaĵo aŭtomate, sen neceso de manaj elŝutoj. Ĉi tio ankaŭ povas esti farita poste en Agordoj.</translation>
     </message>
 </context>
 <context>

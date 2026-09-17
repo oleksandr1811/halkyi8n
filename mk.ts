@@ -1355,6 +1355,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Автоматски Јава</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Автоматски симни ја точната верзија на Јава за секоја верзија на Мајнкрафт.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Додадена е нова функција која може автоматски да ја преземе и да се префрли на точната верзија на Јава за секоја инстанца. Дали сакате да ја овозможите?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Овозможи автоматско преземање на Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Препорачано — %1 автоматски ќе ја преземе и управува Java.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Зачувај ги рачните поставки на Јава</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Сами ќе управувате со инсталацијата и изборот на Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6190,6 +6218,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Сметка</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Додадете сметка</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Најавете се за да играте Minecraft. Може да додадете повеќе сметки подоцна во Поставки.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Ве молиме внесете го саканото корисничко име за да го додадете вашиот офлајн профил.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Ве молиме внесете ја URL адресата на серверот за автентикација, вашето корисничко име и лозинка.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft сметка (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.по сметка</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Офлајн сметка (без автентикација)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Прилагоден сервер за авторизација</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9730,6 +9794,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Услуга за залепување</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Примарната услуга за поставување на евиденции е променета.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Претходната услуга за лепење е променета на mclo.gs. Изберете што да правите со вашите постоечки поставки за лепење.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Користете нова стандардна услуга (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Препорачано — преминете на новата, побрза мclo.gs услуга.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Постоечкиот URL на вашата прилагодена услуга за лепење ќе биде зачуван.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12692,6 +12780,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Следно &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Назад</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Заврши</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Освежи</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Брзо подесување</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14591,6 +14699,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Преземи го клучот на официјалниот лаунчер</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API клуч</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Овозможи целосно преземање на модпакови од CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Предупредување: Користењето на API клучот на официјалната апликација CurseForge може да претставува кршење на условите за користење на CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Преземањето на клучот му овозможува на %1 да ги преземе сите модови во модпакот автоматски, без потреба од рачно преземање. Ова може да се направи и подоцна во Поставки.</translation>
     </message>
 </context>
 <context>

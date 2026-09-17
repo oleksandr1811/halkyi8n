@@ -852,6 +852,14 @@ Ef þú ert nýr hér geturðu valið hnappinn „Bæta við Microsoft“ til a�
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[BANVÆN VILLA] Hræðilega banvæn villa!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Sérsniðnir þemalitir</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Veldu lit fyrir % 1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1315,6 +1323,34 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
         <translation>Slökkva á sjálfvirku niðurhali</translation>
+    </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Sjálfvirkt Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Sækja sjálfkrafa rétta Java útgáfu fyrir hverja Minecraft útgáfu.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Nýtt eiginleiki var bætt við sem getur sjálfkrafa halað niður og skipt yfir í rétta Java útgáfu fyrir hverja tilvik. Viltu virkja það?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Virkja sjálfvirka niðurhal Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Mælt með — %1 mun sækja og stjórna Java sjálfkrafa.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Haltu handvirkum Java-stillingum</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Þú munt sjá um uppsetningu Java og val sjálfur.</translation>
     </message>
 </context>
 <context>
@@ -5243,6 +5279,18 @@ You can change the Java version in the settings later.
         <source>Select the language to use in %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Slökktu á fjarmælingum</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>Fjarmæling er óvirk.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Virkja fjarmælingar</translation>
+    </message>
 </context>
 <context>
     <name>LaunchCommand</name>
@@ -6386,6 +6434,42 @@ Reason:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Reikningur</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Bæta við reikningi</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Skráðu þig inn til að spila Minecraft. Þú getur bætt við fleiri reikningum síðar í Stillingum.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Vinsamlegast sláðu inn notandanafn sem þú óskar eftir til að bæta við netlaust reikninginn þinn.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Vinsamlegast sláðu inn vefslóð auðkenningarþjóns, notandanafn þitt og lykilorð.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft reikningur (Minecraft: Java útgáfa)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by reikningur</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Ótengd reikningur (engin staðfesting)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Sérsniðið auðkenningarþjónusta</translation>
     </message>
 </context>
 <context>
@@ -10048,6 +10132,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Líma Þjónusta</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Sjálfgefið skráarskilaþjónusta hefur breyst.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Sjálfgefin límþjónusta hefur verið breytt í mclo.gs. Veldu hvað á að gera við núverandi límstillingar þínar.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Notaðu nýja sjálfgefna þjónustu (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Mælt með — skiptu yfir í nýju, hraðari mclo.gs þjónustuna.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Núverandi sérsniðna límþjónustuvefslóð þín verður varðveitt.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -13028,6 +13136,26 @@ Are you sure?</source>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Næsta &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Til baka</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Klára</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Endurnýja</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Hraðstilling</translation>
     </message>
 </context>
 <context>

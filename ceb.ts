@@ -1172,6 +1172,34 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
         <source>Disable Auto-Download</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Awtomatikong Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Awtomatikong i-download ang husto nga bersyon sa Java alang sa matag bersyon sa Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Usa ka bag-ong bahin ang gidugang nga awtomatikong maka-download ug makabalhin sa husto nga bersyon sa Java alang sa matag higayon. Gusto ba nimo nga i-enable kini?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>I-enable ang awtomatikong pag-download sa Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Girekomenda — %1 mo-download ug modumala sa Java awtomatik.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Ipadayon ang manwal nga mga setting sa Java</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Ikaw mismo ang modumala sa pag-instalar ug pagpili sa Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -6129,6 +6157,42 @@ Panabot:
         <source>Add Microsoft account</source>
         <translation>Pagdugang og Microsoft nga kaakohan</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Account</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Idugang ang Account</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Pag-sign in aron magdula og Minecraft. Mahimo nimong idugang ang daghang mga account sa ulahi sa Mga Setting.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Palihug isulod ang imong gusto nga username aron idugang ang imong offline nga account.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Palihug isulod ang authentication server URL, imong username ug password.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft account (Minecraft: Java Edition)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.sa asoy</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Offline nga account (walay panghimatuud)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Custom nga auth server</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9461,6 +9525,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation>Ipabilin ang nahaunang mga himutangan</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Pag-paste sa Serbisyo</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Ang default nga serbisyo sa pag-upload sa log nausab.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Ang default nga serbisyo sa pag-paste nausab sa mclo.gs. Pilia kon unsay buhaton sa imong kasamtangan nga mga setting sa pag-paste.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Gamita ang bag-ong default nga serbisyo (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Girekomenda — balhin sa bag-o, mas paspas nga serbisyo sa mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Ang imong kasamtangan nga custom paste nga serbisyo sa URL mapreserbar.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12426,6 +12514,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation>Dinaling Pagtukod sa %1</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Sunod &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Balik</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Paghuman</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>I-refresh</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Dali nga Setup</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackPage</name>
@@ -14388,6 +14496,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>CurseForge API</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>CurseForge API Key</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>I-enable ang tibuok CurseForge modpack downloads.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Pasidaan: Ang paggamit sa opisyal nga CurseForge app&apos;s API key mahimong makalapas sa mga termino sa serbisyo sa CurseForge.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Ang pagkuha sa yawe nagtugot sa %1 sa pag-download sa tanang mods sa usa ka modpack nga awtomatiko, nga wala magkinahanglan ug manual nga pag-download. Mahimo usab kini sa ulahi sa Mga Setting.</translation>
     </message>
 </context>
 <context>

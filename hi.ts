@@ -1290,6 +1290,34 @@ Some versions of Minecraft may not launch.
         <source>Disable Auto-Download</source>
         <translation>स्वचालित download सुविधा बंद करें।</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>स्वचालित जावा</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>प्रत्येक Minecraft संस्करण के लिए सही Java संस्करण स्वचालित रूप से डाउनलोड करें।</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>एक नया फीचर जोड़ा गया है जो प्रत्येक इंस्टेंस के लिए सही जावा संस्करण को स्वचालित रूप से डाउनलोड और स्विच कर सकता है। क्या आप इसे सक्षम करना चाहेंगे?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>स्वचालित जावा डाउनलोड सक्षम करें</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>सिफ़ारिश की गई — %1 स्वचालित रूप से जावा डाउनलोड और प्रबंधन करेगा।</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>मैनुअल जावा सेटिंग्स रखें</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>आप स्वयं जावा स्थापना और चयन का प्रबंधन करेंगे।</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -5984,6 +6012,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>खाता</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>खाता जोड़ें</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Minecraft खेलने के लिए साइन इन करें। आप बाद में सेटिंग्स में और खाते जोड़ सकते हैं।</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>कृपया अपना ऑफ़लाइन खाता जोड़ने के लिए अपनी पसंद का उपयोगकर्ता नाम दर्ज करें।</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>कृपया प्रमाणीकरण सर्वर URL, अपना उपयोगकर्ता नाम और पासवर्ड दर्ज करें।</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>माइक्रोसॉफ्ट खाता (माइनक्राफ्ट: जावा संस्करण)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by खाता</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>ऑफ़लाइन खाता (कोई प्रमाणीकरण नहीं)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>कस्टम ऑथ सर्वर</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -9439,6 +9503,30 @@ Are you sure?</source>
         <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>पेस्ट सेवा</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>डिफ़ॉल्ट लॉग अपलोड सेवा बदल गई है।</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>डिफ़ॉल्ट पेस्ट सेवा mclo.gs में बदल गई है। अपनी मौजूदा पेस्ट सेटिंग्स के साथ क्या करना है, यह चुनें।</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>नया डिफ़ॉल्ट सेवा (mclo.gs) उपयोग करें</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>सिफ़ारिश की जाती है — नए, तेज़ mclo.gs सेवा पर स्विच करें।</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>आपकी मौजूदा कस्टम पेस्ट सेवा URL सुरक्षित रहेगी।</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -12404,6 +12492,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>अगला &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; पीछे</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>समाप्त</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>रीफ़्रेश</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>त्वरित सेटअप</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -14293,6 +14401,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>आधिकारिक लॉन्चर की कुंजी प्राप्त करें</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>कर्सफोर्ज एपीआई</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>कर्सफोर्ज़ एपीआई कुंजी</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>पूर्ण CurseForge मोडपैक डाउनलोड सक्षम करें।</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>चेतावनी: आधिकारिक CurseForge ऐप की API कुंजी का उपयोग करना CurseForge की सेवा शर्तों का उल्लंघन कर सकता है।</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>कुंजी प्राप्त करने से %1 को मॉडपैक में सभी मॉड्स को स्वचालित रूप से डाउनलोड करने की अनुमति मिलती है, बिना मैनुअल डाउनलोड की आवश्यकता के। यह बाद में सेटिंग्स में भी किया जा सकता है।</translation>
     </message>
 </context>
 <context>

@@ -932,6 +932,14 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Egy félelmetes végzetes hiba!</translation>
     </message>
+    <message>
+        <source>Custom Theme Colors</source>
+        <translation>Egyedi témaszínek</translation>
+    </message>
+    <message>
+        <source>Select Color for %1</source>
+        <translation>Válassza ki a Színt a %1-hez</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1452,6 +1460,34 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
         <location filename="src/launcher/ui/setupwizard/AutoJavaWizardPage.ui" line="63"/>
         <source>Disable Auto-Download</source>
         <translation>Automatikus letöltés letiltása</translation>
+    </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Automatikus Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Automatikusan töltse le a megfelelő Java-verziót minden Minecraft-verzióhoz.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Új funkció került hozzáadásra, amely automatikusan letöltheti és átválthatja a megfelelő Java-verzióra minden példány esetében. Szeretné engedélyezni?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Automatikus Java letöltés engedélyezése</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Ajánlott — a %1 automatikusan letölti és kezeli a Java-t.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Manualis Java beállítások megtartása</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>A Java telepítését és kiválasztását saját maga kezeli.</translation>
     </message>
 </context>
 <context>
@@ -6344,6 +6380,18 @@ A Java-verziót később a beállítások között megváltoztathatod.
         <source>Select the language to use in %1</source>
         <translation>Válaszd ki a %1-ben használni kívánt nyelvet</translation>
     </message>
+    <message>
+        <source>Disable telemetry</source>
+        <translation>Telemetria letiltása</translation>
+    </message>
+    <message>
+        <source>Telemetry is disabled.</source>
+        <translation>A telemetria le van tiltva.</translation>
+    </message>
+    <message>
+        <source>Enable telemetry</source>
+        <translation>Telemetria engedélyezése</translation>
+    </message>
 </context>
 <context>
     <name>LaunchCommand</name>
@@ -7988,6 +8036,42 @@ Indok:
         <location filename="src/launcher/ui/setupwizard/LoginWizardPage.ui" line="50"/>
         <source>Add Microsoft account</source>
         <translation>Microsoft-fiók hozzáadása</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation>Fiók</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Fiók hozzáadása</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Jelentkezz be a Minecraft játékhoz. Később a Beállításokban adhatsz hozzá több fiókot.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Kérjük, adja meg a kívánt felhasználónevet az offline fiók hozzáadásához.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Kérjük, adja meg az hitelesítési szerver URL-jét, a felhasználónevét és jelszavát.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>Microsoft-fiók (Minecraft: Java kiadás)</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>Ely.by fiók</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>Offline fiók (hitelesítés nélküli)</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>Egyéni hitelesítési szerver</translation>
     </message>
 </context>
 <context>
@@ -13141,6 +13225,30 @@ Hibaüzenet: %3</translation>
         <source>Keep previous settings</source>
         <translation>A korábbi beállítások megtartása</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Beillesztés szolgáltatás</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Az alapértelmezett naplófeltöltő szolgáltatás megváltozott.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Az alapértelmezett beillesztési szolgáltatás megváltozott, mostantól mclo.gs. Válassza ki, mit szeretne tenni a meglévő beillesztési beállításaival.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Használja az új alapértelmezett szolgáltatást (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Ajánlott — váltson az új, gyorsabb mclo.gs szolgáltatásra.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>A meglévő egyéni beillesztési szolgáltatás URL-címe megmarad.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -16561,6 +16669,26 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
         <translation>%1 Gyorsbeállítás</translation>
+    </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Következő &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Vissza</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Befejezés</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Frissítés</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Gyors beállítás</translation>
     </message>
 </context>
 <context>
