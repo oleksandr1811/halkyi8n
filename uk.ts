@@ -1457,6 +1457,34 @@ Some versions of Minecraft may not launch.
         <source>Disable Auto-Download</source>
         <translation>Вимкнути автозавантаження</translation>
     </message>
+    <message>
+        <source>Automatic Java</source>
+        <translation>Автоматична Java</translation>
+    </message>
+    <message>
+        <source>Automatically download the correct Java version for each Minecraft version.</source>
+        <translation>Автоматично завантажувати відповідну версію Java для кожної версії Minecraft.</translation>
+    </message>
+    <message>
+        <source>A new feature was added that can automatically download and switch to the correct Java version for each instance. Would you like to enable it?</source>
+        <translation>Додано нову функцію автоматичного завантаження Java. Увімкнути?</translation>
+    </message>
+    <message>
+        <source>Enable automatic Java download</source>
+        <translation>Увімкнути автоматичне завантаження Java</translation>
+    </message>
+    <message>
+        <source>Recommended — %1 will download and manage Java automatically.</source>
+        <translation>Рекомендовано — %1 автоматично керуватиме Java.</translation>
+    </message>
+    <message>
+        <source>Keep manual Java settings</source>
+        <translation>Залишити ручне налаштування Java</translation>
+    </message>
+    <message>
+        <source>You will manage Java installation and selection yourself.</source>
+        <translation>Ви самостійно керуватимете встановленням Java.</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -7970,6 +7998,42 @@ Reason:
         <source>Add Microsoft account</source>
         <translation>Додати обліковий запис Microsoft</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation>Обліковий запис</translation>
+    </message>
+    <message>
+        <source>Add Account</source>
+        <translation>Додати обліковий запис</translation>
+    </message>
+    <message>
+        <source>Sign in to play Minecraft. You can add more accounts later in Settings.</source>
+        <translation>Увійдіть для гри. Більше акаунтів можна додати в Налаштуваннях.</translation>
+    </message>
+    <message>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation>Введіть бажане ім&apos;я для офлайн акаунту.</translation>
+    </message>
+    <message>
+        <source>Please enter authentication server URL, your username and password.</source>
+        <translation>Введіть URL сервера авторизації, ім&apos;я та пароль.</translation>
+    </message>
+    <message>
+        <source>  Microsoft account  (Minecraft: Java Edition)</source>
+        <translation>  Обліковий запис Microsoft</translation>
+    </message>
+    <message>
+        <source>  Ely.by account</source>
+        <translation>  Обліковий запис Ely.by</translation>
+    </message>
+    <message>
+        <source>  Offline account  (no authentication)</source>
+        <translation>  Офлайн акаунт</translation>
+    </message>
+    <message>
+        <source>  Custom auth server</source>
+        <translation>  Власний сервер авторизації</translation>
+    </message>
 </context>
 <context>
     <name>MMCZip::ExportToZipTask</name>
@@ -13082,6 +13146,30 @@ Error message: %3</source>
         <source>Keep previous settings</source>
         <translation>Зберегти попередні налаштування</translation>
     </message>
+    <message>
+        <source>Paste Service</source>
+        <translation>Служба публікації журналу</translation>
+    </message>
+    <message>
+        <source>The default log upload service has changed.</source>
+        <translation>Стандартну службу публікації змінено.</translation>
+    </message>
+    <message>
+        <source>The default paste service has changed to mclo.gs. Choose what to do with your existing paste settings.</source>
+        <translation>Службу змінено на mclo.gs. Виберіть, що робити зі старими налаштуваннями.</translation>
+    </message>
+    <message>
+        <source>Use new default service (mclo.gs)</source>
+        <translation>Використовувати нову (mclo.gs)</translation>
+    </message>
+    <message>
+        <source>Recommended — switch to the new, faster mclo.gs service.</source>
+        <translation>Рекомендовано — швидша служба mclo.gs.</translation>
+    </message>
+    <message>
+        <source>Your existing custom paste service URL will be preserved.</source>
+        <translation>Ваш поточний URL служби публікації буде збережено.</translation>
+    </message>
 </context>
 <context>
     <name>PixmapCache</name>
@@ -16509,6 +16597,26 @@ Are you sure?</source>
         <source>%1 Quick Setup</source>
         <translation>%1 Швидке налаштування</translation>
     </message>
+    <message>
+        <source>Next &gt;</source>
+        <translation>Далі &gt;</translation>
+    </message>
+    <message>
+        <source>&lt; Back</source>
+        <translation>&lt; Назад</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Готово</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Оновити</translation>
+    </message>
+    <message>
+        <source>Quick Setup</source>
+        <translation>Швидке налаштування</translation>
+    </message>
 </context>
 <context>
     <name>ShaderPackIndexMigrateTask</name>
@@ -19115,6 +19223,26 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/ui/setupwizard/FlameApiKeyWizardPage.cpp" line="66"/>
         <source>Fetch Official Launcher&apos;s Key</source>
         <translation>Отримати ключ офіційного лаунчера</translation>
+    </message>
+    <message>
+        <source>CurseForge API</source>
+        <translation>API CurseForge</translation>
+    </message>
+    <message>
+        <source>CurseForge API Key</source>
+        <translation>API Ключ CurseForge</translation>
+    </message>
+    <message>
+        <source>Enable full CurseForge modpack downloads.</source>
+        <translation>Увімкніть повне завантаження модпаків CurseForge.</translation>
+    </message>
+    <message>
+        <source>Warning: Using the official CurseForge app&apos;s API key may violate CurseForge&apos;s terms of service.</source>
+        <translation>Увага: використання офіційного ключа може порушувати умови використання.</translation>
+    </message>
+    <message>
+        <source>Fetching the key allows %1 to download all mods in a modpack automatically, without requiring manual downloads. This can also be done later in Settings.</source>
+        <translation>Отримання ключа дозволяє %1 швидко завантажувати всі моди в модпаках.</translation>
     </message>
 </context>
 <context>
