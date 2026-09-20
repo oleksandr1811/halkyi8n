@@ -936,6 +936,22 @@ Please update both your operating system and %1.</source>
         <source>Select Color for %1</source>
         <translation>Виберіть колір для %1</translation>
     </message>
+    <message>
+        <source>Navigation Menu Customization</source>
+        <translation>Налаштування меню навігації</translation>
+    </message>
+    <message>
+        <source>Font:</source>
+        <translation>Шрифт:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation>Розмір:</translation>
+    </message>
+    <message>
+        <source>Visible Menu Items</source>
+        <translation>Видимі пункти меню</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>

@@ -964,6 +964,22 @@ Bitte aktualisiere macOS und PolyMC.</translation>
         <source>Select Color for %1</source>
         <translation>Wählen Sie Farbe für %1 aus</translation>
     </message>
+    <message>
+        <source>Navigation Menu Customization</source>
+        <translation>Navigationsmenü-Anpassung</translation>
+    </message>
+    <message>
+        <source>Font:</source>
+        <translation>Schriftart:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation>Größe:</translation>
+    </message>
+    <message>
+        <source>Visible Menu Items</source>
+        <translation>Sichtbare Menüpunkte</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>

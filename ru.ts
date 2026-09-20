@@ -960,6 +960,22 @@ Please update both your operating system and PolyMC.</source>
         <source>Select Color for %1</source>
         <translation>Выберите цвет для %1</translation>
     </message>
+    <message>
+        <source>Navigation Menu Customization</source>
+        <translation>Настройка меню навигации</translation>
+    </message>
+    <message>
+        <source>Font:</source>
+        <translation>Шрифт:</translation>
+    </message>
+    <message>
+        <source>Size:</source>
+        <translation>Размер:</translation>
+    </message>
+    <message>
+        <source>Visible Menu Items</source>
+        <translation>Видимые пункты меню</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
