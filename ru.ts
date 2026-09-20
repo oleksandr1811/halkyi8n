@@ -19637,7 +19637,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Accounts</source>
-        <translation>Счета</translation>
+        <translation>Аккаунты</translation>
     </message>
     <message>
         <source>Folders</source>
