@@ -2,3 +2,4 @@
 /src_stable
 /build
 database.json
+.env

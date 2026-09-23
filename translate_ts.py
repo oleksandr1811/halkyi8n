@@ -13,10 +13,19 @@ Examples:
     python translate_ts.py FlameAPIKeyWizardPage "Fetch CurseForge API key"
     python translate_ts.py FlameAPIKeyWizardPage "Fetch CurseForge API key" uk ru de
     python translate_ts.py    # Retry all failed translations
+
+Configuration:
+    The DeepL API key is read from the DEEPL_API_KEY environment variable,
+    which is loaded from a ".env" file placed next to this script (or from
+    the real environment if you prefer to export it yourself). Create a
+    ".env" file next to this script with a line like:
+
+        DEEPL_API_KEY=your-deepl-api-key-here
 """
 
 import sys
 import io
+import os
 import re
 import html as _html
 import json
@@ -28,11 +37,11 @@ from datetime import datetime
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
-# DeepL API key
-DEEPL_API_KEY = "ab2341e7-213a-42cc-bbce-fb92e59d3081:fx"
+# Directory the script lives in (used for .env, database.json, and *.ts globbing)
+SCRIPT_DIR = Path(__file__).parent
 
 # Database file for failed translations
-DB_FILE = Path(__file__).parent / "database.json"
+DB_FILE = SCRIPT_DIR / "database.json"
 
 
 # ─── dependency bootstrap ────────────────────────────────────────────────────
@@ -52,6 +61,49 @@ def _get_translators():
         import deepl
         from deep_translator import GoogleTranslator
         return deepl, GoogleTranslator
+
+
+def _get_dotenv():
+    """Install (if needed) and return the load_dotenv function from python-dotenv."""
+    try:
+        from dotenv import load_dotenv
+        return load_dotenv
+    except ImportError:
+        import subprocess
+        print("📦  Installing python-dotenv...")
+        subprocess.check_call(
+            [sys.executable, "-m", "pip", "install", "python-dotenv"],
+        )
+        from dotenv import load_dotenv
+        return load_dotenv
+
+
+def load_deepl_api_key() -> str:
+    """
+    Load the DeepL API key from a .env file next to this script (or from
+    whatever is already in the environment). Exits with a clear error
+    message if the key is missing.
+    """
+    load_dotenv = _get_dotenv()
+
+    env_path = SCRIPT_DIR / ".env"
+    if env_path.exists():
+        load_dotenv(dotenv_path=env_path)
+    else:
+        # Fall back to any .env discoverable from the current working
+        # directory, and otherwise just rely on real environment variables.
+        load_dotenv()
+
+    api_key = os.getenv("DEEPL_API_KEY")
+
+    if not api_key:
+        print("❌  DEEPL_API_KEY not found.")
+        print(f"    Create a file at: {env_path}")
+        print("    with contents:")
+        print("        DEEPL_API_KEY=your-deepl-api-key-here")
+        sys.exit(1)
+
+    return api_key
 
 
 # ─── database management ─────────────────────────────────────────────────────
@@ -541,8 +593,12 @@ def main():
         filter_langs = None
 
     deepl, GoogleTranslator = _get_translators()
-    deepl_translator = deepl.Translator(DEEPL_API_KEY)
-    ts_dir = Path(__file__).parent
+
+    # Load DeepL API key from .env (or environment)
+    deepl_api_key = load_deepl_api_key()
+    deepl_translator = deepl.Translator(deepl_api_key)
+
+    ts_dir = SCRIPT_DIR
 
     # Load the failed translations database
     db = load_database()
