@@ -14790,7 +14790,7 @@ Wil je deze als onderdeel van deze update verwijderen?</translation>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="70"/>
         <source>Cannot rename instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>De map van de instantie kan niet worden hernoemd</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceDirUpdate.cpp" line="71"/>
