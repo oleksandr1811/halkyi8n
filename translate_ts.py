@@ -399,13 +399,24 @@ def patch_ts_file(
 
     ctx_body = ctx_match.group(2)
 
-    # Inside that block, find source + unfinished translation
+    # Inside that block, find source + any translation (unfinished or finished)
+    # First try to find unfinished translation
     msg_re = re.compile(
         r'(<source>' + re.escape(xml_source) + r'</source>\s*)'
-        r'(<translation type="unfinished"></translation>)',
+        r'(<translation type="unfinished">.*?</translation>)',
         re.DOTALL,
     )
     msg_match = msg_re.search(ctx_body)
+
+    # If not found, try to find finished translation
+    if not msg_match:
+        msg_re = re.compile(
+            r'(<source>' + re.escape(xml_source) + r'</source>\s*)'
+            r'(<translation>.*?</translation>)',
+            re.DOTALL,
+        )
+        msg_match = msg_re.search(ctx_body)
+
     if not msg_match:
         return False
 

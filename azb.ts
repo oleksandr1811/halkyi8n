@@ -13372,7 +13372,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>No instances available</source>
-        <translation>Əlçatan nümunə yoxdur</translation>
+        <translation>Heç bir nümunə əlçatan deyil</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>

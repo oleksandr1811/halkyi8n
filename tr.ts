@@ -19699,7 +19699,7 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation>Örnek yok</translation>
+        <translation>Mevcut örnek yok</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>

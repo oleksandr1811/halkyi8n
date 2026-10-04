@@ -15115,7 +15115,7 @@ Hesabınızı %1 ə əsasən düzəldin.</translation>
     </message>
     <message>
         <source>No instances available</source>
-        <translation>Əlçatan nümunə yoxdur</translation>
+        <translation>Heç bir nümunə əlçatan deyil</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>

@@ -18001,7 +18001,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>No instances available</source>
-        <translation>لا توجد حالات متاحة</translation>
+        <translation>لا توجد أمثلة متاحة</translation>
     </message>
     <message>
         <source>Tip: Clicking &apos;Browse Modpacks...&apos; will open the full modpack browser where you can install any pack from Modrinth, CurseForge, FTB and more.</source>
