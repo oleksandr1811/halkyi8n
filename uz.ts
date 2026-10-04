@@ -4684,7 +4684,7 @@ Ishonchingiz komilmi?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo&apos;sh xotira yetarli bo&apos;lmaganda ogohlantiring</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>

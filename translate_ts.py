@@ -47,20 +47,20 @@ DB_FILE = SCRIPT_DIR / "database.json"
 # ─── dependency bootstrap ────────────────────────────────────────────────────
 
 def _get_translators():
-    """Install and return both DeepL and Google translators."""
+    """Install and return DeepL translator and requests library."""
     try:
         import deepl
-        from deep_translator import GoogleTranslator
-        return deepl, GoogleTranslator
+        import requests
+        return deepl, requests
     except ImportError:
         import subprocess
-        print("📦  Installing deepl and deep-translator...")
+        print("📦  Installing deepl and requests...")
         subprocess.check_call(
-            [sys.executable, "-m", "pip", "install", "deepl", "deep-translator"],
+            [sys.executable, "-m", "pip", "install", "deepl", "requests"],
         )
         import deepl
-        from deep_translator import GoogleTranslator
-        return deepl, GoogleTranslator
+        import requests
+        return deepl, requests
 
 
 def _get_dotenv():
@@ -288,12 +288,33 @@ _HTML_RE = re.compile(
 )
 
 
+def translate_google(text: str, src: str = "en", dst: str = "uk", requests_module=None) -> str:
+    """
+    Translate text using unofficial Google Translate API.
+    Args:
+        text: Text to translate
+        src: Source language code (default: "en")
+        dst: Target language code
+        requests_module: The requests module (passed in to avoid import issues)
+    Returns:
+        Translated text
+    """
+    r = requests_module.get(
+        "https://translate.googleapis.com/translate_a/single",
+        params={"client": "gtx", "sl": src, "tl": dst, "dt": "t", "q": text},
+        headers={"User-Agent": "Mozilla/5.0"},
+        timeout=10,
+    )
+    r.raise_for_status()
+    return "".join(part[0] for part in r.json()[0])
+
+
 def do_translate(
     plain_text: str,
     deepl_code: str | None,
     google_code: str | None,
     deepl_translator,
-    GoogleTranslator,
+    requests_module,
     lang_key: str
 ) -> tuple[str, str]:
     """
@@ -324,17 +345,23 @@ def do_translate(
             translated = result.text
             method = "deepl"
         except Exception as e:
-            # Check if it's a quota exceeded error
-            if "quota" in str(e).lower() or "limit" in str(e).lower():
+            # Check if it's a quota/limit/auth error - fallback to Google if available
+            error_str = str(e).lower()
+            if ("quota" in error_str or "limit" in error_str or
+                "authorization" in error_str or "forbidden" in error_str or "auth" in error_str):
                 if google_code:
-                    translated = GoogleTranslator(source="en", target=google_code).translate(text_to_translate)
+                    # Add delay before Google Translate fallback to avoid rate limits
+                    time.sleep(1.0)
+                    translated = translate_google(text_to_translate, src="en", dst=google_code, requests_module=requests_module)
                     method = "google"
                 else:
                     raise
             else:
                 raise
     elif google_code:
-        translated = GoogleTranslator(source="en", target=google_code).translate(text_to_translate)
+        # Add delay for Google Translate to avoid rate limits (0.5-1s between requests)
+        time.sleep(0.8)
+        translated = translate_google(text_to_translate, src="en", dst=google_code, requests_module=requests_module)
         method = "google"
     else:
         raise ValueError(f"No translation method available for {lang_key}")
@@ -440,7 +467,7 @@ def process_translation(
     lang_key: str,
     ts_path: Path,
     deepl_translator,
-    GoogleTranslator,
+    requests_module,
     db: dict,
     retry_on_fail: bool = True
 ) -> tuple[bool, str, str | None]:
@@ -455,8 +482,10 @@ def process_translation(
     if lang_key in COPY_FROM_SOURCE:
         new_translation_xml = xml_source
         replaced = patch_ts_file(ts_path, context_name, xml_source, new_translation_xml)
+        # Remove from database regardless of whether the file was changed
+        # (skip means it was already translated before)
+        remove_successful_translation(db, context_name, xml_source, lang_key)
         if replaced:
-            remove_successful_translation(db, context_name, xml_source, lang_key)
             return True, "✅ (English copy)", None
         return False, "skip", None
 
@@ -474,7 +503,7 @@ def process_translation(
             deepl_code,
             google_code,
             deepl_translator,
-            GoogleTranslator,
+            requests_module,
             lang_key
         )
 
@@ -483,9 +512,11 @@ def process_translation(
         new_translation_xml = xml_escape(translated_plain)
         replaced = patch_ts_file(ts_path, context_name, xml_source, new_translation_xml)
 
+        # Remove from database regardless of whether the file was changed
+        # (skip means it was already translated before)
+        remove_successful_translation(db, context_name, xml_source, lang_key)
+
         if replaced:
-            # Success! Remove from failed database
-            remove_successful_translation(db, context_name, xml_source, lang_key)
             preview = translated_plain if not translated_plain.startswith("<html") else \
                       re.sub(r'<[^>]+>', '', translated_plain).strip()
             status = f"{emoji}  [{lang_key:16}] {preview[:55]}{'…' if len(preview) > 55 else ''}"
@@ -506,7 +537,7 @@ def process_translation(
                     deepl_code,
                     google_code,
                     deepl_translator,
-                    GoogleTranslator,
+                    requests_module,
                     lang_key
                 )
 
@@ -514,8 +545,10 @@ def process_translation(
                 new_translation_xml = xml_escape(translated_plain)
                 replaced = patch_ts_file(ts_path, context_name, xml_source, new_translation_xml)
 
+                # Remove from database regardless of whether the file was changed
+                remove_successful_translation(db, context_name, xml_source, lang_key)
+
                 if replaced:
-                    remove_successful_translation(db, context_name, xml_source, lang_key)
                     preview = translated_plain if not translated_plain.startswith("<html") else \
                               re.sub(r'<[^>]+>', '', translated_plain).strip()
                     status = f"{emoji}  [{lang_key:16}] {preview[:55]} (retry✓)"
@@ -534,7 +567,7 @@ def process_translation(
         return False, f"⚠️  error: {error_msg[:40]}", error_msg
 
 
-def retry_all_failed(db, ts_dir, deepl_translator, GoogleTranslator):
+def retry_all_failed(db, ts_dir, deepl_translator, requests_module):
     """Retry all failed translations from the database"""
     if not db:
         return 0, 0
@@ -561,13 +594,17 @@ def retry_all_failed(db, ts_dir, deepl_translator, GoogleTranslator):
 
             success, status, error = process_translation(
                 ctx, xml_src, plain_src, lang_key, ts_path,
-                deepl_translator, GoogleTranslator, db,
+                deepl_translator, requests_module, db,
                 retry_on_fail=False  # Don't double-retry on database retries
             )
 
-            if success:
+            # Count both success=True and skip as successful (skip means already translated)
+            if success or status == "skip":
                 total_success += 1
-                print(f"  {status} (attempt #{attempt_count + 1})")
+                if success:
+                    print(f"  {status} (attempt #{attempt_count + 1})")
+                else:
+                    print(f"  ✅  [{lang_key:16}] skip (already translated) (attempt #{attempt_count + 1})")
             else:
                 print(f"  ❌  [{lang_key:16}] {status} (attempt #{attempt_count + 1})")
 
@@ -592,7 +629,7 @@ def main():
         source_input = None
         filter_langs = None
 
-    deepl, GoogleTranslator = _get_translators()
+    deepl, requests_module = _get_translators()
 
     # Load DeepL API key from .env (or environment)
     deepl_api_key = load_deepl_api_key()
@@ -611,7 +648,7 @@ def main():
 
         print(f"\n🔄  Retry-only mode: Processing {len(db)} failed source(s) from database\n")
 
-        total_retried, total_success = retry_all_failed(db, ts_dir, deepl_translator, GoogleTranslator)
+        total_retried, total_success = retry_all_failed(db, ts_dir, deepl_translator, requests_module)
         total_failed = total_retried - total_success
 
         save_database(db)
@@ -631,7 +668,7 @@ def main():
     # First, retry ALL failed translations from database
     if db:
         print()
-        db_retried, db_success = retry_all_failed(db, ts_dir, deepl_translator, GoogleTranslator)
+        db_retried, db_success = retry_all_failed(db, ts_dir, deepl_translator, requests_module)
         if db_retried > 0:
             print(f"  📊  Database retry: {db_success}/{db_retried} successful\n")
 
@@ -657,7 +694,7 @@ def main():
 
         success, status, error = process_translation(
             context_name, xml_source, plain_source, lang_key, ts_path,
-            deepl_translator, GoogleTranslator, db,
+            deepl_translator, requests_module, db,
             retry_on_fail=True  # Enable automatic retry before adding to database
         )
 
@@ -668,6 +705,8 @@ def main():
             elif "🔶" in status:
                 google_count += 1
             print(f"  {status}")
+            # Immediately save database after each successful translation
+            save_database(db)
         elif status == "unsupported":
             unsupported += 1
         elif status == "skip":
@@ -675,6 +714,8 @@ def main():
         elif "⚠️" in status:
             errors += 1
             print(f"  ❌  [{lang_key:16}] {status}")
+            # Immediately save database after each failed translation
+            save_database(db)
 
     # Save the database with any new failures
     save_database(db)

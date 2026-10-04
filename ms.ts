@@ -5672,7 +5672,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="351"/>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Beri amaran apabila memori kosong tidak mencukupi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="371"/>
